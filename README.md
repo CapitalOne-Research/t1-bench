@@ -310,4 +310,4 @@ If you use T1-Bench in your research, please cite the associated paper:
 
 ## 📬 Contact
 
-For questions or to discuss extensions of this work, reach out to reach out to [Genta Indra Winata](mailto:genta.winata@capitalone.com) and [Amartya Chakraborty](mailto:amartya.chakraborty@capitalone.com)
+For questions or to discuss extensions of this work, reach out to reach out to [Genta Indra Winata](mailto:gentaindrawinata@gmail.com) and [Amartya Chakraborty](mailto:chakrab.amartya@gmail.com)
