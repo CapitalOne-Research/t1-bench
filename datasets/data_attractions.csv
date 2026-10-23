@@ -1,0 +1,737 @@
+,city,state,name,type,latitude,longitude,rating
+0,New York,NY,Metropolitan Museum of Art,Art,40.7794,-73.9631,4.0
+1,New York,NY,Times Square,Social,40.7575,-73.98583333,3.4
+2,New York,NY,9/11 Memorial & Museum,Historical,40.71166667,-74.01361111,4.5
+3,New York,NY,Rockefeller Center,Tourist,40.75861111,-73.97916667,4.6
+4,New York,NY,Museum of Modern Art,Art,40.76166667,-73.9775,3.8
+5,New York,NY,Grand Central Terminal,Tourist,40.75277778,-73.97722222,4.5
+6,New York,NY,New York Public Library,Culture,40.75305556,-73.98194444,3.6
+7,New York,NY,One World Trade Center,Tourist,40.71305556,-74.01333333,5.0
+8,New York,NY,Coney Island,Social,40.575,-73.9825,2.9
+9,New York,NY,Yankee Stadium,Sports,40.82916667,-73.92638889,3.9
+10,New York,NY,Madison Square Garden,Sports,40.75055556,-73.99361111,3.2
+11,New York,NY,Katz's Delicatessen,Food,40.722327,-73.987422,3.5
+12,New York,NY,Peter Luger Steak House,Food,40.7099,-73.9626,4.0
+13,Los Angeles,CA,Universal Studios Hollywood,Tourist,34.136518,-118.356051,4.6
+14,Los Angeles,CA,Griffith Observatory,Scenery,34.11833333,-118.30033333,3.4
+15,Los Angeles,CA,Santa Monica Pier,Social,34.00861111,-118.49861111,3.2
+16,Los Angeles,CA,Venice Beach,Scenery,33.99083333,-118.45916667,4.7
+17,Los Angeles,CA,Los Angeles County Museum of Art,Art,34.06333333,-118.35916667,4.1
+18,Los Angeles,CA,Dodger Stadium,Sports,34.07361111,-118.24,2.8
+19,Los Angeles,CA,Staples Center,Sports,34.04305556,-118.26722222,3.0
+20,Los Angeles,CA,Rodeo Drive,Social,34.06923056,-118.40298889,4.0
+21,Los Angeles,CA,Beverly Hills,Social,34.07305556,-118.39944444,4.9
+22,Los Angeles,CA,The Original Farmers Market,Food,34.0725,-118.36027778,3.6
+23,Los Angeles,CA,The Apple Pan,Food,34.04066667,-118.4278,3.4
+24,Los Angeles,CA,Runyon Canyon Park,Scenery,34.11,-118.35,4.2
+25,Los Angeles,CA,California Science Center,Culture,34.01555556,-118.28583333,3.1
+26,Chicago,IL,Willis Tower,Tourist,41.8789,-87.6358,3.9
+27,Chicago,IL,Millennium Park,Scenery,41.8825,-87.6225,3.7
+28,Chicago,IL,Art Institute of Chicago,Art,41.87944444,-87.62388889,4.7
+29,Chicago,IL,Navy Pier,Social,41.89138889,-87.59972222,4.9
+30,Chicago,IL,The Magnificent Mile,Social,41.89535,-87.62432,3.5
+31,Chicago,IL,Chicago Riverwalk,Scenery,41.8883,-87.6218,4.3
+32,Chicago,IL,Field Museum,Culture,41.86611111,-87.61694444,4.5
+33,Chicago,IL,Adler Planetarium,Culture,41.86638889,-87.60666667,3.3
+34,Chicago,IL,Lincoln Park Zoo,Culture,41.92138889,-87.63388889,4.6
+35,Chicago,IL,The Second City,Culture,41.91151,-87.63506,3.3
+36,Chicago,IL,Lou Mitchell's,Food,41.87722222,-87.64166667,4.1
+37,Chicago,IL,United Center,Sports,41.88055556,-87.67416667,3.6
+38,Chicago,IL,Soldier Field,Sports,41.8623,-87.6167,3.4
+39,Houston,TX,Space Center Houston,Culture,29.5518812,-95.0983429,4.9
+40,Houston,TX,Houston Museum of Natural Science,Culture,29.7216,-95.3896,2.9
+41,Houston,TX,The Galleria,Social,29.7407,-95.4636,4.5
+42,Houston,TX,Houston Zoo,Culture,29.71613167,-95.39056944,4.0
+43,Houston,TX,Kemah Boardwalk,Social,29.54777778,-95.01722222,4.5
+44,Houston,TX,Houston Livestock Show and Rodeo,Culture,29.68472222,-95.41083333,4.3
+45,Houston,TX,Minute Maid Park,Sports,29.75694444,-95.35555556,3.4
+46,Houston,TX,Toyota Center,Sports,29.75083333,-95.36222222,3.9
+47,Houston,TX,The Menil Collection,Art,29.73722222,-95.39861111,3.8
+48,Houston,TX,Children's Museum of Houston,Culture,29.72269444,-95.38502778,4.7
+49,Houston,TX,Houston Arboretum and Nature Center,Scenery,29.7652,-95.452,4.0
+50,Houston,TX,Buffalo Bayou Park,Scenery,29.7638,-95.0816,3.9
+51,Phoenix,AZ,Desert Botanical Garden,Scenery,33.46194444,-111.94472222,4.6
+52,Phoenix,AZ,Heard Museum,Culture,33.47361111,-112.07361111,4.6
+53,Phoenix,AZ,Phoenix Art Museum,Art,33.466749,-112.072655,3.9
+54,Phoenix,AZ,Chase Field,Sports,33.44527778,-112.06694444,4.5
+55,Phoenix,AZ,Talking Stick Resort Arena,Sports,33.44583333,-112.07138889,4.7
+56,Phoenix,AZ,Camelback Mountain,Scenery,33.51472385,-111.96160421,4.9
+57,Phoenix,AZ,Rosson House Museum,Historical,33.4502,-112.066,4.6
+58,Phoenix,AZ,Hall of Flame Fire Museum,Culture,33.447385,-111.95336,4.3
+59,Phoenix,AZ,Castles N' Coasters,Social,33.5723,-112.1188,4.9
+60,Phoenix,AZ,Enchanted Island Amusement Park,Social,33.474533,-112.0899603,3.6
+61,Phoenix,AZ,Pizzeria Bianco,Food,33.44921,-112.06564,3.1
+62,Philadelphia,PA,Liberty Bell,Historical,39.94944444,-75.15027778,3.9
+63,Philadelphia,PA,Philadelphia Museum of Art,Art,39.96583333,-75.18138889,3.8
+64,Philadelphia,PA,One Liberty Observation Deck,Scenery,39.9526,-75.1681,4.7
+65,Philadelphia,PA,Reading Terminal Market,Food,39.953395,-75.159008,5.0
+66,Philadelphia,PA,Elfreth's Alley,Historical,39.9528,-75.1425,3.6
+67,Philadelphia,PA,Eastern State Penitentiary,Historical,39.96833333,-75.1725,3.3
+68,Philadelphia,PA,Please Touch Museum,Culture,39.9795,-75.2092,4.2
+69,Philadelphia,PA,Pat's King of Steaks,Food,39.933175,-75.159238,3.3
+70,Philadelphia,PA,Geno's Steaks,Food,39.933702,-75.158898,3.1
+71,Philadelphia,PA,Citizens Bank Park,Sports,39.90583333,-75.16638889,3.0
+72,Philadelphia,PA,Lincoln Financial Field,Sports,39.90083333,-75.1675,4.7
+73,Philadelphia,PA,The Barnes Foundation,Art,39.9605,-75.1727,2.8
+74,Philadelphia,PA,Boathouse Row,Scenery,39.969578,-75.187478,3.1
+75,San Antonio,TX,The Alamo,Historical,29.42555556,-98.48611111,3.7
+76,San Antonio,TX,River Walk,Scenery,40.73333333,-73.97305556,4.7
+77,San Antonio,TX,San Antonio Missions National Historical Park,Historical,29.36166667,-98.48027778,4.2
+78,San Antonio,TX,Tower of the Americas,Scenery,29.418888,-98.483611,3.6
+79,San Antonio,TX,San Antonio Zoo and Aquarium,Culture,29.4648,-98.4719,4.5
+80,San Antonio,TX,Natural Bridge Caverns,Scenery,29.69198889,-98.34285,2.9
+81,San Antonio,TX,Japanese Tea Gardens,Scenery,37.770122,-122.470231,3.9
+82,San Antonio,TX,AT&T Center,Sports,29.42694444,-98.4375,3.0
+83,San Antonio,TX,Alamodome,Sports,29.41694444,-98.47888889,3.6
+84,San Antonio,TX,Henry B. González Convention Center,Social,29.42083333,-98.48472222,4.3
+85,San Diego,CA,Balboa Park,Culture,32.73138889,-117.14527778,4.9
+86,San Diego,CA,USS Midway Museum,Historical,32.71445,-117.17315,5.0
+87,San Diego,CA,Gaslamp Quarter,Social,32.71166667,-117.15916667,4.2
+88,San Diego,CA,La Jolla Cove,Scenery,32.85055556,-117.27222222,5.0
+89,San Diego,CA,Belmont Park,Social,40.715,-73.72277778,3.6
+90,San Diego,CA,Petco Park,Sports,32.7073,-117.1566,3.8
+91,San Diego,CA,San Diego Harbor,Scenery,32.65,-117.19,3.7
+92,San Diego,CA,Museum of Contemporary Art San Diego,Art,32.84444444,-117.27805556,4.1
+93,San Diego,CA,San Diego Museum of Man,Culture,32.7317567,-117.1528655,4.8
+94,San Diego,CA,Torrey Pines State Natural Reserve,Scenery,32.921,-117.2532,4.8
+95,San Diego,CA,Cabrillo National Monument,Historical,32.67305556,-117.23861111,2.8
+96,San Diego,CA,Old Town San Diego,Historical,32.757625,-117.19558611,4.2
+97,San Diego,CA,Lucha Libre Gourmet Taco Shop,Food,32.7433,-117.1816,4.2
+98,San Diego,CA,Qualcomm Stadium,Sports,32.78305556,-117.11944444,4.8
+99,Dallas,TX,The Sixth Floor Museum at Dealey Plaza,Historical,32.77972222,-96.80833333,2.9
+100,Dallas,TX,Dallas Arboretum and Botanical Garden,Scenery,32.82138889,-96.7175,4.2
+101,Dallas,TX,Perot Museum of Nature and Science,Culture,32.78689,-96.80665,3.9
+102,Dallas,TX,Dallas World Aquarium,Culture,32.78345556,-96.80512778,4.4
+103,Dallas,TX,Reunion Tower,Scenery,32.7753,-96.8089,2.9
+104,Dallas,TX,AT&T Stadium,Sports,32.74777778,-97.09277778,3.4
+105,Dallas,TX,Dallas Museum of Art,Art,32.78805556,-96.80166667,4.6
+106,Dallas,TX,Nasher Sculpture Center,Art,32.7882,-96.8002,4.9
+107,Dallas,TX,Klyde Warren Park,Scenery,32.789486,-96.801589,3.1
+108,Dallas,TX,Deep Ellum,Social,32.78444444,-96.78055556,4.5
+109,Dallas,TX,Galleria Dallas,Social,32.93,-96.81944444,2.8
+110,Dallas,TX,Dallas Farmers Market,Food,32.77759,-96.789467,4.3
+111,Dallas,TX,Pecan Lodge,Food,32.78364,-96.78385,4.5
+112,Dallas,TX,American Airlines Center,Sports,32.79055556,-96.81027778,3.3
+113,Dallas,TX,Globe Life Park in Arlington,Sports,32.75138889,-97.08277778,4.3
+114,Jacksonville,FL,Kingsley Plantation,Historical,30.43833333,-81.43805556,2.9
+115,Jacksonville,FL,Riverside Park,Scenery,40.80416667,-73.97,3.6
+116,Jacksonville,FL,Little Talbot Island State Park,Scenery,30.45194444,-81.41888889,3.3
+117,Jacksonville,FL,Amelia Island,Scenery,30.61555556,-81.45388889,4.3
+118,Jacksonville,FL,EverBank Stadium,Sports,30.32388889,-81.6375,2.9
+119,Jacksonville,FL,TIAA Bank Field,Sports,30.32388889,-81.6375,3.9
+120,Jacksonville,FL,The Florida Theatre,Culture,30.32628,-81.65563,3.4
+121,Jacksonville,FL,San Marco Square,Social,45.43388889,12.33805556,4.2
+122,Jacksonville,FL,Timucuan Ecological and Historic Preserve,Historical,30.45445,-81.44988,3.6
+123,Austin,TX,Zilker Park,Scenery,30.26361111,-97.77666667,4.2
+124,Austin,TX,South Congress Avenue,Culture,30.25,-97.75,3.6
+125,Austin,TX,Franklin Barbecue,Food,30.270079,-97.731312,4.5
+126,Austin,TX,Lady Bird Lake,Scenery,30.25083333,-97.71361111,4.5
+127,Austin,TX,Barton Springs Pool,Scenery,30.2639,-97.77,4.3
+128,Austin,TX,LBJ Presidential Library,Historical,30.2857,-97.7292,2.8
+129,Austin,TX,Hope Outdoor Gallery,Art,30.26722222,-97.74305556,3.2
+130,Fort Worth,TX,Fort Worth Stockyards National Historic District,Historical,32.79027778,-97.34611111,4.7
+131,Fort Worth,TX,Sundance Square,Social,32.75888889,-97.32722222,4.5
+132,Fort Worth,TX,Kimbell Art Museum,Art,32.74856889,-97.36492111,3.8
+133,Fort Worth,TX,Fort Worth Zoo,Tourist,32.7219,-97.3566,4.2
+134,Fort Worth,TX,National Cowgirl Museum and Hall of Fame,Culture,32.74333333,-97.36916667,3.9
+135,Fort Worth,TX,AT&T Stadium,Sports,32.74777778,-97.09277778,4.0
+136,Fort Worth,TX,Bass Performance Hall,Culture,32.75492,-97.33001,3.9
+137,San Jose,CA,Rosicrucian Egyptian Museum,Culture,37.3342,-121.9233,4.8
+138,San Jose,CA,San Jose Museum of Art,Art,37.333488,-121.890364,4.9
+139,San Jose,CA,Santana Row,Social,37.32027778,-121.94777778,4.5
+140,San Jose,CA,The Tech Museum of Innovation,Tourist,37.3314374,-121.8907276,3.1
+141,San Jose,CA,Avaya Stadium,Sports,53.33527778,-6.22833333,3.2
+142,San Jose,CA,Children's Discovery Museum of San Jose,Tourist,37.32668,-121.89177,4.5
+143,San Jose,CA,Japanese American Museum of San Jose,Culture,37.34754,-121.89347,4.6
+144,San Jose,CA,San Jose Flea Market,Social,37.36922,-121.8789,4.1
+145,San Jose,CA,Happy Hollow Park & Zoo,Tourist,37.32568056,-121.86205556,4.4
+146,Columbus,OH,Columbus Zoo and Aquarium,Tourist,40.156266,-83.118403,3.5
+147,Columbus,OH,Center of Science and Industry,Tourist,39.95968889,-83.00689194,4.2
+148,Columbus,OH,Franklin Park Conservatory and Botanical Gardens,Scenery,39.965859,-82.95289,4.3
+149,Columbus,OH,Short North,Social,39.97972,-83.00471,4.8
+150,Columbus,OH,Ohio Statehouse,Historical,39.96138889,-82.99888889,4.5
+151,Columbus,OH,Columbus Museum of Art,Art,39.964315,-82.98789306,4.4
+152,Columbus,OH,Goodale Park,Scenery,39.97519444,-83.00680556,4.0
+153,Columbus,OH,Columbus Commons,Scenery,39.95854389,-82.99873389,2.8
+154,Columbus,OH,Nationwide Arena,Sports,39.96928333,-83.00611111,2.8
+155,Charlotte,NC,NASCAR Hall of Fame,Sports,35.221599,-80.843277,3.5
+156,Charlotte,NC,Carowinds,Tourist,35.10277778,-80.94166667,3.1
+157,Charlotte,NC,Freedom Park,Scenery,25.793145,-80.259003,4.9
+158,Charlotte,NC,NoDa Neighborhood,Social,35.246,-80.805,4.9
+159,Charlotte,NC,Mint Museum,Art,35.1974,-80.8146,4.0
+160,Charlotte,NC,Bechtler Museum of Modern Art,Art,35.2244,-80.8473,4.0
+161,Charlotte,NC,U.S. National Whitewater Center,Sports,35.27233333,-81.00508333,4.8
+162,Charlotte,NC,Levine Museum of the New South,Culture,35.22444444,-80.84666667,5.0
+163,Charlotte,NC,Bank of America Stadium,Sports,35.22583333,-80.85277778,5.0
+164,Indianapolis,IN,Indianapolis Motor Speedway,Sports,39.79833333,-86.23277778,4.4
+165,Indianapolis,IN,Indianapolis Cultural Trail,Culture,39.77686111,-86.16094444,3.8
+166,Indianapolis,IN,Children's Museum of Indianapolis,Tourist,39.81083333,-86.1575,3.5
+167,Indianapolis,IN,Indianapolis Zoo,Tourist,39.76694444,-86.17694444,3.2
+168,Indianapolis,IN,Eiteljorg Museum of American Indians and Western Art,Art,39.76830556,-86.16780556,4.4
+169,Indianapolis,IN,White River State Park,Scenery,39.76666667,-86.16972222,3.3
+170,Indianapolis,IN,Monument Circle,Historical,39.76833333,-86.15805556,4.9
+171,Indianapolis,IN,Indianapolis Museum of Art,Art,39.8259,-86.1855,3.2
+172,Indianapolis,IN,St. Elmo Steak House,Food,39.764817,-86.159645,3.3
+173,Indianapolis,IN,Bankers Life Fieldhouse,Sports,39.76388889,-86.15555556,4.7
+174,Indianapolis,IN,Lucas Oil Stadium,Sports,39.76005556,-86.16380556,2.9
+175,Indianapolis,IN,Victory Field,Sports,39.765,-86.16833333,3.0
+176,Indianapolis,IN,Eagle Creek Park,Scenery,39.855556,-86.294167,4.5
+177,San Francisco,CA,Alcatraz Island,Historical,37.82666667,-122.42277778,3.8
+178,San Francisco,CA,Pier 39,Tourist,37.81,-122.4104,2.8
+179,San Francisco,CA,de Young Museum,Art,37.77146889,-122.46867611,4.8
+180,San Francisco,CA,San Francisco Museum of Modern Art,Art,37.7858,-122.401,3.3
+181,San Francisco,CA,AT&T Park,Sports,37.77861111,-122.38916667,4.7
+182,San Francisco,CA,Haight-Ashbury,Culture,37.77,-122.4469,4.8
+183,San Francisco,CA,The Painted Ladies,Scenery,37.77638889,-122.43305556,2.9
+184,San Francisco,CA,The Ferry Building Marketplace,Food,37.7955,-122.3937,4.0
+185,San Francisco,CA,Ghirardelli Square,Food,37.8059,-122.423,4.1
+186,San Francisco,CA,The Exploratorium,Tourist,37.8014,-122.3976,5.0
+187,San Francisco,CA,The Walt Disney Family Museum,Tourist,37.801095,-122.458487,3.2
+188,Seattle,WA,Pike Place Market,Food,47.60944444,-122.34166667,4.3
+189,Seattle,WA,Seattle Waterfront,Scenery,47.60638889,-122.33972222,3.4
+190,Seattle,WA,Chihuly Garden and Glass,Art,47.62062,-122.35007,5.0
+191,Seattle,WA,Seattle Art Museum,Art,47.60722222,-122.33805556,3.2
+192,Seattle,WA,Seattle Great Wheel,Tourist,47.6061,-122.3425,4.4
+193,Seattle,WA,Kerry Park,Scenery,47.62944444,-122.36,2.9
+194,Seattle,WA,Seattle Aquarium,Tourist,47.6075,-122.34305556,4.2
+195,Seattle,WA,Woodland Park Zoo,Tourist,47.66834,-122.34984,3.3
+196,Seattle,WA,Seattle Center,Culture,47.6225,-122.3525,4.2
+197,Seattle,WA,The Gum Wall,Social,47.60833333,-122.34027778,4.4
+198,Seattle,WA,The Original Starbucks,Food,47.6099,-122.34244,3.2
+199,Seattle,WA,CenturyLink Field,Sports,47.5952,-122.3316,4.8
+200,Seattle,WA,Seattle Central Library,Culture,47.606699,-122.332503,4.5
+201,Denver,CO,Denver Art Museum,Art,39.73718806,-104.989345,3.0
+202,Denver,CO,History Colorado Center,Historical,39.736099,-104.986956,3.2
+203,Denver,CO,Denver Zoo,Tourist,39.75,-104.95,3.7
+204,Denver,CO,Denver Museum of Nature & Science,Tourist,39.7475,-104.9425,5.0
+205,Denver,CO,Red Rocks Park and Amphitheatre,Scenery,39.66527778,-105.20583333,3.0
+206,Denver,CO,Mount Evans,Scenery,39.5883,-105.6438,3.7
+207,Denver,CO,Coors Field,Sports,39.75611111,-104.99416667,3.8
+208,Denver,CO,Sports Authority Field at Mile High,Sports,39.74388889,-105.02,2.8
+209,Denver,CO,Pepsi Center,Sports,39.74861111,-105.0075,3.0
+210,Denver,CO,Confluence Park,Scenery,39.752997,-105.011766,3.8
+211,Denver,CO,Denver Botanic Gardens,Scenery,39.7325,-104.96083333,4.6
+212,Denver,CO,The Denver Central Market,Food,39.7392,-104.9849,4.0
+213,Oklahoma City,OK,National Cowboy & Western Heritage Museum,Art,35.53555556,-97.48305556,4.4
+214,Oklahoma City,OK,Oklahoma City National Memorial & Museum,Historical,35.47277778,-97.51722222,2.9
+215,Oklahoma City,OK,Myriad Botanical Gardens,Scenery,35.4652,-97.5179,4.4
+216,Oklahoma City,OK,Oklahoma City Zoo and Botanical Garden,Tourist,35.5212,-97.4724,4.7
+217,Oklahoma City,OK,Science Museum Oklahoma,Tourist,35.5236,-97.4751,3.3
+218,Oklahoma City,OK,Chesapeake Energy Arena,Sports,35.46333333,-97.515,3.4
+219,Oklahoma City,OK,Oklahoma City Museum of Art,Art,35.46972222,-97.52055556,4.0
+220,Oklahoma City,OK,The Plaza District,Social,32.77861111,-96.80861111,4.7
+221,Oklahoma City,OK,The Paseo Arts District,Art,35.49944444,-97.5225,4.3
+222,Oklahoma City,OK,Martin Park Nature Center,Scenery,40.7746,-96.7768,4.0
+223,Oklahoma City,OK,Lake Hefner,Scenery,35.56782,-97.59574,4.1
+224,Oklahoma City,OK,Oklahoma History Center,Historical,35.494,-97.4999,4.1
+225,Oklahoma City,OK,Cattlemen's Steakhouse,Food,35.4523839,-97.5548525,3.4
+226,Nashville,TN,Country Music Hall of Fame and Museum,Culture,36.15833333,-86.77611111,3.1
+227,Nashville,TN,The Bluebird Cafe,Food,36.10202778,-86.81683333,3.1
+228,Nashville,TN,Ryman Auditorium,Art,36.16127778,-86.7785,4.4
+229,Nashville,TN,Belle Meade Plantation,Historical,36.10555556,-86.865,4.7
+230,Nashville,TN,Edwin Warner Park,Scenery,36.06305556,-86.89166667,5.0
+231,Nashville,TN,Nashville Zoo at Grassmere,Tourist,36.08919444,-86.74372222,4.3
+232,Nashville,TN,Cheekwood Estate and Gardens,Art,36.08666667,-86.87388889,3.7
+233,Nashville,TN,Johnny Cash Museum,Culture,36.16111111,-86.77583333,3.9
+234,Nashville,TN,Tennessee State Capitol,Historical,36.16583333,-86.78416667,4.9
+235,Nashville,TN,Nissan Stadium,Sports,36.16638889,-86.77138889,3.3
+236,Nashville,TN,Tootsie's Orchid Lounge,Food,36.1608,-86.77823,3.2
+237,Nashville,TN,Nashville Public Library,Culture,36.1621,-86.7817,3.1
+238,Nashville,TN,Bicentennial Capitol Mall State Park,Scenery,36.1707,-86.7875,3.6
+239,Washington,DC,Lincoln Memorial,Historical,38.88927778,-77.05013889,4.4
+240,Washington,DC,Smithsonian National Air and Space Museum,Culture,38.88833333,-77.02,3.0
+241,Washington,DC,National Gallery of Art,Art,38.89138889,-77.02,4.8
+242,Washington,DC,World War II Memorial,Historical,38.88944444,-77.04055556,3.8
+243,Washington,DC,Vietnam Veterans Memorial,Historical,38.89111111,-77.04777778,3.6
+244,Washington,DC,Korean War Veterans Memorial,Historical,38.88777778,-77.04722222,3.5
+245,Washington,DC,National Museum of Natural History,Culture,38.8913,-77.0259,4.4
+246,Washington,DC,Georgetown Waterfront,Scenery,38.902155,-77.061893,4.5
+247,Washington,DC,Kennedy Center,Art,38.8957,-77.0559,4.3
+248,Washington,DC,Arlington National Cemetery,Historical,38.87916667,-77.07222222,5.0
+249,Washington,DC,National Museum of American History,Culture,38.89111111,-77.03,3.5
+250,Washington,DC,United States Botanic Garden,Scenery,38.888,-77.013,4.9
+251,Washington,DC,Tidal Basin,Scenery,38.88416667,-77.03916667,4.4
+252,Washington,DC,National Museum of Women in the Arts,Art,38.90005111,-77.029315,3.0
+253,El Paso,TX,Hueco Tanks State Park & Historic Site,Scenery,31.92027778,-106.03861111,4.1
+254,El Paso,TX,El Paso Mission Trail,Historical,31.69083333,-106.32722222,3.1
+255,El Paso,TX,Fort Bliss,Historical,31.801847,-106.424608,4.0
+256,El Paso,TX,El Paso Zoo,Tourist,31.7684,-106.4429,3.0
+257,El Paso,TX,Wyler Aerial Tramway,Scenery,31.80888889,-106.47805556,3.9
+258,El Paso,TX,Franklin Mountains State Park,Scenery,31.88361111,-106.50222222,4.7
+259,El Paso,TX,El Paso Museum of Art,Art,31.7586,-106.4903,3.0
+260,El Paso,TX,Chamizal National Memorial,Historical,31.76777778,-106.45416667,3.1
+261,El Paso,TX,Sun Bowl Stadium,Sports,31.773,-106.508,5.0
+263,El Paso,TX,Magoffin Home State Historic Site,Historical,31.7625,-106.47694444,5.0
+264,El Paso,TX,Western Playland Amusement Park,Tourist,37.77333333,-122.51194444,3.6
+265,El Paso,TX,El Paso Downtown Artist and Farmers Market,Social,31.75916667,-106.48861111,3.9
+266,El Paso,TX,Cohen Stadium,Sports,31.891195,-106.438272,4.9
+267,El Paso,TX,El Paso Museum of History,Culture,31.759998,-106.491637,3.1
+268,El Paso,TX,Sunland Park Mall,Social,31.816907,-106.54642,3.7
+269,Las Vegas,NV,Fountains of Bellagio,Scenery,36.112904,-115.173866,3.7
+270,Las Vegas,NV,High Roller Observation Wheel,Tourist,36.117698,-115.16815,4.2
+271,Las Vegas,NV,Red Rock Canyon National Conservation Area,Scenery,36.135574,-115.42724,3.9
+272,Las Vegas,NV,The Mob Museum,Culture,36.172823,-115.141252,3.2
+273,Las Vegas,NV,Fremont Street Experience,Social,36.17083333,-115.14416667,4.5
+274,Las Vegas,NV,The LINQ Promenade,Social,36.1175,-115.17277778,4.6
+275,Las Vegas,NV,Mandalay Bay Beach,Scenery,36.09166667,-115.17472222,4.1
+276,Las Vegas,NV,Shark Reef Aquarium at Mandalay Bay,Tourist,36.0903327,-115.1765442,4.4
+277,Las Vegas,NV,The Mirage Volcano,Scenery,36.12111111,-115.17527778,3.1
+278,Las Vegas,NV,Adventuredome at Circus Circus,Tourist,36.13694444,-115.16333333,4.8
+279,Las Vegas,NV,Ethel M Chocolate Factory,Food,36.073,-115.072,3.5
+280,Las Vegas,NV,Las Vegas Springs Preserve,Scenery,36.17277778,-115.18944444,3.3
+281,Las Vegas,NV,Clark County Heritage Museum,Culture,36.01027778,-114.94527778,3.1
+282,Las Vegas,NV,T-Mobile Arena,Sports,36.10277778,-115.17833333,3.3
+283,Las Vegas,NV,Sam Boyd Stadium,Sports,36.086,-115.017,3.3
+284,Boston,MA,Faneuil Hall Marketplace,Social,42.36,-71.05625,4.2
+285,Boston,MA,Quincy Market,Food,42.36,-71.055,3.0
+286,Boston,MA,Boston Common,Scenery,42.355,-71.06555556,3.7
+287,Boston,MA,Museum of Fine Arts,Art,42.33944444,-71.09416667,4.3
+288,Boston,MA,New England Aquarium,Tourist,42.35916667,-71.04944444,2.9
+289,Boston,MA,Fenway Park,Sports,42.34625,-71.09775,2.9
+290,Boston,MA,Boston Public Garden,Scenery,42.35416667,-71.07,4.6
+291,Boston,MA,USS Constitution Museum,Historical,42.37388889,-71.05527778,4.8
+292,Boston,MA,Bunker Hill Monument,Historical,42.37636111,-71.06077778,3.0
+293,Boston,MA,Museum of Science,Culture,42.3675,-71.07111111,4.4
+294,Boston,MA,Harvard University,Culture,42.37444444,-71.11694444,3.9
+295,Boston,MA,Cambridge Common,Scenery,42.37651,-71.12049,4.7
+296,Boston,MA,Boston Harbor Islands,Scenery,42.31861111,-70.94583333,3.4
+297,Boston,MA,Boston Tea Party Ships & Museum,Historical,42.3536,-71.0524,4.0
+298,Boston,MA,Prudential Center,Social,40.73361111,-74.17111111,3.8
+299,Detroit,MI,Belle Isle Park,Scenery,42.34027778,-82.98666667,5.0
+300,Detroit,MI,Motown Museum,Culture,42.36416667,-83.08833333,4.5
+301,Detroit,MI,Comerica Park,Sports,42.33916667,-83.04861111,3.1
+302,Detroit,MI,Detroit Institute of Arts,Art,42.35942,-83.06457611,4.3
+303,Detroit,MI,Charles H. Wright Museum of African American History,Culture,42.35900833,-83.06096111,3.0
+304,Detroit,MI,Renaissance Center,Tourist,42.3289,-83.0397,4.8
+305,Detroit,MI,Detroit RiverWalk,Scenery,42.3275,-83.04361111,4.1
+306,Portland,OR,Pittock Mansion,Historical,45.525,-122.71638889,3.8
+307,Portland,OR,Portland Japanese Garden,Scenery,45.51872,-122.708,4.6
+308,Portland,OR,Powell's City of Books,Culture,45.52334444,-122.68158611,4.8
+309,Portland,OR,Portland Art Museum,Art,45.5162,-122.6835,4.3
+310,Portland,OR,Pioneer Courthouse Square,Social,45.51887,-122.6793,4.8
+311,Portland,OR,Oregon Museum of Science and Industry,Tours,45.50833333,-122.66555556,3.1
+312,Portland,OR,Lan Su Chinese Garden,Culture,45.52565,-122.67299,3.0
+313,Louisville,KY,Louisville Mega Cavern,Tours,38.201585,-85.704127,5.0
+314,Louisville,KY,Muhammad Ali Center,Culture,38.25816667,-85.76005556,4.7
+315,Louisville,KY,Louisville Slugger Museum & Factory,Historical,38.25713889,-85.76358333,3.0
+316,Louisville,KY,Frazier History Museum,Historical,38.257727,-85.764519,3.3
+317,Louisville,KY,Louisville Nature Center,Scenery,38.2095,-85.7111,3.3
+318,Louisville,KY,Speed Art Museum,Art,38.21786111,-85.76091667,4.6
+319,Memphis,TN,National Civil Rights Museum,Historical,35.1345,-90.0576,2.8
+320,Memphis,TN,Sun Studio,Culture,35.13924722,-90.03767778,4.3
+321,Memphis,TN,Memphis Zoo,Scenery,35.15,-89.9943,4.7
+322,Memphis,TN,Stax Museum of American Soul Music,Culture,35.115976,-90.031456,4.8
+323,Memphis,TN,Overton Park,Scenery,35.14638889,-89.98916667,3.3
+324,Memphis,TN,FedExForum,Sports,35.13833333,-90.05055556,4.2
+325,Baltimore,MD,Inner Harbor,Tourist,39.283494,-76.609897,4.2
+326,Baltimore,MD,Fort McHenry,Historical,39.2633,-76.5799,2.9
+327,Baltimore,MD,National Aquarium,Scenery,39.284398,-76.606936,3.8
+328,Baltimore,MD,Baltimore Museum of Art,Art,39.32611111,-76.61916667,4.6
+329,Baltimore,MD,Oriole Park at Camden Yards,Sports,39.28388889,-76.62166667,3.3
+330,Baltimore,MD,Fell's Point,Social,39.28305556,-76.59277778,3.7
+331,Baltimore,MD,American Visionary Art Museum,Art,39.28027778,-76.60694444,3.9
+332,Baltimore,MD,Baltimore and Ohio Railroad Museum,Historical,39.28539444,-76.63239722,3.2
+333,Baltimore,MD,Lexington Market,Food,39.29189,-76.62175,4.7
+334,Baltimore,MD,Druid Hill Park,Scenery,39.32305556,-76.64472222,2.8
+335,Milwaukee,WI,Milwaukee Art Museum,Art,43.04,-87.89694444,3.0
+336,Milwaukee,WI,Lakefront Brewery,Food,43.054683,-87.905105,3.2
+337,Milwaukee,WI,Miller Park,Sports,43.02833333,-87.97111111,4.7
+338,Milwaukee,WI,Harley-Davidson Museum,Culture,43.04611111,-87.96,5.0
+339,Milwaukee,WI,Pabst Mansion,Historical,43.03926944,-87.93798333,4.1
+340,Milwaukee,WI,Mitchell Park Horticultural Conservatory,Scenery,43.026432,-87.945963,4.7
+341,Milwaukee,WI,Milwaukee RiverWalk,Scenery,43.04045278,-87.91113889,3.1
+342,Milwaukee,WI,Potawatomi Hotel & Casino,Social,43.030418,-87.934822,4.9
+343,Albuquerque,NM,Sandia Peak Tramway,Scenery,35.19055556,-106.47944444,5.0
+344,Albuquerque,NM,Albuquerque BioPark,Tourist,35.0781,-106.6632,3.0
+345,Albuquerque,NM,Old Town Albuquerque,Historical,35.09611111,-106.66986111,3.6
+346,Albuquerque,NM,Indian Pueblo Cultural Center,Culture,35.1105,-106.6588,4.7
+347,Albuquerque,NM,Petroglyph National Monument,Historical,35.13583333,-106.76194444,3.0
+348,Albuquerque,NM,ABQ BioPark Zoo,Tourist,35.0776,-106.6627,3.2
+349,Albuquerque,NM,Albuquerque Museum,Art,35.0975,-106.66777778,4.2
+350,Albuquerque,NM,Isotopes Park,Sports,35.06972222,-106.62916667,3.6
+351,Tucson,AZ,Saguaro National Park,Scenery,32.17916667,-110.73694444,3.5
+352,Tucson,AZ,Arizona-Sonora Desert Museum,Tourist,32.24388889,-111.16805556,3.1
+353,Tucson,AZ,Tucson Mountain Park,Scenery,32.225,-111.11666667,3.0
+354,Tucson,AZ,Mission San Xavier del Bac,Historical,32.107,-111.008,3.6
+355,Tucson,AZ,Reid Park Zoo,Tourist,32.208,-110.92,3.8
+356,Tucson,AZ,Pima Air & Space Museum,Tourist,32.13894444,-110.86869444,4.4
+357,Tucson,AZ,University of Arizona Campus,Culture,33.4172,-111.9365,5.0
+358,Tucson,AZ,El Presidio San Agustín del Tucson,Historical,32.22166667,-110.92638889,5.0
+359,Fresno,CA,Forestiere Underground Gardens,Historical,36.80722222,-119.88083333,4.6
+360,Fresno,CA,Fresno Chaffee Zoo,Tourist,36.7522,-119.8215,2.9
+361,Fresno,CA,Tower District,Social,36.75,-119.76666667,3.3
+362,Fresno,CA,Fresno Art Museum,Art,36.7708,-119.7739,3.0
+363,Fresno,CA,Fresno Convention Center,Social,36.73365,-119.78347,2.9
+364,Fresno,CA,Meux Home Museum,Historical,36.739746,-119.782391,3.5
+365,Fresno,CA,Fresno State University Campus,Culture,36.81333333,-119.75,3.5
+366,Fresno,CA,Save Mart Center,Sports,36.809722,-119.738611,3.8
+367,Sacramento,CA,Old Sacramento,Historical,38.58277778,-121.50333333,4.8
+368,Sacramento,CA,California State Railroad Museum,Tourist,38.58472222,-121.50444444,3.6
+369,Sacramento,CA,Sacramento Zoo,Tourist,38.539605,-121.504026,4.9
+370,Sacramento,CA,Golden 1 Center,Sports,38.58036111,-121.49961111,3.2
+371,Sacramento,CA,Crocker Art Museum,Art,38.57694444,-121.505,5.0
+372,Sacramento,CA,State Capitol and Capitol Park,Historical,47.03583333,-122.90472222,4.2
+373,Sacramento,CA,Sutter's Fort,Historical,38.57247222,-121.47122222,4.0
+374,Sacramento,CA,Raley Field,Sports,38.58037222,-121.5138,3.1
+375,Sacramento,CA,The Delta King,Social,38.58277778,-121.50694444,3.4
+376,Sacramento,CA,Sacramento River Delta,Scenery,38.067975,-121.8427354,3.6
+377,Mesa,AZ,Mesa Grande Cultural Park,Historical,33.43415,-111.845271,3.1
+378,Mesa,AZ,Mesa Arts Center,Art,33.414,-111.8305,5.0
+379,Mesa,AZ,Desert Botanical Garden,Scenery,33.46194444,-111.94472222,3.4
+380,Mesa,AZ,Organ Stop Pizza,Food,33.3928,-111.8078,3.3
+381,Mesa,AZ,Mesa Riverview,Social,33.43541111,-111.86538056,3.9
+382,Mesa,AZ,Mesa Historical Museum,Historical,33.4585,-111.8132,3.5
+383,Mesa,AZ,Red Mountain Park,Scenery,33.4454,-86.8622,3.6
+384,Mesa,AZ,Dobson Ranch Golf Course,Sports,33.374,-111.872,2.9
+385,Atlanta,GA,Georgia Aquarium,Tourist,33.76277778,-84.39472222,4.9
+386,Atlanta,GA,Martin Luther King Jr. National Historical Park,Historical,33.755,-84.37222222,4.5
+387,Atlanta,GA,Piedmont Park,Scenery,33.78611111,-84.37333333,4.7
+388,Atlanta,GA,Centennial Olympic Park,Social,33.760042,-84.393229,3.2
+389,Atlanta,GA,High Museum of Art,Art,33.790047,-84.385566,3.9
+390,Atlanta,GA,Zoo Atlanta,Tourist,33.7325,-84.36972222,4.2
+391,Atlanta,GA,Stone Mountain Park,Scenery,33.80594444,-84.14542222,3.9
+392,Atlanta,GA,SkyView Atlanta,Tourist,33.760042,-84.393229,4.6
+393,Atlanta,GA,Mercedes-Benz Stadium,Sports,33.75555556,-84.4,3.9
+394,Kansas City,MO,National World War I Museum and Memorial,Historical,39.08027778,-94.58611111,3.2
+395,Kansas City,MO,Kansas City Zoo,Tourist,39.00694444,-94.52916667,4.0
+396,Kansas City,MO,Country Club Plaza,Social,39.041323,-94.591813,3.8
+397,Kansas City,MO,Arrowhead Stadium,Sports,39.04888889,-94.48388889,2.8
+398,Kansas City,MO,Kauffman Stadium,Sports,39.05138889,-94.48055556,3.8
+399,Kansas City,MO,National Museum of Toys and Miniatures,Culture,39.0308,-94.5822,4.2
+400,Kansas City,MO,Crown Center,Social,39.080995,-94.581442,4.1
+401,Colorado Springs,CO,Garden of the Gods,Scenery,38.867769,-104.8910877,4.4
+402,Colorado Springs,CO,United States Air Force Academy,Historical,38.9985,-104.8541,4.1
+403,Colorado Springs,CO,Manitou Cliff Dwellings,Historical,38.8634,-104.9124,4.3
+404,Colorado Springs,CO,Colorado Springs Fine Arts Center,Art,38.84583333,-104.82555556,3.9
+405,Colorado Springs,CO,Seven Falls,Scenery,38.77888889,-104.88,4.9
+406,Colorado Springs,CO,Cheyenne Mountain Zoo,Tourist,38.77,-104.855,3.4
+407,Colorado Springs,CO,Old Colorado City,Social,38.8467,-104.8619,3.0
+408,Colorado Springs,CO,Red Rock Canyon Open Space,Scenery,38.85277778,-104.87972222,2.8
+409,Omaha,NE,Henry Doorly Zoo and Aquarium,Tourist,41.224703,-95.928701,4.9
+410,Omaha,NE,Lauritzen Gardens,Scenery,41.234397,-95.916116,2.9
+411,Omaha,NE,Bob Kerrey Pedestrian Bridge,Scenery,41.265634,-95.92231,4.7
+412,Omaha,NE,Fontenelle Forest Nature Center,Scenery,41.18,-95.91777778,3.3
+413,Raleigh,NC,North Carolina State Capitol,Historical,35.78036111,-78.63911111,5.0
+414,Raleigh,NC,North Carolina Museum of Natural Sciences,Culture,35.7821858,-78.6394221,3.4
+415,Raleigh,NC,JC Raulston Arboretum,Scenery,35.7945,-78.6991,3.7
+416,Raleigh,NC,Contemporary Art Museum,Art,41.8972,-87.6212,4.4
+417,Raleigh,NC,Raleigh Union Station,Social,35.7772,-78.6472,4.5
+418,Raleigh,NC,Glenwood South,Social,35.78492603,-78.64732996,4.1
+419,Raleigh,NC,North Carolina Museum of Art,Art,35.81019444,-78.70288889,3.1
+420,Raleigh,NC,PNC Arena,Sports,35.80333333,-78.72194444,3.9
+421,Miami,FL,South Beach,Scenery,25.781875,-80.136262,4.6
+422,Miami,FL,Wynwood Walls,Art,25.804,-80.199,2.8
+423,Miami,FL,Vizcaya Museum and Gardens,Historical,25.74361111,-80.21027778,4.5
+424,Miami,FL,Everglades National Park,Scenery,25.3125,-80.6875,4.5
+425,Miami,FL,Little Havana,Culture,25.77257778,-80.21458889,4.1
+426,Miami,FL,Miami Beach Boardwalk,Scenery,25.7919,-80.1294,3.6
+427,Miami,FL,Joe's Stone Crab,Food,25.76916667,-80.135,2.8
+428,Miami,FL,American Airlines Arena,Sports,25.78138889,-80.18805556,3.3
+429,Virginia Beach,VA,Virginia Beach Boardwalk,Scenery,36.8425,-75.9725,3.8
+430,Virginia Beach,VA,First Landing State Park,Scenery,36.90611111,-76.01527778,3.3
+431,Virginia Beach,VA,Cape Henry Lighthouse,Historical,36.92555556,-76.00833333,5.0
+432,Virginia Beach,VA,Virginia Aquarium & Marine Science Center,Culture,36.82105,-75.98377,2.8
+433,Virginia Beach,VA,Mount Trashmore Park,Scenery,36.831,-76.1232,3.9
+434,Virginia Beach,VA,Lynnhaven Mall,Social,36.81638889,-76.07111111,4.8
+435,Long Beach,CA,Long Beach Aquarium of the Pacific,Culture,33.76216,-118.19692,4.8
+436,Long Beach,CA,Shoreline Village,Social,47.75638889,-122.34527778,3.3
+437,Long Beach,CA,Long Beach Museum of Art,Art,33.7635,-118.1648,4.5
+438,Long Beach,CA,Naples Canals,Scenery,33.75388889,-118.12222222,4.3
+439,Long Beach,CA,Long Beach Harbor,Scenery,33.755,-118.215,4.8
+440,Long Beach,CA,Pike Outlets,Social,33.76611111,-118.18916667,4.3
+441,Long Beach,CA,Long Beach Arena,Sports,33.76388889,-118.18833333,3.3
+442,Oakland,CA,Lake Merritt,Scenery,37.8039,-122.2591,3.8
+443,Oakland,CA,Jack London Square,Social,37.7942,-122.2747,4.2
+444,Oakland,CA,Oakland Museum of California,Culture,37.7986,-122.2636,2.9
+445,Oakland,CA,Redwood Regional Park,Scenery,37.81355556,-122.16591667,3.5
+446,Oakland,CA,Children's Fairyland,Culture,37.809,-122.2599,3.5
+447,Oakland,CA,Oakland Zoo,Culture,37.7508,-122.1477,4.8
+448,Oakland,CA,Fox Theater,Art,34.062684,-118.447407,4.7
+449,Oakland,CA,Oracle Arena,Sports,37.75027778,-122.20305556,3.6
+450,Minneapolis,MN,Minnehaha Falls,Scenery,44.915,-93.21,3.6
+451,Minneapolis,MN,Walker Art Center,Art,44.96805556,-93.28861111,3.7
+452,Minneapolis,MN,Minneapolis Sculpture Garden,Art,44.97027778,-93.28888889,4.5
+453,Minneapolis,MN,Target Field,Sports,44.98166667,-93.27833333,4.6
+454,Minneapolis,MN,Theodore Wirth Park,Scenery,44.99,-93.323,4.4
+455,Minneapolis,MN,Weisman Art Museum,Art,44.97277778,-93.23805556,4.3
+456,Minneapolis,MN,Mill District,Social,44.978333,-93.256389,3.9
+457,Bakersfield,CA,Buck Owens' Crystal Palace,Culture,35.386,-119.043,4.0
+458,Bakersfield,CA,Murray Family Farms,Food,40.748,-73.978,4.3
+459,Bakersfield,CA,Fox Theater,Culture,34.062684,-118.447407,4.0
+460,Bakersfield,CA,Kern River County Park,Scenery,35.26777778,-119.30694444,4.7
+461,Bakersfield,CA,McMurtrey Aquatic Center,Sports,35.369954,-119.013047,3.8
+462,Bakersfield,CA,Bakersfield Speedway,Sports,35.34,-118.72,3.9
+463,Tulsa,OK,Philbrook Museum of Art,Art,36.12388889,-95.97,4.0
+464,Tulsa,OK,Gilcrease Museum,Historical,36.17472222,-96.02138889,2.9
+465,Tulsa,OK,Tulsa Zoo and Living Museum,Scenery,36.20868,-95.92978,3.1
+466,Tulsa,OK,Tulsa Air and Space Museum,Historical,36.20694444,-95.89555556,4.1
+467,Tulsa,OK,Mohawk Park,Scenery,36.15541667,-95.98986111,3.5
+468,Tulsa,OK,ONEOK Field,Sports,36.15972222,-95.98805556,5.0
+469,Tulsa,OK,Tulsa Performing Arts Center,Culture,36.15416667,-95.98944444,4.6
+470,Tulsa,OK,Utica Square,Social,36.13194444,-95.96388889,4.0
+471,Tampa,FL,Florida Aquarium,Scenery,27.94416667,-82.445,3.5
+472,Tampa,FL,Henry B. Plant Museum,Historical,27.94547222,-82.46401389,2.9
+473,Tampa,FL,Ybor City,Culture,27.96138889,-82.445,4.5
+474,Tampa,FL,Tampa Riverwalk,Scenery,27.944696,-82.458767,4.5
+475,Tampa,FL,Raymond James Stadium,Sports,27.97583333,-82.50333333,4.0
+476,Tampa,FL,Amalie Arena,Sports,27.94277778,-82.45194444,3.8
+477,Tampa,FL,Tampa Theatre,Culture,27.95,-82.45888889,3.2
+478,Tampa,FL,International Plaza and Bay Street,Social,27.964447,-82.520748,4.5
+479,Arlington,TX,AT&T Stadium,Sports,32.74777778,-97.09277778,4.8
+480,Arlington,TX,Globe Life Park in Arlington,Sports,32.75138889,-97.08277778,3.9
+481,Arlington,TX,Six Flags Over Texas,Tourist,32.7557,-97.07022222,3.2
+482,Arlington,TX,Arlington Museum of Art,Art,32.755,-97.08194444,3.6
+483,Arlington,TX,The Parks Mall at Arlington,Social,32.68,-97.1295,3.6
+484,Arlington,TX,Arlington Highlands,Social,32.705,-97.12277778,4.4
+485,Arlington,TX,Levitt Pavilion Arlington,Culture,32.705,-97.12277778,3.0
+486,Wichita,KS,Sedgwick County Zoo,Tourist,37.7158,-97.4104,3.9
+487,Wichita,KS,Exploration Place,Tourist,37.69,-97.35,3.7
+488,Wichita,KS,Old Town Wichita,Historical,37.68888889,-97.33611111,4.8
+489,Wichita,KS,Wichita Art Museum,Art,37.695,-97.35638889,4.4
+490,Wichita,KS,"Botanica, The Wichita Gardens",Scenery,37.6961,-97.3638,4.9
+491,Wichita,KS,Intrust Bank Arena,Sports,37.68305556,-97.33138889,3.0
+492,Wichita,KS,Century II Performing Arts & Convention Center,Social,37.684876,-97.340283,2.8
+493,Aurora,CO,Aurora History Museum,Historical,39.7294,-104.8319,4.1
+494,Aurora,CO,Aurora Fox Arts Center,Art,39.73972222,-104.8725,4.9
+495,Aurora,CO,Cherry Creek State Park,Scenery,39.63055556,-104.84583333,4.6
+496,Aurora,CO,Aurora Reservoir,Scenery,39.61916667,-104.66111111,3.6
+497,Aurora,CO,Aurora Municipal Center,Social,41.77194444,-88.47555556,4.6
+498,Aurora,CO,Morrison Nature Center,Scenery,39.7294,-104.8319,3.3
+499,Aurora,CO,Aurora Sports Park,Sports,39.7294,-104.8319,5.0
+500,New Orleans,LA,French Quarter,Historical,29.95861111,-90.065,4.8
+501,New Orleans,LA,National WWII Museum,Historical,29.94305556,-90.07027778,3.2
+502,New Orleans,LA,Bourbon Street,Social,29.959,-90.0653,4.9
+503,New Orleans,LA,Jackson Square,Scenery,29.9575,-90.06305556,3.6
+504,New Orleans,LA,New Orleans Museum of Art,Art,29.98638889,-90.09341667,4.9
+505,New Orleans,LA,Cafe du Monde,Food,29.957515,-90.061823,4.7
+506,New Orleans,LA,Preservation Hall,Culture,29.9583,-90.0654,4.4
+507,New Orleans,LA,New Orleans Jazz National Historical Park,Culture,29.96305556,-90.06805556,2.9
+508,New Orleans,LA,Mercedes-Benz Superdome,Sports,29.95083333,-90.08111111,3.1
+509,Cleveland,OH,Rock and Roll Hall of Fame,Culture,41.50861111,-81.69555556,4.0
+510,Cleveland,OH,Cleveland Museum of Art,Art,41.50888889,-81.61166667,4.2
+511,Cleveland,OH,West Side Market,Food,41.48444444,-81.70305556,4.9
+512,Cleveland,OH,Cleveland Metroparks Zoo and RainForest,Tourist,41.447,-81.712,4.1
+513,Cleveland,OH,USS Cod Submarine Memorial,Historical,41.51005,-81.69164,3.3
+514,Cleveland,OH,Playhouse Square,Social,41.50083333,-81.68083333,3.5
+515,Cleveland,OH,Progressive Field,Sports,41.49583333,-81.68527778,4.1
+516,Cleveland,OH,FirstEnergy Stadium,Sports,41.50611111,-81.69944444,4.0
+517,Cleveland,OH,Cleveland Museum of Natural History,Tourist,41.51155556,-81.61308333,4.1
+518,Honolulu,HI,Waikiki Beach,Scenery,21.2752,-157.8312,4.8
+519,Honolulu,HI,Pearl Harbor and USS Arizona Memorial,Historical,21.365,-157.95,4.4
+520,Honolulu,HI,Hanauma Bay Nature Preserve,Scenery,21.27138889,-157.69444444,4.9
+521,Honolulu,HI,Diamond Head State Monument,Scenery,21.26194444,-157.80555556,3.0
+522,Honolulu,HI,Bishop Museum,Culture,21.33333333,-157.87061111,3.0
+523,Honolulu,HI,Honolulu Museum of Art,Art,21.30388889,-157.84861111,3.9
+524,Honolulu,HI,Iolani Palace,Historical,21.30666667,-157.85888889,3.4
+525,Honolulu,HI,Aloha Tower,Scenery,21.30708333,-157.86597222,3.8
+526,Honolulu,HI,Honolulu Zoo,Tourist,21.2709,-157.8192,5.0
+527,Anaheim,CA,Knott's Berry Farm,Tourist,33.844178,-118.000267,3.9
+528,Anaheim,CA,Angel Stadium,Sports,33.80027778,-117.88277778,3.3
+529,Anaheim,CA,Honda Center,Sports,33.80777778,-117.87666667,4.0
+530,Anaheim,CA,The Anaheim Packing District,Food,33.831457,-117.912104,4.8
+531,Anaheim,CA,Oak Canyon Nature Center,Scenery,33.83742,-117.75342,3.3
+532,Anaheim,CA,City National Grove of Anaheim,Social,33.803164,-117.885681,3.3
+533,Anaheim,CA,Downtown Anaheim,Culture,33.833914,-117.915446,3.1
+534,Henderson,NV,Lake Las Vegas,Scenery,36.102,-114.9295,4.8
+535,Henderson,NV,Ethel M Chocolate Factory,Food,36.073,-115.072,3.3
+536,Henderson,NV,Clark County Heritage Museum,Historical,36.01027778,-114.94527778,3.7
+537,Henderson,NV,Water Street District,Social,41.13805556,-77.44944444,3.9
+538,Henderson,NV,Henderson Multigenerational Center,Culture,36.03333333,-114.98333333,3.9
+539,Henderson,NV,Acacia Demonstration Gardens,Scenery,36.0304,-115.0153,3.9
+540,Henderson,NV,Henderson Bird Viewing Preserve,Scenery,36.03333333,-114.98333333,3.6
+541,Henderson,NV,The District at Green Valley Ranch,Social,36.02098889,-115.09105556,2.8
+542,Orlando,FL,Universal Orlando Resort,Tourist,28.47361111,-81.46666667,3.9
+543,Orlando,FL,Gatorland,Tourist,28.3557,-81.404,3.6
+544,Orlando,FL,Kennedy Space Center Visitor Complex,Historical,28.5233,-80.6819,3.9
+545,Orlando,FL,Orlando Science Center,Culture,28.572321,-81.368394,3.6
+546,Orlando,FL,Lake Eola Park,Scenery,28.54361111,-81.37277778,4.0
+547,Orlando,FL,Thornton Park,Social,28.53361111,-81.37583333,3.7
+548,Lexington,KY,Mary Todd Lincoln House,Historical,38.05135278,-84.50278611,4.6
+549,Lexington,KY,Ashland: The Henry Clay Estate,Historical,38.02861111,-84.48,2.8
+550,Lexington,KY,Kentucky Horse Park,Tourist,38.15,-84.51666667,3.9
+551,Lexington,KY,Red River Gorge,Scenery,37.83388889,-83.60777778,3.7
+552,Lexington,KY,Lexington Farmers Market,Food,39.29189,-76.62175,3.3
+553,Lexington,KY,Rupp Arena,Sports,38.04944444,-84.50277778,2.9
+554,Stockton,CA,Bob Hope Theatre,Art,51.4494,0.0504,3.3
+555,Stockton,CA,Stockton Arena,Sports,37.956077,-121.296116,2.9
+556,Stockton,CA,Weber Point Events Center,Social,37.964,-121.278,3.1
+557,Stockton,CA,Haggin Museum,Art,37.960284,-121.313991,4.9
+558,Stockton,CA,Downtown Stockton,Culture,37.97555556,-121.30083333,3.8
+559,Stockton,CA,Stockton Farmers Market,Food,37.97555556,-121.30083333,3.4
+560,Stockton,CA,Micke Grove Zoo,Tourist,38.07916667,-121.27194444,4.1
+561,Stockton,CA,Oak Grove Regional Park,Scenery,38.08194444,-121.27222222,2.8
+562,Riverside,CA,Mission Inn Hotel & Spa,Historical,33.98333333,-117.37277778,3.8
+563,Riverside,CA,Riverside Art Museum,Art,33.98166667,-117.37055556,2.8
+564,Riverside,CA,"University of California, Riverside",Culture,33.97555556,-117.33111111,5.0
+565,Riverside,CA,March Field Air Museum,Historical,33.883848,-117.266682,5.0
+566,Riverside,CA,Riverside National Cemetery,Historical,33.88472222,-117.27611111,3.5
+567,Riverside,CA,The Galleria at Tyler,Social,33.91021,-117.45758,4.7
+568,Corpus Christi,TX,Padre Island National Seashore,Scenery,26.98444444,-97.38055556,3.5
+569,Corpus Christi,TX,USS Lexington Museum,Historical,27.815,-97.38861111,3.2
+570,Corpus Christi,TX,Texas State Aquarium,Tourist,27.81388889,-97.39222222,4.2
+571,Corpus Christi,TX,Corpus Christi Museum of Science and History,Culture,27.81027778,-97.395,3.2
+572,Corpus Christi,TX,Mustang Island State Park,Scenery,27.67531,-97.17693,2.9
+573,Corpus Christi,TX,Corpus Christi Bayfront,Scenery,27.77222222,-97.25277778,4.0
+574,Corpus Christi,TX,Whataburger Field,Sports,27.80958333,-97.39969444,3.3
+575,Corpus Christi,TX,American Bank Center,Social,27.80733889,-97.39356111,4.4
+576,Irvine,CA,Irvine Regional Park,Scenery,33.7953,-117.7506,3.4
+577,Irvine,CA,Orange County Great Park,Scenery,33.67,-117.73,3.8
+578,Irvine,CA,"University of California, Irvine",Culture,33.64555556,-117.8425,3.4
+579,Irvine,CA,Irvine Spectrum Center,Social,33.650378,-117.743504,3.7
+580,Irvine,CA,Laguna Beach,Scenery,33.53138889,-117.76916667,4.5
+581,Irvine,CA,Irvine Valley College,Culture,33.67666667,-117.77777778,4.9
+582,Irvine,CA,Quail Hill Open Space Preserve,Scenery,37.36265278,-122.22444444,4.3
+583,Cincinnati,OH,Findlay Market,Food,39.11527778,-84.51916667,3.4
+584,Cincinnati,OH,Cincinnati Zoo and Botanical Garden,Tourist,39.145,-84.508,3.8
+585,Cincinnati,OH,Newport Aquarium,Tourist,39.0943725,-84.4975877,3.2
+586,Cincinnati,OH,Cincinnati Art Museum,Art,39.11388889,-84.49694444,4.9
+587,Cincinnati,OH,National Underground Railroad Freedom Center,Historical,39.0979,-84.51148,3.3
+588,Cincinnati,OH,Cincinnati Museum Center at Union Terminal,Culture,39.11,-84.53780556,3.8
+589,Cincinnati,OH,Eden Park,Scenery,-36.875,174.74472222,4.8
+590,Cincinnati,OH,Krohn Conservatory,Scenery,39.11524,-84.4904,4.1
+591,Cincinnati,OH,Great American Ball Park,Sports,39.0975,-84.50666667,4.7
+592,Cincinnati,OH,Paul Brown Stadium,Sports,39.095,-84.516,3.9
+593,Santa Ana,CA,Downtown Santa Ana,Social,33.74833333,-117.86805556,4.8
+594,Santa Ana,CA,Dr. Howe-Waffle House,Historical,33.75055556,-117.86555556,3.4
+595,Santa Ana,CA,Santa Ana Zoo,Tourist,33.743915,-117.84253056,4.7
+596,Santa Ana,CA,MainPlace Mall,Social,33.77523,-117.86957,3.7
+597,Santa Ana,CA,Santa Ana Stadium,Sports,33.7506,-117.8775,3.4
+598,Santa Ana,CA,Lyon Air Museum,Historical,33.67347,-117.8732,2.8
+599,Newark,NJ,Newark Museum,Art,40.74269444,-74.17180556,3.0
+600,Newark,NJ,Branch Brook Park,Scenery,40.77027778,-74.17638889,4.6
+601,Newark,NJ,Cathedral Basilica of the Sacred Heart,Historical,40.7549,-74.1784,4.3
+602,Newark,NJ,New Jersey Performing Arts Center,Culture,40.7401467,-74.1679199,3.9
+603,Newark,NJ,Ironbound,Food,40.725,-74.16111111,3.4
+604,Newark,NJ,Prudential Center,Sports,40.73361111,-74.17111111,3.8
+605,Newark,NJ,Newark Riverfront Park,Scenery,40.7333,-74.1478,3.0
+606,Newark,NJ,The Newark Public Library,Culture,40.74459,-74.17067,4.9
+607,Newark,NJ,Newark Symphony Hall,Culture,40.72777778,-74.17638889,3.9
+608,Saint Paul,MN,Cathedral of Saint Paul,Historical,44.94694444,-93.10888889,4.0
+609,Saint Paul,MN,Science Museum of Minnesota,Tourist,44.9425,-93.09861111,3.1
+610,Saint Paul,MN,Como Park Zoo and Conservatory,Scenery,44.981397,-93.150807,4.6
+611,Saint Paul,MN,Summit Brewing Company,Food,44.91388889,-93.13944444,3.0
+612,Saint Paul,MN,Ordway Center for the Performing Arts,Culture,44.9448,-93.0982,3.8
+613,Saint Paul,MN,Minnesota Children's Museum,Tourist,44.94777778,-93.09694444,4.0
+614,Saint Paul,MN,Harriet Island Regional Park,Scenery,44.9375,-93.09666667,3.9
+615,Pittsburgh,PA,Phipps Conservatory and Botanical Gardens,Scenery,40.438948,-79.947705,3.2
+616,Pittsburgh,PA,Pittsburgh Zoo and PPG Aquarium,Tourist,40.484,-79.918,4.3
+617,Pittsburgh,PA,Mount Washington,Scenery,44.2705,-71.30325,4.9
+618,Pittsburgh,PA,The Strip District,Food,40.45,-79.985,4.7
+619,Pittsburgh,PA,Senator John Heinz History Center,Historical,40.4466,-79.9922,4.0
+620,Pittsburgh,PA,Point State Park,Scenery,40.44166667,-80.01194444,4.4
+621,Greensboro,NC,Greensboro Science Center,Tourist,36.1299,-79.8341,3.1
+622,Greensboro,NC,Weatherspoon Art Museum,Art,36.06612,-79.80583,4.5
+623,Greensboro,NC,Tanger Family Bicentennial Garden,Scenery,36.0929,-79.8416,4.4
+624,Greensboro,NC,Greensboro Historical Museum,Historical,36.07555556,-79.78805556,4.6
+625,Greensboro,NC,Greensboro Coliseum Complex,Sports,36.05972222,-79.82555556,4.2
+626,Greensboro,NC,Triad Stage,Culture,36.070684,-79.790533,4.3
+627,Greensboro,NC,Greensboro Arboretum,Scenery,36.0701,-79.8413,4.1
+628,Greensboro,NC,Greensboro Cultural Center,Culture,36.0738,-79.7885,3.0
+629,Durham,NC,Durham Performing Arts Center,Culture,35.99333333,-78.90222222,3.7
+630,Durham,NC,Sarah P. Duke Gardens,Scenery,36.00180278,-78.93348333,3.5
+631,Durham,NC,Durham Bulls Athletic Park,Sports,35.99168889,-78.90418611,3.8
+632,Durham,NC,Museum of Life and Science,Tourist,36.02865,-78.89734,3.7
+633,Durham,NC,Brightleaf Square,Social,36.00027778,-78.91027778,3.2
+634,Durham,NC,American Tobacco Historic District,Historical,35.99527778,-78.90472222,2.8
+635,Durham,NC,Durham Central Park,Scenery,36.00094444,-78.90191667,5.0
+636,Lincoln,NE,Sunken Gardens,Scenery,27.79,-82.63833333,3.4
+637,Lincoln,NE,Lincoln Children's Zoo,Tourist,40.800175,-96.679141,4.2
+638,Lincoln,NE,Pinnacle Bank Arena,Sports,40.81777778,-96.71333333,4.0
+639,Lincoln,NE,Nebraska State Capitol,Historical,40.80805556,-96.69972222,3.5
+640,Lincoln,NE,Sheldon Museum of Art,Art,40.8175,-96.70444444,3.3
+641,Jersey City,NJ,Liberty State Park,Scenery,40.70416667,-74.04916667,3.5
+642,Jersey City,NJ,Ellis Island,Historical,40.69944444,-74.03972222,3.6
+643,Jersey City,NJ,Jersey City Museum,Art,40.7197,-74.0505,4.0
+644,Jersey City,NJ,Empty Sky Memorial,Historical,40.708303,-74.034628,4.6
+645,Jersey City,NJ,Downtown Jersey City,Social,40.7281,-74.0776,4.9
+646,Jersey City,NJ,Hudson River Waterfront Walkway,Scenery,40.571066,-74.217281,4.0
+647,Plano,TX,The Shops at Legacy,Social,33.078,-96.825,3.4
+648,Plano,TX,Plano Balloon Festival,Tours,33.0528,-96.6738,2.9
+649,Plano,TX,Oak Point Park and Nature Preserve,Scenery,33.0574,-96.6741,4.4
+650,Plano,TX,Interurban Railway Museum,Historical,33.01972222,-96.70166667,5.0
+651,Plano,TX,Collin College,Culture,33.2185,-96.6419,2.9
+652,Plano,TX,Downtown Plano Arts District,Art,33.05027778,-96.69888889,4.8
+653,Anchorage,AK,Tony Knowles Coastal Trail,Scenery,61.22055556,-149.8975,4.4
+654,Anchorage,AK,Anchorage Museum,Culture,61.2161,-149.8845,3.0
+655,Anchorage,AK,Kincaid Park,Scenery,61.186,-150.021,3.5
+656,Anchorage,AK,Anchorage Market and Festival,Social,61.21833333,-149.88972222,4.5
+657,Anchorage,AK,Alaska Native Heritage Center,Culture,61.2302,-149.717,4.8
+658,Anchorage,AK,Portage Glacier,Scenery,60.75305556,-148.78555556,4.1
+659,Anchorage,AK,Chugach National Forest,Scenery,60.4614912,-149.1259814,3.6
+660,Anchorage,AK,Anchorage 5th Avenue Mall,Social,61.21722222,-149.88861111,4.8
+661,North Las Vegas,NV,Craig Ranch Regional Park,Scenery,36.24305556,-115.14916667,2.8
+662,North Las Vegas,NV,Floyd Lamb State Park,Scenery,36.323917,-115.26603,3.8
+663,North Las Vegas,NV,Cheyenne Sports Complex,Sports,41.14,-104.82027778,3.0
+664,North Las Vegas,NV,Downtown North Las Vegas,Social,36.17169,-115.14382,4.2
+665,North Las Vegas,NV,Las Vegas Motor Speedway,Sports,36.27134,-115.01112,4.9
+666,North Las Vegas,NV,Shadow Creek Golf Course,Sports,36.257762,-115.105959,2.9
+667,St. Louis,MO,City Museum,Art,38.63361111,-90.20055556,3.0
+668,St. Louis,MO,Anheuser-Busch Brewery,Tours,38.5975,-90.21222222,4.1
+669,St. Louis,MO,Cathedral Basilica of St. Louis,Historical,38.6425,-90.25472222,3.7
+670,St. Louis,MO,Saint Louis Art Museum,Art,38.63944444,-90.29444444,3.8
+671,St. Louis,MO,Missouri Botanical Garden,Scenery,38.6125,-90.25972222,3.0
+672,St. Louis,MO,Six Flags St. Louis,Tourist,38.514,-90.676,3.4
+673,St. Louis,MO,Grant's Farm,Tourist,38.54805556,-90.3575,3.4
+674,Madison,WI,University of Wisconsin-Madison,Culture,43.07527778,-89.40416667,4.0
+675,Madison,WI,Olbrich Botanical Gardens,Scenery,43.0925,-89.335,4.1
+676,Madison,WI,Wisconsin State Capitol,Historical,43.07472222,-89.38416667,4.9
+677,Madison,WI,Lake Monona,Scenery,43.06916667,-89.35944444,4.0
+678,Madison,WI,Chazen Museum of Art,Art,43.07388889,-89.39972222,4.6
+679,Madison,WI,UW-Madison Arboretum,Scenery,43.07527778,-89.40416667,4.1
+680,Madison,WI,Alliant Energy Center,Social,43.043952,-89.38071,4.1
+681,Madison,WI,Camp Randall Stadium,Sports,43.07,-89.41277778,4.9
+682,Chandler,AZ,Chandler Fashion Center,Social,33.301354,-111.898526,2.9
+683,Chandler,AZ,Downtown Chandler,Social,33.3,-111.83333333,2.8
+684,Chandler,AZ,Tumbleweed Park,Scenery,33.3,-111.83333333,4.7
+685,Chandler,AZ,Chandler Museum,Culture,33.3,-111.83333333,4.4
+686,Chandler,AZ,Hammertown Lake,Scenery,39.04027778,-82.62916667,4.0
+687,Chandler,AZ,Chandler Center for the Arts,Art,33.307354,-111.842317,3.5
+688,Gilbert,AZ,Downtown Gilbert,Social,33.35277778,-111.78888889,4.3
+689,Gilbert,AZ,Gilbert Riparian Preserve,Scenery,33.38,-111.73,4.4
+690,Gilbert,AZ,Gilbert Historical Museum,Historical,33.35277778,-111.78888889,3.7
+691,Gilbert,AZ,Gilbert Farmers Market,Food,39.97194444,-75.16638889,4.9
+692,Gilbert,AZ,SanTan Village,Social,33.30972222,-111.74305556,3.6
+693,Gilbert,AZ,Gilbert Temple,Culture,33.29138889,-111.73736111,3.5
+694,Reno,NV,National Automobile Museum,Culture,39.52586,-119.8096,4.0
+695,Reno,NV,Lake Tahoe,Scenery,39.0,-120.0,3.1
+696,Reno,NV,Mount Rose Ski Tahoe,Sports,39.32916667,-119.88583333,3.0
+697,Reno,NV,Great Basin Brewing Company,Food,39.535009,-119.754151,3.3
+698,Reno,NV,National Bowling Stadium,Sports,39.52953611,-119.81205556,4.9
+699,Reno,NV,Reno Aces Ballpark,Sports,39.529,-119.808,4.3
+700,Reno,NV,Fleischmann Planetarium,Culture,39.546111,-119.818611,3.5
+701,Reno,NV,Wilbur D. May Arboretum and Botanical Garden,Scenery,39.5462,-119.8253,3.8
+702,Buffalo,NY,Niagara Falls,Scenery,43.0799,-79.0747,3.3
+703,Buffalo,NY,Canalside,Social,42.89138889,-78.8725,2.9
+704,Buffalo,NY,Anchor Bar,Food,42.90238889,-78.86855556,3.1
+705,Buffalo,NY,Albright-Knox Art Gallery,Art,42.93245,-78.87563,3.3
+706,Buffalo,NY,Buffalo and Erie County Botanical Gardens,Scenery,42.8281,-78.8258,4.7
+707,Buffalo,NY,Frank Lloyd Wright's Darwin Martin House,Historical,42.93616111,-78.84813056,3.2
+708,Buffalo,NY,Buffalo Zoo,Tourist,42.9391,-78.8536,4.9
+709,Buffalo,NY,KeyBank Center,Sports,42.875,-78.87638889,3.7
+710,Buffalo,NY,Buffalo Museum of Science,Culture,42.906132,-78.843314,4.5
+711,Chula Vista,CA,Aquatica San Diego,Tourist,32.5884,-117.0101,4.4
+712,Chula Vista,CA,Chula Vista Marina,Scenery,32.62777778,-117.04805556,4.4
+713,Chula Vista,CA,Living Coast Discovery Center,Culture,32.6401,-117.1104,3.3
+714,Chula Vista,CA,Chula Vista Center,Social,32.6301,-117.0861,3.6
+715,Chula Vista,CA,Third Avenue Village,Social,40.8075,-73.9325,4.9
+716,Chula Vista,CA,Chula Vista Nature Center,Culture,32.62777778,-117.04805556,4.3
+717,Chula Vista,CA,Mattress Firm Amphitheatre,Social,32.587778,-117.006389,4.5
+718,Chula Vista,CA,Chula Vista Public Library,Culture,32.62777778,-117.04805556,4.8
+719,Fort Wayne,IN,Fort Wayne Children's Zoo,Tourist,41.10638889,-85.15451389,3.5
+720,Fort Wayne,IN,Fort Wayne Museum of Art,Art,41.08135556,-85.13579167,3.6
+721,Fort Wayne,IN,Headwaters Park,Scenery,45.9207,-111.498,3.9
+722,Fort Wayne,IN,Parkview Field,Sports,41.07405556,-85.14286111,3.0
+723,Fort Wayne,IN,The Historic Old Fort,Historical,43.26277778,-79.06305556,4.1
+724,Fort Wayne,IN,Jefferson Pointe,Social,41.07216667,-85.19730556,3.4
+725,Lubbock,TX,Lubbock Lake Landmark State Historical Park,Historical,33.62194444,-101.88972222,3.5
+726,Lubbock,TX,Texas Tech University,Culture,33.584,-101.878,4.1
+727,Lubbock,TX,Mackenzie Park,Scenery,33.585,-101.845,4.8
+728,Lubbock,TX,Lubbock Memorial Civic Center,Social,33.58833333,-101.85111111,2.8
+729,Lubbock,TX,National Ranching Heritage Center,Culture,33.59074444,-101.88428056,3.6
+730,Lubbock,TX,Silent Wings Museum,Historical,33.657778,-101.831667,2.9
+731,Toledo,OH,Toledo Museum of Art,Art,41.65833333,-83.55944444,3.5
+732,Toledo,OH,Imagination Station,Culture,41.651904,-83.531468,3.8
+733,Toledo,OH,Toledo Zoo & Aquarium,Tourist,41.6191,-83.5807,5.0
+734,Toledo,OH,Toledo Botanical Garden,Scenery,41.6680556,-83.6722222,2.9
+735,Toledo,OH,Toledo Farmers' Market,Food,41.65,-83.53333333,4.1
+736,Toledo,OH,Toledo Harbor Lighthouse,Scenery,41.76166667,-83.32833333,4.5

@@ -1,0 +1,16 @@
+# Core dependencies
+openai
+pydantic
+pandas
+numpy
+huggingface_hub
+
+
+# LLM / simulation scripts
+langchain-core
+langchain-openai
+
+# Test / dev dependencies
+pytest
+coverage
+ruff

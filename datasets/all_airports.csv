@@ -1,0 +1,129 @@
+,city,code,name,state,size,latitude,longitude
+0,Birmingham,BHM,Birmingham–Shuttlesworth International Airport,Alabama,Small,33.56388889,-86.75222222
+1,Huntsville,HSV,Huntsville International Airport,Alabama,Small,34.63722222,-86.775
+2,Anchorage,ANC,Ted Stevens Anchorage International Airport,Alaska,Medium,61.17416667,-149.99833333
+3,Fairbanks,FAI,Fairbanks International Airport,Alaska,Small,64.815,-147.85638889
+4,Phoenix,PHX,Phoenix Sky Harbor International Airport,Arizona,Large,33.43416667,-112.01166667
+5,Tucson,TUS,Tucson International Airport,Arizona,Small,32.11611111,-110.94111111
+6,Fayetteville,XNA,Northwest Arkansas National Airport,Arkansas,Small,36.28166667,-94.30777778
+7,Little Rock,LIT,Bill and Hillary Clinton National Airport,Arkansas,Small,34.73,-92.22
+8,Burbank,BUR,Hollywood Burbank Airport,California,Medium,34.20055556,-118.35861111
+9,Fresno,FAT,Fresno Yosemite International Airport,California,Small,36.77666667,-119.71888889
+10,Long Beach,LGB,Long Beach Airport,California,Small,33.81777778,-118.15166667
+11,Los Angeles,LAX,Los Angeles International Airport,California,Large,33.9425,-118.40805556
+12,Oakland,OAK,Oakland International Airport,California,Medium,37.72138889,-122.22083333
+13,Ontario,ONT,Ontario International Airport,California,Medium,34.05611111,-117.60111111
+14,Palm Springs,PSP,Palm Springs International Airport,California,Small,33.82972222,-116.50666667
+15,Sacramento,SMF,Sacramento International Airport,California,Medium,38.69555556,-121.59083333
+16,San Diego,SAN,San Diego International Airport,California,Large,32.73361111,-117.18972222
+17,San Francisco,SFO,San Francisco International Airport,California,Large,37.61888889,-122.375
+18,San Jose,SJC,San Jose International Airport,California,Medium,37.36277778,-121.92916667
+19,Santa Ana,SNA,John Wayne Airport,California,Medium,33.67555556,-117.86833333
+20,Santa Barbara,SBA,Santa Barbara Municipal Airport,California,Small,34.42611111,-119.84027778
+21,Colorado Springs,COS,City of Colorado Springs Municipal Airport,Colorado,Small,38.80583333,-104.70083333
+22,Denver,DEN,Denver International Airport,Colorado,Large,39.86166667,-104.67305556
+23,Hartford,BDL,Bradley International Airport,Connecticut,Medium,41.93916667,-72.68333333
+24,Fort Lauderdale,FLL,Fort Lauderdale–Hollywood International Airport,Florida,Large,26.0725,-80.15277778
+25,Fort Myers,RSW,Southwest Florida International Airport,Florida,Medium,26.53611111,-81.75527778
+26,Fort Walton Beach,VPS,Destin–Fort Walton Beach Airport,Florida,Small,30.48333333,-86.52527778
+27,Jacksonville,JAX,Jacksonville International Airport,Florida,Medium,30.49416667,-81.68777778
+28,Key West,EYW,Key West International Airport,Florida,Small,24.55611111,-81.75944444
+29,Miami,MIA,Miami International Airport,Florida,Large,25.79333333,-80.29055556
+30,Orlando,MCO,Orlando International Airport,Florida,Large,28.42944444,-81.30888889
+31,Panama City,ECP,Northwest Florida Beaches International Airport,Florida,Small,30.35833333,-85.79555556
+32,Pensacola,PNS,Pensacola International Airport,Florida,Small,30.47333333,-87.18666667
+33,Punta Gorda,PGD,Punta Gorda Airport,Florida,Small,26.91888889,-81.99083333
+34,Sanford,SFB,Orlando Sanford International Airport,Florida,Small,28.77777778,-81.2375
+35,Sarasota,SRQ,Sarasota–Bradenton International Airport,Florida,Small,27.39555556,-82.55444444
+36,St. Petersburg,PIE,St. Pete–Clearwater International Airport,Florida,Small,27.91,-82.6875
+37,Tampa,TPA,Tampa International Airport,Florida,Large,27.97972222,-82.53472222
+38,West Palm Beach,PBI,Palm Beach International Airport,Florida,Medium,26.6832,-80.0956
+39,Atlanta,ATL,Hartsfield–Jackson Atlanta International Airport,Georgia,Large,33.63666667,-84.42805556
+40,Savannah,SAV,Savannah/Hilton Head International Airport,Georgia,Small,32.1275,-81.20222222
+41,"Hilo, Hawaii",ITO,Hilo International Airport,Hawaii,Small,19.72027778,-155.04833333
+42,"Honolulu, Oahu",HNL,Daniel K. Inouye International Airport,Hawaii,Medium,21.31861111,-157.9225
+43,"Kahului, Maui",OGG,Kahului Airport,Hawaii,Medium,20.89861111,-156.43055556
+44,"Kailua-Kona, Hawaii",KOA,Ellison Onizuka Kona International Airport at Keahole,Hawaii,Small,19.73888889,-156.04555556
+45,"Lihue, Kauai",LIH,Lihue Airport,Hawaii,Small,21.97611111,-159.33888889
+46,Chicago,MDW,Chicago Midway International Airport,Illinois,Large,41.78611111,-87.7525
+47,Chicago,ORD,Chicago O'Hare International Airport,Illinois,Large,41.97861111,-87.90472222
+48,Fort Wayne,FWA,Fort Wayne International Airport,Indiana,Small,40.97833333,-85.19527778
+49,Indianapolis,IND,Indianapolis International Airport,Indiana,Medium,39.71722222,-86.29444444
+50,South Bend,SBN,South Bend International Airport,Indiana,Small,41.70833333,-86.31722222
+51,Cedar Rapids,CID,Eastern Iowa Airport,Iowa,Small,41.88907778,-91.70033056
+52,Des Moines,DSM,Des Moines International Airport,Iowa,Small,41.53388889,-93.66305556
+53,Wichita,ICT,Wichita Dwight D. Eisenhower National Airport,Kansas,Small,37.65,-97.43305556
+54,Hebron,CVG,Cincinnati/Northern Kentucky International Airport,Kentucky,Medium,39.04888889,-84.66777778
+55,Lexington,LEX,Blue Grass Airport,Kentucky,Small,38.03638889,-84.60583333
+56,Louisville,SDF,Louisville Muhammad Ali International Airport,Kentucky,Small,38.17416667,-85.73638889
+57,New Orleans,MSY,Louis Armstrong New Orleans International Airport,Louisiana,Medium,29.99333333,-90.25805556
+58,Portland,PWM,Portland International Jetport,Maine,Small,43.64611111,-70.30916667
+59,Baltimore,BWI,Baltimore/Washington International Airport,Maryland,Large,39.17527778,-76.66833333
+60,Boston,BOS,Gen. Edward Lawrence Logan International Airport,Massachusetts,Large,42.36305556,-71.00638889
+61,Detroit,DTW,Detroit Metro Wayne County Airport,Michigan,Large,42.2125,-83.35333333
+62,Grand Rapids,GRR,Gerald R. Ford International Airport,Michigan,Small,42.88083333,-85.52277778
+63,St. Paul,MSP,Minneapolis–Saint Paul International Airport,Minnesota,Large,44.88194444,-93.22166667
+64,Kansas City,MCI,Kansas City International Airport,Missouri,Medium,39.2975,-94.71388889
+65,St. Louis,STL,St. Louis Lambert International Airport,Missouri,Medium,38.74722222,-90.36138889
+66,Springfield,SGF,Springfield–Branson National Airport,Missouri,Small,37.24555556,-93.38861111
+67,Billings,BIL,Billings Logan International Airport,Montana,Small,45.80777778,-108.54277778
+68,Bozeman,BZN,Bozeman Yellowstone International Airport,Montana,Small,45.777,-111.152
+69,Missoula,MSO,Missoula Montana Airport,Montana,Small,46.91638889,-114.09055556
+70,Omaha,OMA,Eppley Airfield,Nebraska,Medium,41.3,-95.895
+71,Las Vegas,LAS,Harry Reid International Airport,Nevada,Large,36.08,-115.15222222
+72,Reno,RNO,Reno/Tahoe International Airport,Nevada,Medium,39.49916667,-119.76805556
+73,Manchester,MHT,Manchester–Boston Regional Airport,New Hampshire,Small,42.9325,-71.43555556
+74,Atlantic City,ACY,Atlantic City International Airport,New Jersey,Small,39.4575,-74.57722222
+75,Newark,EWR,Newark Liberty International Airport,New Jersey,Large,40.6925,-74.16861111
+76,New York,JFK,John F. Kennedy International Airport,New York,Large,40.63972222,-73.77888889
+77,New York,LGA,LaGuardia Airport,New York,Large,40.775,-73.875
+78,Rochester,ROC,Frederick Douglass/Greater Rochester International Airport,New York,Small,43.11888889,-77.6725
+79,Syracuse,SYR,Syracuse Hancock International Airport,New York,Small,43.11111111,-76.10638889
+80,White Plains,HPN,Westchester County Airport,New York,Small,41.06694444,-73.7075
+81,Asheville,AVL,Asheville Regional Airport,North Carolina,Small,35.43611111,-82.54166667
+82,Charlotte,CLT,Charlotte Douglas International Airport,North Carolina,Large,35.21388889,-80.94305556
+83,Greensboro,GSO,Piedmont Triad International Airport,North Carolina,Small,36.09777778,-79.93722222
+84,Raleigh,RDU,Raleigh–Durham International Airport,North Carolina,Medium,35.87777778,-78.7875
+85,Wilmington,ILM,Wilmington International Airport,North Carolina,Small,34.27055556,-77.9025
+86,Cleveland,CLE,Cleveland Hopkins International Airport,Ohio,Medium,41.41166667,-81.84972222
+87,Columbus,CMH,John Glenn Columbus International Airport,Ohio,Medium,39.99805556,-82.89194444
+88,Dayton,DAY,James M. Cox Dayton International Airport,Ohio,Small,39.90222222,-84.21944444
+89,Tulsa,TUL,Tulsa International Airport,Oklahoma,Small,36.19833333,-95.88805556
+90,Medford,MFR,Rogue Valley International–Medford Airport,Oregon,Small,42.37416667,-122.87361111
+91,Portland,PDX,Portland International Airport,Oregon,Medium,45.58861111,-122.5975
+92,Redmond,RDM,Roberts Field,Oregon,Small,44.25416667,-121.14972222
+93,Allentown,ABE,Lehigh Valley International Airport,Pennsylvania,Small,40.65233333,-75.44047222
+94,Harrisburg,MDT,Harrisburg International Airport,Pennsylvania,Small,40.19305556,-76.76333333
+95,Philadelphia,PHL,Philadelphia International Airport,Pennsylvania,Large,39.87194444,-75.24111111
+96,Pittsburgh,PIT,Pittsburgh International Airport,Pennsylvania,Medium,40.496,-80.246
+97,Providence,PVD,Rhode Island T. F. Green International Airport,Rhode Island,Small,41.72388889,-71.42833333
+98,Charleston,CHS,Charleston International Airport,South Carolina,Medium,32.89861111,-80.04055556
+99,Columbia,CAE,Columbia Metropolitan Airport,South Carolina,Small,33.93888889,-81.11944444
+100,Greenville,GSP,Greenville–Spartanburg International Airport,South Carolina,Small,34.89555556,-82.21888889
+101,Myrtle Beach,MYR,Myrtle Beach International Airport,South Carolina,Small,33.67972222,-78.92833333
+102,Sioux Falls,FSD,Sioux Falls Regional Airport,South Dakota,Small,43.58194444,-96.74194444
+103,Chattanooga,CHA,Chattanooga Metropolitan Airport,Tennessee,Small,35.03527778,-85.20388889
+104,Knoxville,TYS,McGhee Tyson Airport,Tennessee,Small,35.81111111,-83.99388889
+105,Memphis,MEM,Memphis International Airport,Tennessee,Medium,35.0425,-89.97666667
+106,Nashville,BNA,Nashville International Airport,Tennessee,Large,36.12666667,-86.68194444
+107,Austin,AUS,Austin–Bergstrom International Airport,Texas,Large,30.19444444,-97.67
+108,Dallas,DAL,Dallas Love Field,Texas,Medium,32.84722222,-96.85166667
+109,Dallas,DFW,Dallas Fort Worth International Airport,Texas,Large,32.89694444,-97.03805556
+110,El Paso,ELP,El Paso International Airport,Texas,Small,31.80722222,-106.3775
+111,Harlingen,HRL,Valley International Airport,Texas,Small,26.22722222,-97.655
+112,Houston,IAH,George Bush Intercontinental/Houston Airport,Texas,Large,29.98444444,-95.34138889
+113,Houston,HOU,William P. Hobby Airport,Texas,Medium,29.64555556,-95.27888889
+114,Lubbock,LBB,Lubbock Preston Smith International Airport,Texas,Small,33.66361111,-101.82055556
+115,McAllen,MFE,McAllen Miller International Airport,Texas,Small,26.17583333,-98.23861111
+116,Midland,MAF,Midland International Air and Space Port,Texas,Small,31.9425,-102.20194444
+117,San Antonio,SAT,San Antonio International Airport,Texas,Medium,29.52666667,-98.47194444
+118,Salt Lake City,SLC,Salt Lake City International Airport,Utah,Large,40.78833333,-111.97777778
+119,Burlington,BTV,Patrick Leahy Burlington International Airport,Vermont,Small,44.47194444,-73.15333333
+120,Norfolk,ORF,Norfolk International Airport,Virginia,Small,36.89472222,-76.20111111
+121,Arlington,DCA,Ronald Reagan Washington National Airport,Virginia,Large,38.85222222,-77.03777778
+122,Dulles,IAD,Washington Dulles International Airport,Virginia,Large,38.94444444,-77.45583333
+123,Pasco,PSC,Tri-Cities Airport,Washington,Small,46.26467778,-119.11902778
+124,SeaTac,SEA,Seattle–Tacoma International Airport,Washington,Large,47.44888889,-122.30944444
+125,Spokane,GEG,Spokane International Airport,Washington,Small,47.62,-117.53388889
+126,Greenville,ATW,Appleton International Airport,Wisconsin,Small,44.25805556,-88.51916667
+127,Jackson,JAC,Jackson Hole Airport,Wyoming,Small,43.60722222,-110.73777778
