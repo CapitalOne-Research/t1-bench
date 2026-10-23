@@ -1,0 +1,501 @@
+[
+  {
+    "user_template": "## PERSONA\nYou are a customer looking for a convenient and reliable online flight booking service.\n\n## USER\n{\n  \"user_id\": \"USR-458407D2\",\n  \"first_name\": \"Matthew\",\n  \"last_name\": \"Lewis\",\n  \"email\": \"matthew.lewis143@icloud.com\",\n  \"city\": \"Simi Valley\",\n  \"state\": \"CA\",\n  \"neighborhood\": \"Madera\",\n  \"birthdate\": \"1959-07-08\",\n  \"payment_wallet\": \"{\\\"credit_cards\\\": [{\\\"name\\\": \\\"American Express\\\",\\\"credit_card_last_four\\\": \\\"1739\\\"}],\\\"debit_cards\\\": [\\\"Interac\\\",\\\"Mastercard Debit\\\",\\\"Maestro\\\"]}\"\n}\n\n## GOAL\nI want to browse flight options. First I want to find flight from Harrisburg to Portland, departing on 2026-05-30 and airline operated by CloudNine Air, then I will say I need to think about it and will not book.",
+    "benchmark_success_criteria": {
+      "exact_match": {
+        "tool_calls": [
+          {
+            "name": "search_flight",
+            "parameters": {
+              "departure_city": "Harrisburg",
+              "arrival_city": "Portland",
+              "airline": [
+                "CloudNine Air"
+              ],
+              "departure_date": "2026-05-30"
+            }
+          }
+        ]
+      },
+      "llm_as_judge": {
+        "metric": {
+          "helpfulness": {
+            "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+            "scale": {
+              "1": "Unhelpful responses are irrelevant, inaccurate, or fail to address the user's needs.",
+              "2": "Slightly helpful partially addresses the user's needs but misses key points or contains inaccuracies.",
+              "3": "Moderately helpful addresses the user's needs adequately but lacks depth or misses some details.",
+              "4": "Very helpful responses are relevant, accurate, and actionable with minor gaps.",
+              "5": "Fully helpful responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+            }
+          },
+          "coherence": {
+            "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+            "scale": {
+              "1": "Incoherent the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+              "2": "Slightly coherent some logical flow but notable gaps, contradictions, or context loss.",
+              "3": "Moderately coherent generally logical flow with occasional inconsistencies or minor context loss.",
+              "4": "Very coherent the conversation flows well with consistent context and only trivial inconsistencies.",
+              "5": "Fully coherent the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+            }
+          }
+        }
+      }
+    },
+    "id": 1
+  },
+  {
+        "user_template": "## PERSONA\nYou are a detail-oriented planner who researches every aspect of a trip before committing to anything.\n\n## USER\n{\n  \"user_id\": \"USR-793365F1\",\n  \"first_name\": \"William\",\n  \"last_name\": \"Miller\",\n  \"email\": \"william.miller3038@outlook.com\",\n  \"city\": \"Dayton\",\n  \"state\": \"OH\",\n  \"neighborhood\": \"South Park\",\n  \"birthdate\": \"1999-02-18\",\n  \"address\": \"3000 Madison Dr, Dayton, OH 44140\",\n  \"payment_wallet\": \"{\\\"credit_cards\\\": [\\\"American Express\\\", \\\"Diners Club\\\", \\\"Discover\\\", \\\"JCB\\\", \\\"Mastercard\\\"], \\\"debit_cards\\\": [\\\"Visa Debit\\\"], \\\"cryptocurrencies\\\": [\\\"Ethereum\\\", \\\"USDC\\\"]}\",\n  \"hotel_payment_methods\": \"[\\\"credit_card\\\", \\\"cryptocurrencies\\\"]\",\n  \"hotel_membership_level\": \"None\",\n  \"hotel_reward_points_balance\": \"None\"\n}\n\n## GOAL\nYou're heading to League City, TX for 4 night(s) starting 2026-08-22. Find a hotel with business center for 3 guest(s) and book the lexicographically lowest venue ID using credit_card. Then look into Burger restaurants in League City, TX that have vegan options, and book a table for 3 on 2026-08-22 at 18:00 under William Miller.",
+        "benchmark_success_criteria": {
+            "exact_match": {
+                "tool_calls": [
+                    {
+                        "name": "search_hotel",
+                        "parameters": {
+                            "city": "League City",
+                            "has_business_center": true,
+                            "state": "TX"
+                        }
+                    },
+                    {
+                        "name": "get_hotel_room_inventory",
+                        "parameters": {
+                            "hotel_id": "H1452",
+                            "check_in_date": "2026-08-22",
+                            "check_out_date": "2026-08-26",
+                            "occupancy": 3
+                        }
+                    },
+                    {
+                        "name": "book_hotel_reservation",
+                        "parameters": {
+                            "user_id": "USR-793365F1",
+                            "hotel_id": "H1452",
+                            "room_id": "HR119059",
+                            "check_in_date": "2026-08-22",
+                            "check_out_date": "2026-08-26",
+                            "payment_method": "credit_card"
+                        }
+                    },
+                    {
+                        "name": "search_food_and_dining",
+                        "parameters": {
+                            "city": "League City",
+                            "state": "TX",
+                            "cuisine": [
+                                "Burger"
+                            ],
+                            "is_open": true
+                        }
+                    },
+                    {
+                        "name": "filter_food_and_dining",
+                        "parameters": {
+                            "cache_key": "search_food_and_dining_results_0",
+                            "vegan_options": true
+                        }
+                    },
+                    {
+                        "name": "book_food_and_dining_reservation",
+                        "parameters": {
+                            "user_id": "USR-793365F1",
+                            "restaurant_id": "FAD-686816",
+                            "primary_guest_name": "William Miller",
+                            "number_guests": 3,
+                            "reservation_date": "2026-08-22",
+                            "reservation_time": "18:00",
+                            "price_per_person": 58.0,
+                            "has_private_dining": false
+                        }
+                    }
+                ]
+            },
+            "llm_as_judge": {
+                "metric": {
+                    "helpfulness": {
+                        "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+                        "scale": {
+                            "1": "Unhelpful responses are irrelevant, inaccurate, or fail to address the user's needs.",
+                            "2": "Slightly helpful partially addresses the user's needs but misses key points or contains inaccuracies.",
+                            "3": "Moderately helpful addresses the user's needs adequately but lacks depth or misses some details.",
+                            "4": "Very helpful responses are relevant, accurate, and actionable with minor gaps.",
+                            "5": "Fully helpful responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+                        }
+                    },
+                    "coherence": {
+                        "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+                        "scale": {
+                            "1": "Incoherent the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+                            "2": "Slightly coherent some logical flow but notable gaps, contradictions, or context loss.",
+                            "3": "Moderately coherent generally logical flow with occasional inconsistencies or minor context loss.",
+                            "4": "Very coherent the conversation flows well with consistent context and only trivial inconsistencies.",
+                            "5": "Fully coherent the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+                        }
+                    }
+                }
+            }
+        },
+        "id": 2
+    },
+    {
+        "user_template": "## PERSONA\nYou are a traveler planning a full trip experience -- accommodation, transportation, dining, and nightlife all in one.\n\n## USER\n{\n    \"user_id\": \"USR-99A0E8E5\",\n    \"first_name\": \"Betty\",\n    \"last_name\": \"Miller\",\n    \"email\": \"betty.miller4112@yahoo.com\",\n    \"city\": \"Newark\",\n    \"state\": \"NJ\",\n    \"neighborhood\": \"Downtown Newark\",\n    \"birthdate\": \"1986-04-04\",\n    \"rental_has_drivers_license\": true,\n    \"payment_wallet\": \"{\\\"credit_cards\\\": [{\\\"name\\\": \\\"Discover\\\", \\\"credit_card_last_four\\\": \\\"5506\\\"}], \\\"cryptocurrencies\\\": [\\\"Ethereum\\\", \\\"Litecoin\\\", \\\"Solana\\\"]}\",\n    \"hotel_payment_methods\": \"[\\\"debit_card\\\", \\\"credit_card\\\"]\"\n}\n## GOAL\nStart by asking for the hotel results to ones with a gym and restaurant options in Denver, CO in one message. In your next message, ask for car rentals and bar options together. Once all results are in, ask to narrow down the hotel results to ones with valet parking and cars with automatic transmission in one message. In your next message, ask to narrow down the restaurant results to vegetarian options and the bar results to ones with karaoke in one message. Then change your mind and ask to narrow down the bar results to ones with pool tables instead. In your next message, select the hotel with the lexicographically lowest hotel_id, inquire about room availability for 2026-07-18 to 2026-07-24 for 3 guests, select the room with the lexicographically lowest room_id, and book it using your credit card. In your next message, book the lexicographically lowest vehicle ID for William Martinez from 2026-07-18 to 2026-07-24 and the first restaurant from the results for 3 guests on 2026-07-20 at 18:30. In your next message, book the lexicographically lowest venue ID for 3 guests on 2026-07-21 at 20:00. After all bookings are confirmed, tell the assistant your hotel plans have changed and cancel the hotel reservation.",
+        "benchmark_success_criteria": {
+            "exact_match": {
+                "tool_calls": [
+                    {
+                        "name": "search_hotel",
+                        "parameters": {
+                            "city": "Denver",
+                            "has_gym": true,
+                            "state": "CO"
+                        }
+                    },
+                    {
+                        "name": "search_vehicle_rentals",
+                        "parameters": {
+                            "city": "Denver"
+                        }
+                    },
+                    {
+                        "name": "search_food_and_dining",
+                        "parameters": {
+                            "city": "Denver",
+                            "state": "CO"
+                        }
+                    },
+                    {
+                        "name": "search_bars",
+                        "parameters": {
+                            "city": "Denver"
+                        }
+                    },
+                    {
+                        "name": "filter_hotel",
+                        "parameters": {
+                            "cache_key": "search_hotel_results_0",
+                            "has_valet_parking": true
+                        }
+                    },
+                    {
+                        "name": "filter_vehicle_rentals",
+                        "parameters": {
+                            "cache_key": "search_vehicle_rentals_results_0",
+                            "is_automatic": true
+                        }
+                    },
+                    {
+                        "name": "filter_food_and_dining",
+                        "parameters": {
+                            "cache_key": "search_food_and_dining_results_0",
+                            "vegetarian_options": true
+                        }
+                    },
+                    {
+                        "name": "filter_bars",
+                        "parameters": {
+                            "cache_key": "search_bars_results_0",
+                            "has_karaoke": true
+                        }
+                    },
+                    {
+                        "name": "filter_bars",
+                        "parameters": {
+                            "cache_key": "search_bars_results_0",
+                            "has_pool_tables": true
+                        }
+                    },
+                    {
+                        "name": "get_hotel_room_inventory",
+                        "parameters": {
+                            "hotel_id": "H082",
+                            "check_in_date": "2026-07-18",
+                            "check_out_date": "2026-07-24",
+                            "occupancy": 3
+                        }
+                    },
+                    {
+                        "name": "book_hotel_reservation",
+                        "parameters": {
+                            "user_id": "USR-99A0E8E5",
+                            "hotel_id": "H082",
+                            "room_id": "HR6516",
+                            "check_in_date": "2026-07-18",
+                            "check_out_date": "2026-07-24",
+                            "payment_method": "credit_card"
+                        }
+                    },
+                    {
+                        "name": "book_vehicle_rental_reservation",
+                        "parameters": {
+                            "user_id": "USR-99A0E8E5",
+                            "vehicle_id": "VEH-23C949E9",
+                            "primary_driver_name": "Betty Miller",
+                            "has_drivers_license": true,
+                            "start_date": "2026-07-18",
+                            "end_date": "2026-07-24"
+                        }
+                    },
+                    {
+                        "name": "book_food_and_dining_reservation",
+                        "parameters": {
+                            "user_id": "USR-99A0E8E5",
+                            "restaurant_id": "FAD-118432",
+                            "number_guests": 3,
+                            "reservation_date": "2026-07-20",
+                            "reservation_time": "18:30",
+                            "primary_guest_name": "Betty Miller",
+                            "price_per_person": 35.0
+                        }
+                    },
+                    {
+                        "name": "book_bar_reservation",
+                        "parameters": {
+                            "user_id": "USR-99A0E8E5",
+                            "venue_id": "BAR0540",
+                            "number_guests": 3,
+                            "event_datetime": "2026-07-21 20:00",
+                            "primary_guest_name": "Betty Miller",
+                            "credit_card_last_four": "5506",
+                            "has_drivers_license": true
+                        }
+                    },
+                    {
+                        "name": "cancel_hotel_reservation",
+                        "parameters": {
+                            "user_id": "USR-99A0E8E5",
+                            "reservation_id": "RES-B2D01704"
+                        }
+                    }
+                ]
+            },
+            "llm_as_judge": {
+                "metric": {
+                    "helpfulness": {
+                        "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+                        "scale": {
+                            "1": "Unhelpful responses are irrelevant, inaccurate, or fail to address the user's needs.",
+                            "2": "Slightly helpful partially addresses the user's needs but misses key points or contains inaccuracies.",
+                            "3": "Moderately helpful addresses the user's needs adequately but lacks depth or misses some details.",
+                            "4": "Very helpful responses are relevant, accurate, and actionable with minor gaps.",
+                            "5": "Fully helpful responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+                        }
+                    },
+                    "coherence": {
+                        "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+                        "scale": {
+                            "1": "Incoherent the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+                            "2": "Slightly coherent some logical flow but notable gaps, contradictions, or context loss.",
+                            "3": "Moderately coherent generally logical flow with occasional inconsistencies or minor context loss.",
+                            "4": "Very coherent the conversation flows well with consistent context and only trivial inconsistencies.",
+                            "5": "Fully coherent the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+                        }
+                    }
+                }
+            }
+        },
+        "id": 3
+    },
+        {
+        "user_template": "## PERSONA\nYou are a customer planning a trip to a new city. You want to book flights and a hotel, then find a bar to enjoy once you arrive.\n\n## USER\n{\n  \"user_id\": \"USR-0350B121\",\n  \"first_name\": \"Sarah\",\n  \"last_name\": \"Miller\",\n  \"email\": \"sarah.miller772@outlook.com\",\n  \"city\": \"Asheville\",\n  \"state\": \"NC\",\n  \"neighborhood\": \"Downtown Asheville\",\n  \"birthdate\": \"1996-09-25\",\n  \"payment_wallet\": \"{\\\"credit_cards\\\":[{\\\"name\\\":\\\"Visa\\\",\\\"credit_card_last_four\\\":\\\"9696\\\"},{\\\"name\\\":\\\"Discover\\\",\\\"credit_card_last_four\\\":\\\"4536\\\"},{\\\"name\\\":\\\"Mastercard\\\",\\\"credit_card_last_four\\\":\\\"3634\\\"},{\\\"name\\\":\\\"Diners Club\\\",\\\"credit_card_last_four\\\":\\\"8237\\\"},{\\\"name\\\":\\\"JCB\\\",\\\"credit_card_last_four\\\":\\\"3910\\\"},{\\\"name\\\":\\\"American Express\\\",\\\"credit_card_last_four\\\":\\\"9244\\\"},{\\\"name\\\":\\\"Visa\\\",\\\"credit_card_last_four\\\":\\\"3883\\\"}],\\\"debit_cards\\\":[\\\"Mastercard Debit\\\",\\\"Visa Debit\\\"]}\",\n  \"hotel_payment_methods\": \"[\\\"debit_card\\\", \\\"reward_points\\\"]\",\n  \"hotel_membership_level\": \"Apex: Silver\",\n  \"hotel_reward_points_balance\": \"Apex: 23054\"\n}\n\n## GOAL\nFollow these steps, one per message:\n1. Ask for flights from Asheville to Syracuse departing on 2026-07-29 with a maximum price of $500.\n2. After seeing the options, book flight FL683 for 1 passenger(s) under the name Sarah Miller, paying with credit card ending in 9696.\n3. Once the flight is confirmed, search for hotels in Syracuse that have spa.\n4. Check room availability at hotel H1054 for 1 guest(s) from 2026-08-20 to 2026-08-23.\n5. Book room HR86469, paying with credit_card.\n6. Once the hotel is confirmed, also search for bars in Syracuse that have happy hour (just for fun, no booking needed).\n7. After seeing the bar results, ask to extend the hotel stay by one night -- change the check-out date to 2026-08-24.\n8. Once the hotel is modified, cancel the flight reservation, giving the reason: Decided to drive back instead.",
+        "benchmark_success_criteria": {
+            "exact_match": {
+                "tool_calls": [
+                    {
+                        "name": "search_flight",
+                        "parameters": {
+                            "departure_city": "Asheville",
+                            "arrival_city": "Syracuse",
+                            "departure_date": "2026-07-29",
+                            "price_max": 500
+                        }
+                    },
+                    {
+                        "name": "book_flight",
+                        "parameters": {
+                            "user_id": "USR-0350B121",
+                            "flight_id": "FL683",
+                            "passenger_names": [
+                                "Sarah Miller"
+                            ],
+                            "number_passengers": 1,
+                            "credit_card_last_four": "9696",
+                            "departure_city": "Asheville",
+                            "arrival_city": "Syracuse",
+                            "departure_date": "2026-07-29",
+                            "ticket_class": "Economy"
+                        }
+                    },
+                    {
+                        "name": "search_hotel",
+                        "parameters": {
+                            "city": "Syracuse",
+                            "has_spa": true
+                        }
+                    },
+                    {
+                        "name": "get_hotel_room_inventory",
+                        "parameters": {
+                            "hotel_id": "H1054",
+                            "check_in_date": "2026-08-20",
+                            "check_out_date": "2026-08-23",
+                            "occupancy": 1
+                        }
+                    },
+                    {
+                        "name": "book_hotel_reservation",
+                        "parameters": {
+                            "user_id": "USR-0350B121",
+                            "hotel_id": "H1054",
+                            "room_id": "HR86469",
+                            "check_in_date": "2026-08-20",
+                            "check_out_date": "2026-08-23",
+                            "payment_method": "credit_card"
+                        }
+                    },
+                    {
+                        "name": "search_bars",
+                        "parameters": {
+                            "city": "Syracuse",
+                            "has_happy_hour": true
+                        }
+                    },
+                    {
+                        "name": "modify_hotel_reservation",
+                        "parameters": {
+                            "user_id": "USR-0350B121",
+                            "reservation_id": "RES-BA89A0EB",
+                            "new_check_out_date": "2026-08-24"
+                        }
+                    },
+                    {
+                        "name": "cancel_flight",
+                        "parameters": {
+                            "user_id": "USR-0350B121",
+                            "reservation_id": "RES-FL683",
+                            "reason": "Decided to drive back instead"
+                        }
+                    }
+                ]
+            },
+            "llm_as_judge": {
+                "metric": {
+                    "helpfulness": {
+                        "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+                        "scale": {
+                            "1": "Unhelpful responses are irrelevant, inaccurate, or fail to address the user's needs.",
+                            "2": "Slightly helpful partially addresses the user's needs but misses key points or contains inaccuracies.",
+                            "3": "Moderately helpful addresses the user's needs adequately but lacks depth or misses some details.",
+                            "4": "Very helpful responses are relevant, accurate, and actionable with minor gaps.",
+                            "5": "Fully helpful responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+                        }
+                    },
+                    "coherence": {
+                        "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+                        "scale": {
+                            "1": "Incoherent the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+                            "2": "Slightly coherent some logical flow but notable gaps, contradictions, or context loss.",
+                            "3": "Moderately coherent generally logical flow with occasional inconsistencies or minor context loss.",
+                            "4": "Very coherent the conversation flows well with consistent context and only trivial inconsistencies.",
+                            "5": "Fully coherent the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+                        }
+                    }
+                }
+            }
+        },
+        "id": 4
+    },
+
+      {
+    "user_template": "## PERSONA\nYou are a visitor exploring a new city. You want to discover local attractions, enjoy a great meal, and find a nice cafe to relax at.\n\n## USER\n{\n  \"user_id\": \"USR-F5C5476D\",\n  \"first_name\": \"Mary\",\n  \"last_name\": \"Harris\",\n  \"email\": \"mary.harris7632@yahoo.com\",\n  \"city\": \"Norman\",\n  \"state\": \"OK\",\n  \"neighborhood\": \"East Norman\",\n  \"birthdate\": \"1992-12-28\",\n  \"payment_wallet\": \"{\\\"credit_cards\\\": [\\\"Visa\\\"], \\\"debit_cards\\\": [\\\"Visa Debit\\\"]}\",\n  \"coffee_shop_payment_methods\": \"credit_cards;debit_cards;gift_cards\",\n  \"coffee_shop_loyalty_membership\": \"Espresso Emporium:Basic\",\n  \"bubble_tea_payment_methods\": \"credit_cards;debit_cards\",\n  \"bubble_tea_loyalty_membership\": \"The Sweet Spot:Silver\"\n}\n\n## GOAL\nFollow these steps, one per message:\n1. Ask for tourist attractions in Durham, NC.\n2. After seeing the attractions, search for greek restaurants in the city.\n3. Choose the restaurant with the alphabetically lowest name and book a reservation for 2 guest(s) on 2026-08-28 at 18:30 under the name Mary Harris.\n4. After the reservation is confirmed, search for bubble teas in the city that have taro.\n5. Choose the cafe with the alphabetically lowest name and place an order for 1x Cheese Foam Green Tea using credit_card.\n6. After the cafe order is confirmed, cancel it \u2014 you changed your mind.",
+    "benchmark_success_criteria": {
+      "exact_match": {
+        "tool_calls": [
+          {
+            "name": "search_attractions",
+            "parameters": {
+              "city": "Durham",
+              "attraction_type": "Tourist",
+              "state": "NC"
+            }
+          },
+          {
+            "name": "search_food_and_dining",
+            "parameters": {
+              "city": "Durham",
+              "state": "NC",
+              "cuisine": [
+                "Greek"
+              ]
+            }
+          },
+          {
+            "name": "book_food_and_dining_reservation",
+            "parameters": {
+              "user_id": "USR-F5C5476D",
+              "restaurant_id": "FAD-251277",
+              "primary_guest_name": "Mary Harris",
+              "number_guests": 2,
+              "price_per_person": 29.0,
+              "reservation_date": "2026-08-28",
+              "reservation_time": "18:30"
+            }
+          },
+          {
+            "name": "search_cafes",
+            "parameters": {
+              "city": "Durham",
+              "cafe_type": "Bubble Tea",
+              "has_taro": true
+            }
+          },
+          {
+            "name": "place_cafe_order",
+            "parameters": {
+              "user_id": "USR-F5C5476D",
+              "cafe_id": "BTE-84A129",
+              "items": [
+                {
+                  "item_id": "CMI-2E24ED",
+                  "quantity": 1
+                }
+              ],
+              "payment_method": "credit_card"
+            }
+          },
+          {
+            "name": "cancel_cafe_order",
+            "parameters": {
+              "user_id": "USR-F5C5476D",
+              "order_id": "CAF-1913964E"
+            }
+          }
+        ]
+      },
+      "llm_as_judge": {
+        "metric": {
+          "helpfulness": {
+            "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+            "scale": {
+              "1": "Unhelpful responses are irrelevant, inaccurate, or fail to address the user's needs.",
+              "2": "Slightly helpful partially addresses the user's needs but misses key points or contains inaccuracies.",
+              "3": "Moderately helpful addresses the user's needs adequately but lacks depth or misses some details.",
+              "4": "Very helpful responses are relevant, accurate, and actionable with minor gaps.",
+              "5": "Fully helpful responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+            }
+          },
+          "coherence": {
+            "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+            "scale": {
+              "1": "Incoherent the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+              "2": "Slightly coherent some logical flow but notable gaps, contradictions, or context loss.",
+              "3": "Moderately coherent generally logical flow with occasional inconsistencies or minor context loss.",
+              "4": "Very coherent the conversation flows well with consistent context and only trivial inconsistencies.",
+              "5": "Fully coherent the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+            }
+          }
+        }
+      }
+    },
+    "id": 5
+  }
+]

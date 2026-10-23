@@ -1,0 +1,1595 @@
+flight_id,airline,departure_date,departure_time,arrival_date,arrival_time,departure_airport,departure_city,arrival_airport,arrival_city,price,ticket_class
+FL001,AeroOne,2026-04-08,08:30,2026-04-08,11:45,LAX,Los Angeles,SFO,San Francisco,189.99,Economy
+FL002,Blue Horizon Airlines,2026-04-08,14:20,2026-04-08,17:35,JFK,New York,MIA,Miami,249.5,Economy
+FL003,SkyReach Airways,2026-04-09,06:15,2026-04-09,09:30,ORD,Chicago,DEN,Denver,175.0,Economy
+FL004,Velocity Air,2026-04-09,10:45,2026-04-09,16:20,SEA,Seattle,ATL,Atlanta,310.75,Economy
+FL005,CloudNine Air,2026-04-10,07:00,2026-04-10,10:15,DFW,Dallas,PHX,Phoenix,145.25,Business
+FL006,HorizonLink,2026-04-10,13:30,2026-04-10,19:45,BOS,Boston,LAX,Los Angeles,425.0,Economy
+FL007,Atlas Wing,2026-04-11,09:20,2026-04-11,12:05,DEN,Denver,LAS,Las Vegas,129.99,Business
+FL008,Starling Air,2026-04-11,15:45,2026-04-11,18:30,MCO,Orlando,DCA,Washington,198.5,Economy
+FL009,Nimbus Airlines,2026-04-12,08:00,2026-04-12,14:25,SFO,San Francisco,JFK,New York,389.0,Economy
+FL010,Zephyr Air,2026-04-12,11:30,2026-04-12,14:45,MIA,Miami,BOS,Boston,275.8,Economy
+FL011,Aurora Jet,2026-04-13,06:45,2026-04-13,10:00,PHX,Phoenix,SEA,Seattle,295.5,Economy
+FL012,Comet Airlines,2026-04-13,16:00,2026-04-13,21:30,ATL,Atlanta,SAN,San Diego,355.0,Economy
+FL013,Firefly Air,2026-04-14,07:30,2026-04-14,10:15,SAN,San Diego,DEN,Denver,210.25,Economy
+FL014,Gulfway Airlines,2026-04-14,12:45,2026-04-14,18:10,LAX,Los Angeles,ORD,Chicago,320.99,Economy
+FL015,Jetline,2026-04-15,09:15,2026-04-15,15:40,JFK,New York,SEA,Seattle,445.75,Economy
+FL016,Moonbeam Airlines,2026-04-15,14:00,2026-04-15,17:30,LAS,Las Vegas,SFO,San Francisco,165.0,Economy
+FL017,Northstar Air,2026-04-16,08:30,2026-04-16,11:45,DCA,Washington,CLT,Charlotte,189.5,Economy
+FL018,Prairie Sky,2026-04-16,13:20,2026-04-16,16:35,CLT,Charlotte,DFW,Dallas,225.0,Economy
+FL019,Redwood Air,2026-04-17,10:00,2026-04-17,13:15,BOS,Boston,ORD,Chicago,245.75,Business
+FL020,SilverJet Airlines,2026-04-17,15:30,2026-04-17,18:45,ORD,Chicago,MSP,Minneapolis,139.99,Economy
+FL021,Skylark Airways,2026-04-18,07:15,2026-04-18,12:50,SLC,Salt Lake City,BOS,Boston,410.0,Business
+FL022,Skylo,2026-04-18,11:45,2026-04-18,14:30,MSP,Minneapolis,DEN,Denver,195.5,Economy
+FL023,Strato,2026-04-19,08:45,2026-04-19,12:00,DEN,Denver,SLC,Salt Lake City,155.25,Economy
+FL024,Summit Air Group,2026-04-19,14:30,2026-04-19,17:45,SEA,Seattle,PDX,Portland,89.99,Economy
+FL025,SunTrail Airlines,2026-04-20,09:30,2026-04-20,15:15,MIA,Miami,LAX,Los Angeles,380.0,First
+FL026,TrueWay Airlines,2026-04-20,12:00,2026-04-20,15:15,PHX,Phoenix,LAS,Las Vegas,95.5,Economy
+FL027,Winglet,2026-04-21,07:45,2026-04-21,11:00,ATL,Atlanta,MIA,Miami,179.99,Economy
+FL028,AeroVista,2026-04-21,16:20,2026-04-21,19:35,LAX,Los Angeles,SAN,San Diego,125.0,Economy
+FL029,AirNova,2026-04-22,08:15,2026-04-22,14:40,JFK,New York,SFO,San Francisco,425.5,Business
+FL030,AltitudeX,2026-04-22,13:00,2026-04-22,16:45,SFO,San Francisco,SEA,Seattle,235.75,Economy
+FL031,Blue River Air,2026-04-23,10:30,2026-04-23,13:15,DFW,Dallas,MSY,New Orleans,189.0,Business
+FL032,Coastal Breeze Airlines,2026-04-23,15:45,2026-04-23,21:10,SEA,Seattle,BOS,Boston,395.99,Business
+FL033,Crosswind Air,2026-04-24,07:00,2026-04-24,10:45,MCO,Orlando,ATL,Atlanta,149.5,Economy
+FL034,Frontier Valley Air,2026-04-24,11:30,2026-04-24,14:45,DEN,Denver,PHX,Phoenix,175.25,First
+FL035,Heartland Air,2026-04-25,08:00,2026-04-25,11:15,ORD,Chicago,STL,St. Louis,119.99,Economy
+FL036,Lakeside Airlines,2026-04-25,14:15,2026-04-25,17:30,BOS,Boston,PHL,Philadelphia,159.5,Economy
+FL037,Lift Airlines,2026-04-26,09:45,2026-04-26,16:10,LAX,Los Angeles,ATL,Atlanta,365.0,Business
+FL038,Mountain Crest Air,2026-04-26,12:30,2026-04-26,15:45,SLC,Salt Lake City,DEN,Denver,145.75,Economy
+FL039,AeroOne,2026-04-27,07:30,2026-04-27,10:15,SAN,San Diego,LAX,Los Angeles,99.99,Business
+FL040,Blue Horizon Airlines,2026-04-27,16:00,2026-04-27,19:45,JFK,New York,BWI,Baltimore,189.5,Economy
+FL041,SkyReach Airways,2026-04-28,08:45,2026-04-28,12:00,DCA,Washington,BOS,Boston,215.25,Business
+FL042,Velocity Air,2026-04-28,13:20,2026-04-28,16:35,PHX,Phoenix,SAN,San Diego,135.0,Economy
+FL043,CloudNine Air,2026-04-29,10:15,2026-04-29,13:30,SEA,Seattle,SFO,San Francisco,225.99,Economy
+FL044,HorizonLink,2026-04-29,15:00,2026-04-29,18:45,ATL,Atlanta,DCA,Washington,245.5,Economy
+FL045,Atlas Wing,2026-04-30,07:45,2026-04-30,13:10,BOS,Boston,DEN,Denver,335.75,Economy
+FL046,Starling Air,2026-04-30,11:30,2026-04-30,14:15,LAS,Las Vegas,PHX,Phoenix,110.0,Economy
+FL047,Nimbus Airlines,2026-05-01,08:30,2026-05-01,11:45,DEN,Denver,ORD,Chicago,205.5,Economy
+FL048,Zephyr Air,2026-05-01,14:45,2026-05-01,20:10,LAX,Los Angeles,JFK,New York,455.99,Economy
+FL049,Aurora Jet,2026-05-02,09:00,2026-05-02,12:45,MIA,Miami,MCO,Orlando,89.5,Economy
+FL050,Comet Airlines,2026-05-02,16:30,2026-05-02,19:15,SFO,San Francisco,LAX,Los Angeles,175.25,Economy
+FL051,Firefly Air,2026-05-03,06:30,2026-05-03,09:45,ORD,Chicago,CLT,Charlotte,195.0,Economy
+FL052,Gulfway Airlines,2026-05-03,12:15,2026-05-03,15:30,DFW,Dallas,DEN,Denver,185.5,Economy
+FL053,Jetline,2026-05-04,08:00,2026-05-04,14:25,LAX,Los Angeles,BOS,Boston,440.0,Economy
+FL054,Moonbeam Airlines,2026-05-04,15:30,2026-05-04,18:45,MIA,Miami,ATL,Atlanta,220.75,First
+FL055,Northstar Air,2026-05-05,07:45,2026-05-05,13:10,SEA,Seattle,JFK,New York,475.99,Economy
+FL056,Prairie Sky,2026-05-05,11:00,2026-05-05,14:15,PHX,Phoenix,DFW,Dallas,205.25,Economy
+FL057,Redwood Air,2026-05-06,09:30,2026-05-06,12:45,SAN,San Diego,SFO,San Francisco,145.0,Economy
+FL058,SilverJet Airlines,2026-05-06,14:45,2026-05-06,18:00,DEN,Denver,ORD,Chicago,215.5,Business
+FL059,Skylark Airways,2026-05-07,08:15,2026-05-07,11:30,BOS,Boston,DCA,Washington,179.99,Economy
+FL060,Skylo,2026-05-07,13:00,2026-05-07,16:45,ATL,Atlanta,LAX,Los Angeles,395.0,Economy
+FL061,Strato,2026-05-08,10:20,2026-05-08,13:35,SLC,Salt Lake City,SEA,Seattle,235.75,First
+FL062,Summit Air Group,2026-05-08,16:15,2026-05-08,19:00,PDX,Portland,SFO,San Francisco,155.0,Economy
+FL063,SunTrail Airlines,2026-05-09,07:00,2026-05-09,10:45,MCO,Orlando,BOS,Boston,315.5,Economy
+FL064,TrueWay Airlines,2026-05-09,12:30,2026-05-09,15:15,LAS,Las Vegas,LAX,Los Angeles,135.25,Economy
+FL065,Winglet,2026-05-10,08:45,2026-05-10,15:10,JFK,New York,DEN,Denver,365.0,Business
+FL066,AeroVista,2026-05-10,14:00,2026-05-10,17:15,DCA,Washington,CLT,Charlotte,169.99,Business
+FL067,AirNova,2026-05-11,09:15,2026-05-11,12:30,ORD,Chicago,MSP,Minneapolis,149.5,Economy
+FL068,AltitudeX,2026-05-11,15:45,2026-05-11,19:00,SFO,San Francisco,SAN,San Diego,175.0,Economy
+FL069,Blue River Air,2026-05-12,07:30,2026-05-12,10:15,DFW,Dallas,HOU,Houston,125.75,Economy
+FL070,Coastal Breeze Airlines,2026-05-12,13:20,2026-05-12,19:45,SEA,Seattle,ATL,Atlanta,425.0,Economy
+FL071,Crosswind Air,2026-05-13,08:00,2026-05-13,11:45,PHX,Phoenix,SAN,San Diego,145.99,Economy
+FL072,Frontier Valley Air,2026-05-13,14:30,2026-05-13,17:45,DEN,Denver,SLC,Salt Lake City,165.5,First
+FL073,Heartland Air,2026-05-14,10:00,2026-05-14,13:15,STL,St. Louis,ORD,Chicago,135.0,Business
+FL074,Lakeside Airlines,2026-05-14,16:00,2026-05-14,19:15,PHL,Philadelphia,BOS,Boston,185.25,Economy
+FL075,Lift Airlines,2026-05-15,07:45,2026-05-15,14:10,LAX,Los Angeles,MIA,Miami,455.99,Economy
+FL076,Mountain Crest Air,2026-05-15,11:30,2026-05-15,14:45,SLC,Salt Lake City,PHX,Phoenix,195.75,Economy
+FL077,AeroOne,2026-05-16,08:30,2026-05-16,11:45,SAN,San Diego,DEN,Denver,245.0,First
+FL078,Blue Horizon Airlines,2026-05-16,15:00,2026-05-16,18:15,JFK,New York,DCA,Washington,205.5,Economy
+FL079,SkyReach Airways,2026-05-17,09:45,2026-05-17,13:00,BOS,Boston,ORD,Chicago,235.99,Economy
+FL080,Velocity Air,2026-05-17,14:15,2026-05-17,17:30,ATL,Atlanta,CLT,Charlotte,139.0,Economy
+FL081,CloudNine Air,2026-05-18,07:00,2026-05-18,10:15,LAX,Los Angeles,PHX,Phoenix,165.5,Economy
+FL082,HorizonLink,2026-05-18,12:45,2026-05-18,19:10,SEA,Seattle,BOS,Boston,465.0,Economy
+FL083,Atlas Wing,2026-05-19,08:15,2026-05-19,11:00,DEN,Denver,LAS,Las Vegas,129.99,Economy
+FL084,Starling Air,2026-05-19,16:30,2026-05-19,19:15,MCO,Orlando,MIA,Miami,95.75,Business
+FL085,Nimbus Airlines,2026-05-20,10:00,2026-05-20,16:25,SFO,San Francisco,ATL,Atlanta,415.0,Economy
+FL086,Zephyr Air,2026-05-20,13:30,2026-05-20,16:45,DCA,Washington,BOS,Boston,195.5,Economy
+FL087,Aurora Jet,2026-05-21,07:45,2026-05-21,11:00,PHX,Phoenix,DEN,Denver,205.25,First
+FL088,Comet Airlines,2026-05-21,15:15,2026-05-21,20:40,LAX,Los Angeles,JFK,New York,485.99,Economy
+FL089,Firefly Air,2026-05-22,08:30,2026-05-22,11:15,SAN,San Diego,LAS,Las Vegas,125.0,Economy
+FL090,Gulfway Airlines,2026-05-22,14:00,2026-05-22,17:45,ORD,Chicago,DFW,Dallas,265.75,Economy
+FL091,Jetline,2026-05-23,09:15,2026-05-23,12:30,BOS,Boston,CLT,Charlotte,225.5,Economy
+FL092,Moonbeam Airlines,2026-05-23,16:45,2026-05-23,20:00,MIA,Miami,MCO,Orlando,89.99,Economy
+FL093,Northstar Air,2026-05-24,07:00,2026-05-24,10:45,SEA,Seattle,DEN,Denver,275.0,Business
+FL094,Prairie Sky,2026-05-24,12:30,2026-05-24,15:45,DFW,Dallas,ATL,Atlanta,245.25,Economy
+FL095,Redwood Air,2026-05-25,08:45,2026-05-25,12:00,SFO,San Francisco,PDX,Portland,195.99,Economy
+FL096,SilverJet Airlines,2026-05-25,15:30,2026-05-25,18:45,DEN,Denver,MSP,Minneapolis,175.5,Economy
+FL097,Skylark Airways,2026-05-26,10:15,2026-05-26,15:50,SLC,Salt Lake City,ATL,Atlanta,355.0,First
+FL098,Skylo,2026-05-26,14:00,2026-05-26,17:15,PHX,Phoenix,SAN,San Diego,135.75,Economy
+FL099,Strato,2026-05-27,07:30,2026-05-27,10:45,LAX,Los Angeles,SFO,San Francisco,189.0,First
+FL100,Summit Air Group,2026-05-27,13:45,2026-05-27,17:00,SEA,Seattle,PDX,Portland,95.5,Business
+FL101,SunTrail Airlines,2026-05-28,08:00,2026-05-28,14:25,JFK,New York,LAX,Los Angeles,495.99,Economy
+FL102,TrueWay Airlines,2026-05-28,11:30,2026-05-28,14:15,LAS,Las Vegas,DEN,Denver,155.0,Business
+FL103,Winglet,2026-05-29,09:45,2026-05-29,13:00,ATL,Atlanta,DCA,Washington,205.75,Economy
+FL104,AeroVista,2026-05-29,16:00,2026-05-29,19:15,BOS,Boston,PHL,Philadelphia,175.25,Economy
+FL105,AirNova,2026-05-30,07:15,2026-05-30,13:40,SFO,San Francisco,ORD,Chicago,385.5,Economy
+FL106,AltitudeX,2026-05-30,12:00,2026-05-30,15:45,SAN,San Diego,SEA,Seattle,285.99,Economy
+FL107,Blue River Air,2026-05-31,08:30,2026-05-31,11:15,DFW,Dallas,MSY,New Orleans,189.0,Economy
+FL108,Coastal Breeze Airlines,2026-05-31,15:45,2026-05-31,21:10,LAX,Los Angeles,BOS,Boston,445.75,Economy
+FL109,Crosswind Air,2026-06-01,10:00,2026-06-01,13:45,MCO,Orlando,ATL,Atlanta,149.5,Economy
+FL110,Frontier Valley Air,2026-06-01,14:30,2026-06-01,17:45,PHX,Phoenix,DEN,Denver,185.25,First
+FL111,Heartland Air,2026-06-02,07:00,2026-06-02,10:15,ORD,Chicago,STL,St. Louis,119.99,Business
+FL112,Lakeside Airlines,2026-06-02,13:15,2026-06-02,16:30,BOS,Boston,DCA,Washington,195.5,Economy
+FL113,Lift Airlines,2026-06-03,08:45,2026-06-03,15:10,SEA,Seattle,MIA,Miami,475.0,Economy
+FL114,Mountain Crest Air,2026-06-03,12:30,2026-06-03,15:45,SLC,Salt Lake City,DEN,Denver,145.75,Economy
+FL115,AeroOne,2026-06-04,09:15,2026-06-04,12:00,SAN,San Diego,LAX,Los Angeles,99.99,First
+FL116,Blue Horizon Airlines,2026-06-04,16:00,2026-06-04,19:45,JFK,New York,BWI,Baltimore,189.5,Business
+FL117,SkyReach Airways,2026-06-05,07:30,2026-06-05,10:45,DCA,Washington,BOS,Boston,215.25,Economy
+FL118,Velocity Air,2026-06-05,13:00,2026-06-05,16:15,ATL,Atlanta,MCO,Orlando,165.0,Economy
+FL119,CloudNine Air,2026-06-06,08:15,2026-06-06,11:30,LAX,Los Angeles,DEN,Denver,245.99,Economy
+FL120,HorizonLink,2026-06-06,15:30,2026-06-06,18:45,DFW,Dallas,CLT,Charlotte,235.5,Economy
+FL121,Atlas Wing,2026-06-07,10:00,2026-06-07,12:45,LAS,Las Vegas,PHX,Phoenix,110.0,Business
+FL122,Starling Air,2026-06-07,14:45,2026-06-07,17:30,SFO,San Francisco,SAN,San Diego,155.75,Economy
+FL123,Nimbus Airlines,2026-06-08,07:45,2026-06-08,14:10,BOS,Boston,SEA,Seattle,485.0,Business
+FL124,Zephyr Air,2026-06-08,11:30,2026-06-08,14:45,MIA,Miami,ATL,Atlanta,185.5,Economy
+FL125,Aurora Jet,2026-06-09,08:30,2026-06-09,11:15,PHX,Phoenix,LAS,Las Vegas,95.99,Economy
+FL126,Comet Airlines,2026-06-09,16:15,2026-06-09,21:40,LAX,Los Angeles,ATL,Atlanta,395.0,Economy
+FL127,Firefly Air,2026-06-10,09:00,2026-06-10,12:15,DEN,Denver,ORD,Chicago,205.5,Economy
+FL128,Gulfway Airlines,2026-06-10,15:00,2026-06-10,18:45,SAN,San Diego,SFO,San Francisco,165.25,First
+FL129,Jetline,2026-06-11,07:15,2026-06-11,13:40,JFK,New York,DEN,Denver,375.99,Business
+FL130,Moonbeam Airlines,2026-06-11,12:30,2026-06-11,15:15,PDX,Portland,SEA,Seattle,89.5,Business
+FL131,Northstar Air,2026-06-12,08:00,2026-06-12,11:15,ORD,Chicago,BOS,Boston,255.0,Economy
+FL132,Prairie Sky,2026-06-12,14:45,2026-06-12,18:00,DFW,Dallas,PHX,Phoenix,195.75,Economy
+FL133,Redwood Air,2026-06-13,10:15,2026-06-13,13:30,SFO,San Francisco,LAX,Los Angeles,175.25,Business
+FL134,SilverJet Airlines,2026-06-13,16:00,2026-06-13,19:15,DEN,Denver,SLC,Salt Lake City,155.5,First
+FL135,Skylark Airways,2026-06-14,07:30,2026-06-14,13:05,BOS,Boston,LAX,Los Angeles,455.99,Economy
+FL136,Skylo,2026-06-14,11:45,2026-06-14,14:30,MSP,Minneapolis,ORD,Chicago,145.0,Economy
+FL137,Strato,2026-06-15,08:45,2026-06-15,12:00,SEA,Seattle,SFO,San Francisco,225.75,Economy
+FL138,Summit Air Group,2026-06-15,15:15,2026-06-15,18:00,LAS,Las Vegas,SAN,San Diego,125.5,Business
+FL139,SunTrail Airlines,2026-06-16,09:30,2026-06-16,15:55,MIA,Miami,DEN,Denver,385.0,Business
+FL140,TrueWay Airlines,2026-06-16,13:00,2026-06-16,16:15,PHX,Phoenix,SAN,San Diego,135.25,Economy
+FL141,Winglet,2026-06-17,07:00,2026-06-17,10:15,ATL,Atlanta,CLT,Charlotte,155.99,Economy
+FL142,AeroVista,2026-06-17,14:30,2026-06-17,17:45,LAX,Los Angeles,SAN,San Diego,125.0,Economy
+FL143,AirNova,2026-06-18,08:15,2026-06-18,14:40,JFK,New York,LAX,Los Angeles,465.5,Economy
+FL144,AltitudeX,2026-06-18,12:45,2026-06-18,16:30,SFO,San Francisco,PDX,Portland,195.75,Business
+FL145,Blue River Air,2026-06-19,10:00,2026-06-19,12:45,DFW,Dallas,HOU,Houston,125.0,Economy
+FL146,Coastal Breeze Airlines,2026-06-19,15:30,2026-06-19,21:55,SEA,Seattle,JFK,New York,505.99,Economy
+FL147,Crosswind Air,2026-06-20,07:45,2026-06-20,11:30,MCO,Orlando,MIA,Miami,89.5,Economy
+FL148,Frontier Valley Air,2026-06-20,13:00,2026-06-20,16:15,DEN,Denver,PHX,Phoenix,175.25,Business
+FL149,Heartland Air,2026-06-21,08:30,2026-06-21,11:45,ORD,Chicago,MSP,Minneapolis,139.99,Economy
+FL150,Lakeside Airlines,2026-06-21,16:15,2026-06-21,19:30,BOS,Boston,PHL,Philadelphia,159.5,Economy
+FL151,HorizonLink,2026-05-24,07:15,2026-05-24,11:15,AUS,Austin,PVD,Providence,353.2,First
+FL152,Heartland Air,2026-05-15,16:30,2026-05-15,20:30,BOS,Boston,FSD,Sioux Falls,358.7,Economy
+FL153,TrueWay Airlines,2026-06-02,19:45,2026-06-02,22:00,BDL,Hartford,SEA,Seattle,232.85,Economy
+FL154,HorizonLink,2026-06-15,10:15,2026-06-15,12:15,ORD,Chicago,PSP,Palm Springs,236.28,Economy
+FL155,Northstar Air,2026-05-16,09:15,2026-05-16,15:45,PHX,Phoenix,IAD,Washington,454.27,Economy
+FL156,Starling Air,2026-05-01,06:15,2026-05-01,07:15,XNA,Fayetteville,PSP,Palm Springs,205.26,Economy
+FL157,Comet Airlines,2026-04-27,09:30,2026-04-27,13:00,CLT,Charlotte,HRL,Harlingen,285.0,Economy
+FL158,Lakeside Airlines,2026-06-04,21:30,2026-06-04,23:30,CHA,Chattanooga,JFK,New York,322.31,Economy
+FL159,Lift Airlines,2026-06-27,10:00,2026-06-27,13:30,MCO,Orlando,BOS,Boston,281.98,Economy
+FL160,Blue River Air,2026-05-28,10:00,2026-05-28,11:00,ABE,Allentown,SNA,Santa Ana,176.42,Economy
+FL161,Velocity Air,2026-04-20,13:15,2026-04-20,14:45,AVL,Asheville,SMF,Sacramento,274.13,Economy
+FL162,SunTrail Airlines,2026-06-12,22:00,2026-06-13,02:00,SEA,Seattle,ONT,Ontario,360.81,Economy
+FL163,Firefly Air,2026-07-03,06:45,2026-07-03,11:30,ATL,Atlanta,MFE,McAllen,414.61,Economy
+FL164,AirNova,2026-04-14,20:00,2026-04-15,00:00,CLT,Charlotte,JFK,New York,362.02,First
+FL165,SunTrail Airlines,2026-05-04,15:45,2026-05-04,20:15,MEM,Memphis,BZN,Bozeman,287.07,Business
+FL166,Lift Airlines,2026-06-16,19:30,2026-06-16,22:15,GEG,Spokane,SGF,Springfield,161.1,Economy
+FL167,SkyReach Airways,2026-05-18,15:00,2026-05-18,19:15,MSY,New Orleans,PIE,St. Petersburg,276.64,Economy
+FL168,Firefly Air,2026-06-23,09:00,2026-06-23,11:45,LEX,Lexington,PIE,St. Petersburg,202.38,Economy
+FL169,Velocity Air,2026-04-27,09:30,2026-04-27,12:00,IND,Indianapolis,PBI,West Palm Beach,157.32,Economy
+FL170,Zephyr Air,2026-06-17,06:15,2026-06-17,10:15,SAN,San Diego,MSP,Minneapolis,349.18,Economy
+FL171,Summit Air Group,2026-06-04,10:45,2026-06-04,13:00,MCO,Orlando,TPA,Tampa,278.78,First
+FL172,SunTrail Airlines,2026-06-12,22:30,2026-06-13,04:45,BTV,Burlington,GSP,Greenville,521.14,Economy
+FL173,Heartland Air,2026-06-01,09:00,2026-06-01,14:45,IND,Indianapolis,MDW,Chicago,369.57,Economy
+FL174,AeroVista,2026-06-08,07:30,2026-06-08,12:30,ABE,Allentown,PIT,Pittsburgh,302.61,Business
+FL175,Crosswind Air,2026-06-16,07:30,2026-06-16,10:45,SGF,Springfield,FLL,Fort Lauderdale,246.98,Business
+FL176,Redwood Air,2026-05-04,15:15,2026-05-04,19:00,SGF,Springfield,BUR,Burbank,247.75,Economy
+FL177,Firefly Air,2026-06-07,11:30,2026-06-07,17:15,PVD,Providence,LBB,Lubbock,458.07,Economy
+FL178,SilverJet Airlines,2026-06-20,16:15,2026-06-20,21:30,SMF,Sacramento,RDU,Raleigh,315.57,Economy
+FL179,Atlas Wing,2026-05-01,18:30,2026-05-02,01:15,SAN,San Diego,CHA,Chattanooga,494.54,Economy
+FL180,Lakeside Airlines,2026-05-18,06:00,2026-05-18,11:15,HPN,White Plains,COS,Colorado Springs,456.9,Economy
+FL181,Blue Horizon Airlines,2026-05-30,07:00,2026-05-30,11:00,TPA,Tampa,BDL,Hartford,324.14,Business
+FL182,Skylark Airways,2026-05-20,21:30,2026-05-20,23:15,JAX,Jacksonville,LBB,Lubbock,227.42,Economy
+FL183,SilverJet Airlines,2026-06-18,10:30,2026-06-18,15:30,LBB,Lubbock,SMF,Sacramento,307.95,First
+FL184,Starling Air,2026-04-29,15:00,2026-04-29,17:30,FAT,Fresno,RSW,Fort Myers,156.92,Economy
+FL185,Starling Air,2026-06-24,22:15,2026-06-25,02:00,ECP,Panama City,MSP,Minneapolis,350.32,Economy
+FL186,Prairie Sky,2026-04-22,08:15,2026-04-22,09:15,PSP,Palm Springs,FSD,Sioux Falls,201.72,Economy
+FL187,Lift Airlines,2026-04-17,19:00,2026-04-17,21:30,BOS,Boston,HRL,Harlingen,216.39,Business
+FL188,Nimbus Airlines,2026-04-15,15:45,2026-04-15,17:45,ATW,Appleton,MFE,McAllen,175.47,Economy
+FL189,CloudNine Air,2026-05-04,08:45,2026-05-04,14:00,DCA,Washington,EWR,Newark,335.22,Economy
+FL190,Lift Airlines,2026-06-18,16:15,2026-06-18,21:00,COS,Colorado Springs,OMA,Omaha,381.24,Economy
+FL191,CloudNine Air,2026-05-29,18:00,2026-05-29,21:45,ECP,Panama City,MSP,Minneapolis,319.95,Economy
+FL192,Blue Horizon Airlines,2026-06-09,20:45,2026-06-09,22:45,ORF,Norfolk,FWA,Fort Wayne,280.43,Economy
+FL193,Strato,2026-05-08,10:15,2026-05-08,16:15,CLT,Charlotte,ROC,Rochester,528.2,Economy
+FL194,Northstar Air,2026-04-25,20:45,2026-04-25,22:00,VPS,Destin,PBI,West Palm Beach,180.77,First
+FL195,TrueWay Airlines,2026-05-29,10:45,2026-05-29,15:45,SDF,Louisville,ROC,Rochester,409.8,Economy
+FL196,Velocity Air,2026-05-14,06:00,2026-05-14,11:30,RDM,Redmond,ABE,Allentown,302.87,Business
+FL197,Crosswind Air,2026-06-06,05:00,2026-06-06,09:45,PNS,Pensacola,CHA,Chattanooga,278.3,Economy
+FL198,Starling Air,2026-07-03,11:30,2026-07-03,18:15,BIL,Billings,FAT,Fresno,354.01,Economy
+FL199,Redwood Air,2026-05-11,14:15,2026-05-11,17:15,DCA,Washington,PIT,Pittsburgh,343.06,First
+FL200,Velocity Air,2026-06-17,16:00,2026-06-17,20:15,FAI,Fairbanks,MSP,Minneapolis,354.26,Business
+FL201,Starling Air,2026-05-16,16:45,2026-05-16,19:00,GSP,Greenville,AUS,Austin,202.85,First
+FL202,SilverJet Airlines,2026-05-30,06:45,2026-05-30,08:00,SMF,Sacramento,COS,Colorado Springs,248.31,First
+FL203,AltitudeX,2026-04-19,07:45,2026-04-19,13:15,PWM,Portland,SLC,Salt Lake City,406.51,Business
+FL204,Zephyr Air,2026-07-05,10:00,2026-07-05,14:45,MFE,McAllen,STL,St. Louis,364.96,Economy
+FL205,SkyReach Airways,2026-06-18,14:00,2026-06-18,17:15,BWI,Baltimore,SAV,Savannah,371.3,Economy
+FL206,Strato,2026-05-19,10:45,2026-05-19,14:00,PNS,Pensacola,BZN,Bozeman,223.08,Economy
+FL207,Jetline,2026-06-22,18:15,2026-06-23,01:00,MCI,Kansas City,GSO,Greensboro,390.89,Economy
+FL208,Firefly Air,2026-07-02,18:30,2026-07-02,20:15,LGB,Long Beach,KOA,Kona,156.25,Economy
+FL209,Starling Air,2026-04-23,19:15,2026-04-23,21:15,CLE,Cleveland,OGG,Maui,243.51,Economy
+FL210,Northstar Air,2026-05-07,15:45,2026-05-07,17:15,FSD,Sioux Falls,ROC,Rochester,262.41,First
+FL211,TrueWay Airlines,2026-07-07,15:30,2026-07-07,19:15,HPN,White Plains,DAY,Dayton,348.01,Economy
+FL212,Lakeside Airlines,2026-06-03,18:00,2026-06-03,21:30,CVG,Cincinnati,RDM,Redmond,269.1,Business
+FL213,Northstar Air,2026-06-06,12:15,2026-06-06,16:45,ORD,Chicago,SMF,Sacramento,350.38,Economy
+FL214,AeroVista,2026-04-27,05:30,2026-04-27,08:00,BZN,Bozeman,BHM,Birmingham,326.07,Economy
+FL215,Lift Airlines,2026-04-10,20:30,2026-04-10,22:15,PWM,Portland,ATL,Atlanta,192.38,First
+FL216,SunTrail Airlines,2026-05-23,16:15,2026-05-23,19:00,XNA,Fayetteville,SEA,Seattle,316.55,First
+FL217,CloudNine Air,2026-05-16,15:45,2026-05-16,18:30,SBN,South Bend,LBB,Lubbock,180.48,Economy
+FL218,TrueWay Airlines,2026-06-30,12:15,2026-06-30,14:00,ILM,Wilmington,LIT,Little Rock,250.17,Business
+FL219,Summit Air Group,2026-05-25,06:15,2026-05-25,10:00,PBI,West Palm Beach,MCO,Orlando,229.86,Economy
+FL220,Skylo,2026-06-20,11:00,2026-06-20,14:45,EYW,Key West,MIA,Miami,272.2,Economy
+FL221,Redwood Air,2026-06-01,07:15,2026-06-01,12:15,EYW,Key West,SFB,Sanford,470.66,First
+FL222,Frontier Valley Air,2026-06-24,22:00,2026-06-25,00:15,ANC,Anchorage,TYS,Knoxville,211.05,Economy
+FL223,Blue Horizon Airlines,2026-04-27,22:30,2026-04-28,04:15,HPN,White Plains,RDU,Raleigh,474.34,Economy
+FL224,Gulfway Airlines,2026-05-02,08:00,2026-05-02,12:30,ONT,Ontario,MCO,Orlando,317.23,Business
+FL225,Mountain Crest Air,2026-07-03,15:00,2026-07-03,20:30,CHA,Chattanooga,EYW,Key West,373.72,Economy
+FL226,Redwood Air,2026-05-18,22:15,2026-05-18,23:30,OAK,Oakland,PHX,Phoenix,272.15,Economy
+FL227,Zephyr Air,2026-04-18,19:45,2026-04-18,22:15,OGG,Maui,RDU,Raleigh,167.84,Economy
+FL228,Lift Airlines,2026-04-21,06:30,2026-04-21,11:15,AVL,Asheville,FAT,Fresno,409.79,Business
+FL229,AirNova,2026-07-02,07:00,2026-07-02,11:45,PIE,St. Petersburg,CVG,Cincinnati,396.45,Economy
+FL230,Crosswind Air,2026-05-21,19:15,2026-05-22,02:00,HPN,White Plains,SJC,San Jose,398.79,First
+FL231,SunTrail Airlines,2026-05-30,09:30,2026-05-30,13:30,PIT,Pittsburgh,DTW,Detroit,315.11,Economy
+FL232,Northstar Air,2026-06-10,06:30,2026-06-10,12:30,CHA,Chattanooga,CVG,Cincinnati,414.83,Economy
+FL233,AeroVista,2026-06-18,20:45,2026-06-18,22:45,PWM,Portland,LIH,Kauai,172.22,Economy
+FL234,Heartland Air,2026-05-25,09:30,2026-05-25,15:00,JAX,Jacksonville,ACY,Atlantic City,336.67,Economy
+FL235,Aurora Jet,2026-07-02,19:45,2026-07-03,01:15,FSD,Sioux Falls,PVD,Providence,467.01,Economy
+FL236,Aurora Jet,2026-06-17,18:30,2026-06-17,20:15,MAF,Midland,MEM,Memphis,171.3,Economy
+FL237,Comet Airlines,2026-06-23,19:30,2026-06-24,02:00,SMF,Sacramento,SAV,Savannah,378.87,Business
+FL238,CloudNine Air,2026-06-17,11:30,2026-06-17,15:15,VPS,Destin,CMH,Columbus,379.99,Economy
+FL239,SunTrail Airlines,2026-07-02,11:30,2026-07-02,17:00,HRL,Harlingen,OAK,Oakland,448.33,Economy
+FL240,Summit Air Group,2026-05-27,09:15,2026-05-27,14:30,MEM,Memphis,SGF,Springfield,347.9,Economy
+FL241,Atlas Wing,2026-05-10,09:00,2026-05-10,11:00,OGG,Maui,JAC,Jackson Hole,194.98,Economy
+FL242,Velocity Air,2026-05-12,12:00,2026-05-12,15:15,BTV,Burlington,DTW,Detroit,281.37,Economy
+FL243,Summit Air Group,2026-05-28,15:45,2026-05-28,21:30,FWA,Fort Wayne,STL,St. Louis,417.08,Economy
+FL244,SilverJet Airlines,2026-04-22,05:30,2026-04-22,10:30,LBB,Lubbock,DEN,Denver,370.53,First
+FL245,AltitudeX,2026-06-21,13:30,2026-06-21,19:30,SBN,South Bend,SAV,Savannah,389.13,Economy
+FL246,SilverJet Airlines,2026-06-01,15:30,2026-06-01,21:30,SRQ,Sarasota,CID,Cedar Rapids,394.57,Business
+FL247,AltitudeX,2026-04-19,19:15,2026-04-19,20:15,BDL,Hartford,SYR,Syracuse,197.16,Economy
+FL248,SunTrail Airlines,2026-06-16,21:30,2026-06-17,00:15,MDW,Chicago,MDT,Harrisburg,272.94,Economy
+FL249,SkyReach Airways,2026-05-21,20:15,2026-05-21,23:45,PIE,St. Petersburg,MDT,Harrisburg,255.68,Economy
+FL250,Atlas Wing,2026-06-22,09:00,2026-06-22,14:00,MYR,Myrtle Beach,CID,Cedar Rapids,333.89,Economy
+FL251,Winglet,2026-04-28,20:30,2026-04-29,00:15,PIE,St. Petersburg,LBB,Lubbock,264.13,Economy
+FL252,Blue Horizon Airlines,2026-07-04,12:15,2026-07-04,15:30,MSP,Minneapolis,PIT,Pittsburgh,236.07,Business
+FL253,Crosswind Air,2026-05-02,05:30,2026-05-02,08:00,DAL,Dallas,IAH,Houston,266.47,Economy
+FL254,Blue Horizon Airlines,2026-04-29,10:15,2026-04-29,12:30,DAY,Dayton,SFB,Sanford,326.37,Economy
+FL255,HorizonLink,2026-05-31,11:15,2026-05-31,13:15,ICT,Wichita,HRL,Harlingen,247.83,First
+FL256,SunTrail Airlines,2026-05-11,16:45,2026-05-11,19:45,FAT,Fresno,SDF,Louisville,240.11,First
+FL257,Skylo,2026-06-25,07:15,2026-06-25,13:00,IND,Indianapolis,SDF,Louisville,406.1,Economy
+FL258,Zephyr Air,2026-04-26,18:00,2026-04-26,21:45,HPN,White Plains,ORF,Norfolk,240.4,Economy
+FL259,Blue River Air,2026-06-27,21:30,2026-06-28,04:15,JAC,Jackson Hole,BOS,Boston,468.65,Economy
+FL260,Redwood Air,2026-06-14,21:15,2026-06-15,01:30,JAX,Jacksonville,TUL,Tulsa,343.45,First
+FL261,Nimbus Airlines,2026-05-25,06:00,2026-05-25,12:45,PSP,Palm Springs,RDU,Raleigh,397.42,Business
+FL262,Redwood Air,2026-07-05,16:00,2026-07-05,21:30,SAN,San Diego,CHA,Chattanooga,347.42,Business
+FL263,Crosswind Air,2026-06-21,06:15,2026-06-21,12:45,FAT,Fresno,PSC,Pasco,371.07,Economy
+FL264,Crosswind Air,2026-04-12,15:00,2026-04-12,19:30,ECP,Panama City,BWI,Baltimore,391.32,Economy
+FL265,SilverJet Airlines,2026-06-02,19:00,2026-06-03,00:00,BHM,Birmingham,ATW,Appleton,451.16,Business
+FL266,Nimbus Airlines,2026-07-03,07:00,2026-07-03,13:15,SDF,Louisville,BDL,Hartford,385.71,Business
+FL267,Aurora Jet,2026-04-26,05:30,2026-04-26,11:30,OAK,Oakland,KOA,Kona,380.43,Economy
+FL268,Crosswind Air,2026-05-31,14:15,2026-05-31,19:00,AUS,Austin,CVG,Cincinnati,258.44,First
+FL269,Coastal Breeze Airlines,2026-05-10,09:15,2026-05-10,15:30,ROC,Rochester,DAL,Dallas,371.19,Economy
+FL270,AeroVista,2026-05-30,20:45,2026-05-30,22:00,BUR,Burbank,DSM,Des Moines,193.98,Economy
+FL271,Lift Airlines,2026-06-15,13:45,2026-06-15,19:15,BZN,Bozeman,ORD,Chicago,323.31,Business
+FL272,Winglet,2026-04-23,17:45,2026-04-23,23:15,DTW,Detroit,MDW,Chicago,418.51,Economy
+FL273,Jetline,2026-06-24,15:15,2026-06-24,19:30,PGD,Punta Gorda,XNA,Fayetteville,286.77,Economy
+FL274,Strato,2026-06-21,05:30,2026-06-21,06:45,LGA,New York,HNL,Honolulu,242.59,First
+FL275,Nimbus Airlines,2026-06-15,11:15,2026-06-15,16:15,MCI,Kansas City,HSV,Huntsville,420.04,Economy
+FL276,Lift Airlines,2026-05-15,20:00,2026-05-15,22:45,DAL,Dallas,FLL,Fort Lauderdale,263.52,Economy
+FL277,CloudNine Air,2026-04-14,16:45,2026-04-14,20:30,ANC,Anchorage,BOS,Boston,225.01,Economy
+FL278,Jetline,2026-05-17,08:15,2026-05-17,10:45,XNA,Fayetteville,PHX,Phoenix,240.83,Economy
+FL279,Redwood Air,2026-04-09,08:00,2026-04-09,10:00,CLT,Charlotte,MSO,Missoula,246.78,Economy
+FL280,Strato,2026-06-10,20:45,2026-06-11,02:45,BWI,Baltimore,MEM,Memphis,404.27,Economy
+FL281,Heartland Air,2026-05-05,22:30,2026-05-06,02:45,JFK,New York,HPN,White Plains,272.25,Business
+FL282,AltitudeX,2026-05-08,15:45,2026-05-08,16:45,MFR,Medford,BOS,Boston,132.66,Economy
+FL283,TrueWay Airlines,2026-07-03,08:30,2026-07-03,10:00,ATL,Atlanta,MCO,Orlando,257.94,Economy
+FL284,Aurora Jet,2026-04-19,12:45,2026-04-19,19:00,PNS,Pensacola,RSW,Fort Myers,498.8,Economy
+FL285,Crosswind Air,2026-06-06,17:30,2026-06-06,20:00,LGA,New York,OMA,Omaha,228.01,Economy
+FL286,Mountain Crest Air,2026-04-22,14:00,2026-04-22,16:15,PBI,West Palm Beach,BZN,Bozeman,286.14,First
+FL287,Comet Airlines,2026-06-10,17:45,2026-06-10,20:45,SFB,Sanford,SYR,Syracuse,264.49,Business
+FL288,Moonbeam Airlines,2026-05-07,19:00,2026-05-07,22:15,AUS,Austin,MFE,McAllen,294.47,Economy
+FL289,Starling Air,2026-05-09,10:30,2026-05-09,13:30,ITO,Hilo,BZN,Bozeman,220.95,Economy
+FL290,Blue Horizon Airlines,2026-06-08,18:45,2026-06-09,00:30,SFB,Sanford,ORD,Chicago,411.52,Economy
+FL291,Strato,2026-05-22,14:30,2026-05-22,16:00,SAT,San Antonio,IND,Indianapolis,224.11,Economy
+FL292,Northstar Air,2026-07-07,21:45,2026-07-08,03:30,ORD,Chicago,PSP,Palm Springs,343.72,Business
+FL293,Blue Horizon Airlines,2026-06-25,06:15,2026-06-25,08:00,GSO,Greensboro,TYS,Knoxville,135.95,Economy
+FL294,Northstar Air,2026-06-26,13:45,2026-06-26,15:15,MSP,Minneapolis,AVL,Asheville,241.17,Economy
+FL295,Jetline,2026-06-14,21:15,2026-06-15,00:30,CLE,Cleveland,ANC,Anchorage,360.86,Business
+FL296,AeroVista,2026-04-13,17:15,2026-04-13,20:45,SAT,San Antonio,RNO,Reno,210.99,Economy
+FL297,Strato,2026-06-03,21:30,2026-06-04,03:00,FAI,Fairbanks,ITO,Hilo,403.48,Economy
+FL298,AltitudeX,2026-05-14,11:30,2026-05-14,15:45,SJC,San Jose,SLC,Salt Lake City,374.82,Economy
+FL299,HorizonLink,2026-04-30,14:30,2026-04-30,17:00,SGF,Springfield,OMA,Omaha,191.75,Economy
+FL300,Blue Horizon Airlines,2026-07-02,18:15,2026-07-02,19:15,OAK,Oakland,SDF,Louisville,140.32,Business
+FL301,Crosswind Air,2026-06-11,11:30,2026-06-11,15:00,PGD,Punta Gorda,TPA,Tampa,282.8,First
+FL302,Winglet,2026-06-20,17:45,2026-06-20,23:30,HPN,White Plains,BZN,Bozeman,339.83,Economy
+FL303,Moonbeam Airlines,2026-06-24,07:30,2026-06-24,12:15,MSO,Missoula,PVD,Providence,394.9,Business
+FL304,Lakeside Airlines,2026-06-12,21:00,2026-06-13,00:15,OMA,Omaha,XNA,Fayetteville,211.03,Economy
+FL305,TrueWay Airlines,2026-05-22,17:30,2026-05-22,21:30,ROC,Rochester,LIH,Kauai,320.4,Economy
+FL306,Lakeside Airlines,2026-06-11,20:15,2026-06-12,03:00,BIL,Billings,DEN,Denver,406.38,Economy
+FL307,Comet Airlines,2026-05-23,15:30,2026-05-23,20:00,TYS,Knoxville,MAF,Midland,393.18,Economy
+FL308,Lakeside Airlines,2026-05-19,07:30,2026-05-19,09:00,CLE,Cleveland,GSO,Greensboro,213.24,Business
+FL309,Velocity Air,2026-05-24,15:15,2026-05-24,21:15,ELP,El Paso,MFE,McAllen,376.34,Business
+FL310,SkyReach Airways,2026-05-10,10:00,2026-05-10,15:45,VPS,Destin,MFE,McAllen,438.32,Business
+FL311,Redwood Air,2026-05-30,08:00,2026-05-30,13:45,RDM,Redmond,BUR,Burbank,377.21,Business
+FL312,Comet Airlines,2026-06-19,08:15,2026-06-19,12:00,TPA,Tampa,PHX,Phoenix,273.83,Economy
+FL313,AeroOne,2026-04-10,18:30,2026-04-10,21:30,PWM,Portland,BUR,Burbank,307.19,Economy
+FL314,Blue River Air,2026-05-06,17:15,2026-05-06,23:15,PIT,Pittsburgh,ANC,Anchorage,471.33,Economy
+FL315,Heartland Air,2026-06-10,22:15,2026-06-11,01:15,ELP,El Paso,LIH,Kauai,274.73,Business
+FL316,Winglet,2026-06-04,14:15,2026-06-04,15:30,PVD,Providence,EYW,Key West,278.65,Business
+FL317,CloudNine Air,2026-07-05,17:15,2026-07-06,00:00,SAN,San Diego,MSY,New Orleans,478.72,Economy
+FL318,Nimbus Airlines,2026-04-29,21:30,2026-04-29,23:30,BIL,Billings,TPA,Tampa,285.28,Economy
+FL319,SkyReach Airways,2026-05-08,09:15,2026-05-08,12:45,GEG,Spokane,CLE,Cleveland,367.96,Economy
+FL320,Summit Air Group,2026-04-21,21:45,2026-04-21,23:30,LIH,Kauai,SAT,San Antonio,254.72,First
+FL321,Zephyr Air,2026-05-22,08:30,2026-05-22,12:30,PIE,St. Petersburg,CHA,Chattanooga,277.38,Business
+FL322,Coastal Breeze Airlines,2026-04-28,13:15,2026-04-28,19:30,JFK,New York,RDU,Raleigh,506.21,First
+FL323,Atlas Wing,2026-04-25,17:00,2026-04-25,22:15,SEA,Seattle,ABE,Allentown,440.81,Business
+FL324,Starling Air,2026-06-27,20:00,2026-06-27,23:45,TUS,Tucson,BWI,Baltimore,334.95,Business
+FL325,Crosswind Air,2026-04-20,06:15,2026-04-20,08:15,MYR,Myrtle Beach,LAX,Los Angeles,230.2,Economy
+FL326,Starling Air,2026-05-22,13:00,2026-05-22,18:15,JAX,Jacksonville,OMA,Omaha,342.02,Business
+FL327,Northstar Air,2026-06-25,18:00,2026-06-25,20:15,DCA,Washington,PHL,Philadelphia,257.56,Economy
+FL328,Lift Airlines,2026-06-16,16:30,2026-06-16,20:30,MFR,Medford,FSD,Sioux Falls,319.56,First
+FL329,AeroOne,2026-06-30,13:30,2026-06-30,16:30,MSY,New Orleans,KOA,Kona,240.18,Business
+FL330,Atlas Wing,2026-05-22,20:30,2026-05-23,01:15,GSO,Greensboro,DTW,Detroit,309.49,Business
+FL331,Heartland Air,2026-05-30,18:00,2026-05-30,20:15,TPA,Tampa,MDT,Harrisburg,170.88,Business
+FL332,Zephyr Air,2026-05-14,07:30,2026-05-14,12:00,JFK,New York,ATW,Appleton,386.94,Economy
+FL333,AeroVista,2026-07-06,13:00,2026-07-06,17:15,SAN,San Diego,LGA,New York,255.11,Business
+FL334,SunTrail Airlines,2026-05-05,10:45,2026-05-05,15:45,CLE,Cleveland,MSO,Missoula,421.81,Economy
+FL335,Aurora Jet,2026-04-10,20:45,2026-04-11,01:45,PGD,Punta Gorda,ORD,Chicago,424.72,Business
+FL336,Summit Air Group,2026-04-25,06:15,2026-04-25,07:15,HPN,White Plains,SYR,Syracuse,187.42,Business
+FL337,HorizonLink,2026-06-08,20:00,2026-06-09,02:15,SEA,Seattle,DTW,Detroit,465.84,Economy
+FL338,Velocity Air,2026-06-29,10:30,2026-06-29,13:15,COS,Colorado Springs,SYR,Syracuse,214.65,Business
+FL339,Strato,2026-04-24,21:45,2026-04-25,01:30,TUS,Tucson,LIT,Little Rock,308.16,Economy
+FL340,Nimbus Airlines,2026-04-28,06:45,2026-04-28,12:45,ACY,Atlantic City,SMF,Sacramento,512.53,Economy
+FL341,Aurora Jet,2026-06-14,08:30,2026-06-14,12:15,ITO,Hilo,LGB,Long Beach,365.99,Business
+FL342,Prairie Sky,2026-04-26,16:30,2026-04-26,22:00,GSP,Greenville,SFO,San Francisco,395.81,Economy
+FL343,TrueWay Airlines,2026-06-24,19:15,2026-06-25,02:00,RDU,Raleigh,TUS,Tucson,500.21,Economy
+FL344,Winglet,2026-06-03,19:45,2026-06-03,20:45,CLE,Cleveland,PIE,St. Petersburg,105.95,Economy
+FL345,Winglet,2026-04-11,13:45,2026-04-11,17:30,MSP,Minneapolis,VPS,Destin,277.33,Economy
+FL346,Crosswind Air,2026-05-29,08:00,2026-05-29,14:15,SGF,Springfield,ORF,Norfolk,451.09,Business
+FL347,Prairie Sky,2026-06-16,08:45,2026-06-16,13:15,LAS,Las Vegas,IND,Indianapolis,260.16,First
+FL348,Nimbus Airlines,2026-05-18,22:30,2026-05-18,23:30,MCI,Kansas City,BWI,Baltimore,266.08,Economy
+FL349,Atlas Wing,2026-05-28,05:00,2026-05-28,07:15,RDU,Raleigh,OAK,Oakland,239.33,Economy
+FL350,AirNova,2026-05-23,21:30,2026-05-24,01:00,ATL,Atlanta,JAC,Jackson Hole,210.11,Economy
+FL351,Crosswind Air,2026-06-01,18:30,2026-06-01,21:30,BWI,Baltimore,ORF,Norfolk,277.82,First
+FL352,Velocity Air,2026-04-25,15:00,2026-04-25,21:30,KOA,Kona,SAN,San Diego,381.25,Economy
+FL353,SilverJet Airlines,2026-06-08,07:45,2026-06-08,12:45,CHS,Charleston,OMA,Omaha,412.32,First
+FL354,Lakeside Airlines,2026-05-30,15:45,2026-05-30,20:45,DFW,Dallas,PHL,Philadelphia,440.44,Economy
+FL355,Gulfway Airlines,2026-05-09,09:15,2026-05-09,10:15,BDL,Hartford,IAD,Washington,270.65,First
+FL356,Mountain Crest Air,2026-04-20,18:30,2026-04-20,20:30,MHT,Manchester,CID,Cedar Rapids,271.13,Economy
+FL357,SunTrail Airlines,2026-05-09,21:15,2026-05-09,22:45,HPN,White Plains,FAT,Fresno,273.93,First
+FL358,Starling Air,2026-05-05,19:15,2026-05-05,20:45,PBI,West Palm Beach,SJC,San Jose,116.4,Economy
+FL359,Redwood Air,2026-04-11,16:15,2026-04-11,20:15,CMH,Columbus,STL,St. Louis,384.9,Economy
+FL360,Nimbus Airlines,2026-04-13,07:45,2026-04-13,11:15,TPA,Tampa,SFB,Sanford,231.32,Economy
+FL361,Nimbus Airlines,2026-04-27,17:00,2026-04-27,22:45,SAV,Savannah,PSP,Palm Springs,409.36,Business
+FL362,Zephyr Air,2026-07-03,10:00,2026-07-03,12:00,SNA,Santa Ana,MDT,Harrisburg,184.78,Economy
+FL363,Firefly Air,2026-04-16,05:00,2026-04-16,08:30,MSO,Missoula,DSM,Des Moines,260.88,Economy
+FL364,Northstar Air,2026-06-07,17:30,2026-06-07,22:45,PSP,Palm Springs,HOU,Houston,428.48,Economy
+FL365,Comet Airlines,2026-06-27,15:15,2026-06-27,20:15,CLT,Charlotte,LBB,Lubbock,346.9,Economy
+FL366,SilverJet Airlines,2026-04-10,05:15,2026-04-10,12:00,RDM,Redmond,MCI,Kansas City,495.0,Economy
+FL367,Zephyr Air,2026-04-23,17:45,2026-04-24,00:30,MYR,Myrtle Beach,HOU,Houston,471.6,Economy
+FL368,Aurora Jet,2026-05-01,09:00,2026-05-01,15:15,ELP,El Paso,DEN,Denver,404.57,Business
+FL369,Skylo,2026-06-17,11:30,2026-06-17,17:00,LEX,Lexington,SNA,Santa Ana,369.93,Economy
+FL370,Coastal Breeze Airlines,2026-06-28,09:15,2026-06-28,11:15,PNS,Pensacola,SYR,Syracuse,241.97,First
+FL371,Atlas Wing,2026-05-25,19:15,2026-05-26,01:15,ORF,Norfolk,PIT,Pittsburgh,520.88,Economy
+FL372,SunTrail Airlines,2026-06-23,21:45,2026-06-24,02:45,DSM,Des Moines,SMF,Sacramento,342.86,Business
+FL373,SkyReach Airways,2026-06-06,13:00,2026-06-06,15:45,ILM,Wilmington,DEN,Denver,325.43,Business
+FL374,Summit Air Group,2026-04-27,08:15,2026-04-27,09:45,AUS,Austin,ORF,Norfolk,122.1,Economy
+FL375,Comet Airlines,2026-06-14,22:30,2026-06-15,03:15,EYW,Key West,SAT,San Antonio,427.42,Economy
+FL376,Gulfway Airlines,2026-04-26,05:45,2026-04-26,10:15,VPS,Destin,PGD,Punta Gorda,429.07,Economy
+FL377,Blue Horizon Airlines,2026-06-30,08:45,2026-06-30,12:45,SDF,Louisville,SGF,Springfield,421.93,Economy
+FL378,Frontier Valley Air,2026-06-16,16:30,2026-06-16,21:45,PDX,Portland,FAT,Fresno,343.28,Economy
+FL379,Aurora Jet,2026-05-27,19:15,2026-05-27,22:15,MCI,Kansas City,TUS,Tucson,208.24,Economy
+FL380,SilverJet Airlines,2026-06-25,14:15,2026-06-25,19:30,BDL,Hartford,LAS,Las Vegas,371.83,Business
+FL381,Redwood Air,2026-05-28,16:15,2026-05-28,22:45,ILM,Wilmington,BWI,Baltimore,483.19,Business
+FL382,SunTrail Airlines,2026-05-30,20:15,2026-05-31,00:45,CAE,Columbia,COS,Colorado Springs,360.01,Economy
+FL383,Moonbeam Airlines,2026-06-07,12:15,2026-06-07,18:00,SFO,San Francisco,MSO,Missoula,455.86,Economy
+FL384,Winglet,2026-07-01,14:45,2026-07-01,16:00,SGF,Springfield,COS,Colorado Springs,248.14,Economy
+FL385,AeroOne,2026-06-12,20:00,2026-06-12,22:15,MDT,Harrisburg,PWM,Portland,215.06,Economy
+FL386,Moonbeam Airlines,2026-06-07,07:00,2026-06-07,09:00,GSP,Greenville,ITO,Hilo,216.2,Economy
+FL387,Nimbus Airlines,2026-05-22,19:00,2026-05-23,01:15,RNO,Reno,RDU,Raleigh,356.3,Economy
+FL388,Aurora Jet,2026-06-08,19:45,2026-06-08,23:30,TUL,Tulsa,DAL,Dallas,311.52,Economy
+FL389,Velocity Air,2026-05-20,17:15,2026-05-20,20:30,LEX,Lexington,SAT,San Antonio,347.94,First
+FL390,Summit Air Group,2026-06-28,08:45,2026-06-28,10:45,CHS,Charleston,ELP,El Paso,295.14,Economy
+FL391,Mountain Crest Air,2026-06-23,18:45,2026-06-23,20:00,LIT,Little Rock,BHM,Birmingham,171.14,First
+FL392,Blue River Air,2026-04-12,13:45,2026-04-12,18:15,XNA,Fayetteville,COS,Colorado Springs,293.28,Economy
+FL393,Lakeside Airlines,2026-07-05,19:00,2026-07-05,23:00,TUL,Tulsa,PHX,Phoenix,271.13,Economy
+FL394,Redwood Air,2026-05-04,22:00,2026-05-05,04:00,FAI,Fairbanks,HOU,Houston,358.22,Economy
+FL395,Moonbeam Airlines,2026-04-20,18:30,2026-04-20,20:30,LGA,New York,MIA,Miami,282.3,Economy
+FL396,Mountain Crest Air,2026-05-29,05:00,2026-05-29,09:45,SEA,Seattle,SRQ,Sarasota,373.6,Economy
+FL397,SilverJet Airlines,2026-04-30,13:30,2026-04-30,19:45,PWM,Portland,MSP,Minneapolis,388.6,Economy
+FL398,CloudNine Air,2026-06-22,19:15,2026-06-22,20:15,VPS,Destin,MDT,Harrisburg,100.81,Economy
+FL399,Lift Airlines,2026-06-26,22:15,2026-06-27,00:15,SGF,Springfield,ANC,Anchorage,272.34,Economy
+FL400,SkyReach Airways,2026-06-15,14:45,2026-06-15,16:15,MSP,Minneapolis,PVD,Providence,256.5,Economy
+FL401,Starling Air,2026-04-29,15:30,2026-04-29,18:45,MIA,Miami,LAX,Los Angeles,369.82,Economy
+FL402,SkyReach Airways,2026-04-11,09:45,2026-04-11,11:15,MHT,Manchester,MCO,Orlando,190.66,Economy
+FL403,SkyReach Airways,2026-05-04,06:30,2026-05-04,09:45,PVD,Providence,SMF,Sacramento,288.92,Economy
+FL404,AltitudeX,2026-04-15,11:45,2026-04-15,15:45,PGD,Punta Gorda,SBN,South Bend,357.11,First
+FL405,AirNova,2026-07-05,20:00,2026-07-06,01:00,MEM,Memphis,BZN,Bozeman,321.66,Business
+FL406,Crosswind Air,2026-06-08,08:45,2026-06-08,13:30,ITO,Hilo,BHM,Birmingham,350.02,Economy
+FL407,Crosswind Air,2026-06-11,12:00,2026-06-11,14:45,HNL,Honolulu,MSO,Missoula,152.34,Economy
+FL408,Coastal Breeze Airlines,2026-05-22,10:45,2026-05-22,14:45,GRR,Grand Rapids,MFR,Medford,303.96,Economy
+FL409,HorizonLink,2026-05-12,21:00,2026-05-13,00:30,HNL,Honolulu,IND,Indianapolis,249.03,Economy
+FL410,Atlas Wing,2026-07-04,17:15,2026-07-04,23:45,BZN,Bozeman,FLL,Fort Lauderdale,373.39,Economy
+FL411,Starling Air,2026-07-02,05:15,2026-07-02,07:00,MCO,Orlando,GSO,Greensboro,127.98,Business
+FL412,Strato,2026-05-11,08:15,2026-05-11,14:30,SBA,Santa Barbara,ROC,Rochester,412.84,Business
+FL413,Aurora Jet,2026-05-05,21:15,2026-05-06,00:15,SEA,Seattle,HNL,Honolulu,338.81,Economy
+FL414,Moonbeam Airlines,2026-05-09,06:15,2026-05-09,09:30,LGA,New York,ATW,Appleton,253.07,Economy
+FL415,Skylo,2026-06-01,13:15,2026-06-01,15:45,SAV,Savannah,BTV,Burlington,324.83,Economy
+FL416,Northstar Air,2026-06-06,20:30,2026-06-07,03:00,RDU,Raleigh,XNA,Fayetteville,460.2,Economy
+FL417,SilverJet Airlines,2026-05-12,13:00,2026-05-12,17:45,SJC,San Jose,GSP,Greenville,363.24,Economy
+FL418,TrueWay Airlines,2026-06-07,20:15,2026-06-07,22:30,MEM,Memphis,SEA,Seattle,195.75,Economy
+FL419,Strato,2026-05-21,08:15,2026-05-21,14:15,IAD,Washington,DTW,Detroit,527.32,Business
+FL420,Firefly Air,2026-04-27,22:30,2026-04-28,05:15,GRR,Grand Rapids,HRL,Harlingen,506.86,Economy
+FL421,Gulfway Airlines,2026-04-17,22:15,2026-04-18,04:45,SRQ,Sarasota,MDT,Harrisburg,445.63,Economy
+FL422,AirNova,2026-04-21,16:45,2026-04-21,21:30,MHT,Manchester,RSW,Fort Myers,366.41,Economy
+FL423,Atlas Wing,2026-05-06,20:30,2026-05-07,02:30,OGG,Maui,FAI,Fairbanks,405.07,Economy
+FL424,Velocity Air,2026-05-21,08:15,2026-05-21,11:30,BDL,Hartford,STL,St. Louis,307.98,Economy
+FL425,Summit Air Group,2026-04-19,14:15,2026-04-19,15:45,SDF,Louisville,MCI,Kansas City,135.41,Economy
+FL426,Lift Airlines,2026-07-07,14:45,2026-07-07,20:15,ORD,Chicago,CID,Cedar Rapids,412.46,Economy
+FL427,Winglet,2026-05-12,15:30,2026-05-12,18:30,EYW,Key West,MSP,Minneapolis,316.72,Economy
+FL428,Prairie Sky,2026-07-02,05:00,2026-07-02,09:45,RNO,Reno,BWI,Baltimore,327.18,Economy
+FL429,Summit Air Group,2026-06-06,18:45,2026-06-07,00:15,CHA,Chattanooga,JAX,Jacksonville,444.29,Business
+FL430,SunTrail Airlines,2026-06-15,17:15,2026-06-15,21:00,KOA,Kona,SLC,Salt Lake City,314.54,Business
+FL431,Summit Air Group,2026-06-09,05:00,2026-06-09,07:15,CHS,Charleston,IAH,Houston,315.44,Economy
+FL432,AeroOne,2026-04-21,13:30,2026-04-21,19:45,CHS,Charleston,SEA,Seattle,491.4,Economy
+FL433,AirNova,2026-05-31,20:45,2026-05-31,23:45,GSO,Greensboro,CAE,Columbia,225.4,Economy
+FL434,Crosswind Air,2026-05-01,15:45,2026-05-01,20:30,ITO,Hilo,FAI,Fairbanks,275.04,First
+FL435,Skylo,2026-04-26,11:15,2026-04-26,12:15,MCI,Kansas City,ITO,Hilo,154.08,Economy
+FL436,Summit Air Group,2026-06-17,08:00,2026-06-17,14:15,MDT,Harrisburg,MSP,Minneapolis,406.28,Economy
+FL437,Comet Airlines,2026-04-29,10:15,2026-04-29,15:15,BDL,Hartford,BHM,Birmingham,316.99,Economy
+FL438,Blue Horizon Airlines,2026-05-02,05:15,2026-05-02,11:15,DFW,Dallas,MSP,Minneapolis,399.23,Business
+FL439,Frontier Valley Air,2026-05-21,11:15,2026-05-21,16:30,MSO,Missoula,CLE,Cleveland,331.53,Economy
+FL440,SilverJet Airlines,2026-07-02,12:00,2026-07-02,14:30,ORD,Chicago,FWA,Fort Wayne,234.69,Business
+FL441,Coastal Breeze Airlines,2026-05-19,21:15,2026-05-20,02:00,DSM,Des Moines,SFB,Sanford,252.98,Economy
+FL442,Jetline,2026-05-28,14:45,2026-05-28,17:45,HRL,Harlingen,ITO,Hilo,360.71,First
+FL443,Aurora Jet,2026-07-06,11:30,2026-07-06,17:45,DCA,Washington,STL,St. Louis,519.27,Economy
+FL444,AltitudeX,2026-07-02,12:30,2026-07-02,16:45,BUR,Burbank,SRQ,Sarasota,290.53,First
+FL445,Starling Air,2026-04-25,08:45,2026-04-25,13:30,MSY,New Orleans,FAT,Fresno,351.57,Business
+FL446,SkyReach Airways,2026-04-24,06:45,2026-04-24,08:45,MIA,Miami,CHA,Chattanooga,253.7,Economy
+FL447,Mountain Crest Air,2026-05-30,10:30,2026-05-30,12:30,PSC,Pasco,DAY,Dayton,282.22,Business
+FL448,CloudNine Air,2026-04-12,14:15,2026-04-12,20:30,JFK,New York,PWM,Portland,353.22,Economy
+FL449,HorizonLink,2026-06-28,13:15,2026-06-28,16:00,MDT,Harrisburg,MSP,Minneapolis,298.42,Business
+FL450,Prairie Sky,2026-05-20,08:45,2026-05-20,12:00,DTW,Detroit,HRL,Harlingen,332.34,Economy
+FL451,Lakeside Airlines,2026-07-01,15:00,2026-07-01,17:00,LIH,Kauai,LGB,Long Beach,196.58,Business
+FL452,Nimbus Airlines,2026-05-14,13:30,2026-05-14,16:30,IAH,Houston,PIT,Pittsburgh,297.29,Business
+FL453,Blue River Air,2026-07-03,14:15,2026-07-03,18:00,CLT,Charlotte,SAT,San Antonio,298.23,Economy
+FL454,Nimbus Airlines,2026-06-24,13:00,2026-06-24,14:30,DCA,Washington,COS,Colorado Springs,120.48,Economy
+FL455,Frontier Valley Air,2026-06-20,14:30,2026-06-20,19:00,ELP,El Paso,BNA,Nashville,398.05,Economy
+FL456,Prairie Sky,2026-06-19,13:30,2026-06-19,17:30,PDX,Portland,FSD,Sioux Falls,335.95,Economy
+FL457,AirNova,2026-05-12,14:00,2026-05-12,16:30,MCO,Orlando,BIL,Billings,159.16,Business
+FL458,AeroVista,2026-05-12,18:15,2026-05-12,22:15,OMA,Omaha,MDW,Chicago,288.47,Economy
+FL459,Strato,2026-06-05,07:45,2026-06-05,11:30,MCI,Kansas City,FAT,Fresno,317.1,Economy
+FL460,AltitudeX,2026-06-29,09:15,2026-06-29,12:00,LGA,New York,TUS,Tucson,182.6,Economy
+FL461,Prairie Sky,2026-04-20,16:45,2026-04-20,21:00,AUS,Austin,ATL,Atlanta,263.88,Economy
+FL462,Atlas Wing,2026-06-04,14:00,2026-06-04,20:45,LIT,Little Rock,OGG,Maui,471.37,Economy
+FL463,Lakeside Airlines,2026-05-12,14:45,2026-05-12,18:30,BHM,Birmingham,KOA,Kona,343.12,Economy
+FL464,AirNova,2026-05-03,12:30,2026-05-03,18:00,LAS,Las Vegas,OMA,Omaha,364.29,Economy
+FL465,CloudNine Air,2026-05-14,08:15,2026-05-14,13:15,SAN,San Diego,JFK,New York,378.79,Economy
+FL466,Winglet,2026-05-10,13:30,2026-05-10,16:45,ANC,Anchorage,ORF,Norfolk,313.42,Economy
+FL467,Starling Air,2026-05-23,09:45,2026-05-23,14:15,STL,St. Louis,SNA,Santa Ana,392.11,Economy
+FL468,Heartland Air,2026-04-24,05:30,2026-04-24,07:00,IND,Indianapolis,SBN,South Bend,161.29,Economy
+FL469,Summit Air Group,2026-05-18,16:15,2026-05-18,22:00,HNL,Honolulu,JFK,New York,464.77,Business
+FL470,CloudNine Air,2026-06-08,12:30,2026-06-08,16:30,MAF,Midland,ABE,Allentown,316.52,Economy
+FL471,Aurora Jet,2026-04-17,11:45,2026-04-17,13:45,BHM,Birmingham,LIH,Kauai,328.61,Economy
+FL472,TrueWay Airlines,2026-04-29,09:30,2026-04-29,13:00,AVL,Asheville,ECP,Panama City,271.59,Economy
+FL473,SilverJet Airlines,2026-05-24,21:30,2026-05-25,03:15,DAY,Dayton,ICT,Wichita,421.14,Economy
+FL474,AeroOne,2026-04-23,22:30,2026-04-24,03:45,RNO,Reno,ANC,Anchorage,342.87,Economy
+FL475,Strato,2026-06-07,20:45,2026-06-08,02:30,XNA,Fayetteville,HPN,White Plains,393.56,Economy
+FL476,Northstar Air,2026-07-04,21:45,2026-07-05,01:45,EYW,Key West,PVD,Providence,268.53,First
+FL477,Blue Horizon Airlines,2026-06-03,09:30,2026-06-03,14:30,CLE,Cleveland,ATW,Appleton,459.43,Economy
+FL478,Skylo,2026-05-17,10:45,2026-05-17,12:00,SNA,Santa Ana,KOA,Kona,199.6,Economy
+FL479,AltitudeX,2026-05-10,20:15,2026-05-11,02:00,FAT,Fresno,BUR,Burbank,402.96,Business
+FL480,Strato,2026-05-13,18:15,2026-05-13,19:15,ECP,Panama City,SNA,Santa Ana,258.37,Business
+FL481,Skylark Airways,2026-07-05,05:45,2026-07-05,08:00,GEG,Spokane,JAC,Jackson Hole,256.16,Economy
+FL482,Northstar Air,2026-05-18,09:15,2026-05-18,13:45,IND,Indianapolis,TPA,Tampa,389.75,Economy
+FL483,SkyReach Airways,2026-04-21,16:00,2026-04-21,18:30,SYR,Syracuse,DAY,Dayton,175.94,Economy
+FL484,Frontier Valley Air,2026-06-21,05:30,2026-06-21,11:00,MSY,New Orleans,DAL,Dallas,391.48,Business
+FL485,HorizonLink,2026-05-04,06:30,2026-05-04,10:30,BOS,Boston,FLL,Fort Lauderdale,395.75,Business
+FL486,AirNova,2026-04-22,16:30,2026-04-22,23:00,PIT,Pittsburgh,GSO,Greensboro,497.91,First
+FL487,Nimbus Airlines,2026-06-29,15:00,2026-06-29,16:45,GSO,Greensboro,GEG,Spokane,155.11,Economy
+FL488,Blue River Air,2026-05-17,07:15,2026-05-17,09:00,CLT,Charlotte,LAX,Los Angeles,167.37,Business
+FL489,Nimbus Airlines,2026-05-01,15:30,2026-05-01,19:15,CAE,Columbia,MSY,New Orleans,209.27,Economy
+FL490,CloudNine Air,2026-06-10,09:00,2026-06-10,11:15,SAN,San Diego,TPA,Tampa,192.88,Economy
+FL491,Heartland Air,2026-05-27,05:15,2026-05-27,08:00,ILM,Wilmington,HRL,Harlingen,327.27,Economy
+FL492,Coastal Breeze Airlines,2026-05-19,06:30,2026-05-19,12:00,SMF,Sacramento,MSO,Missoula,333.6,Economy
+FL493,Atlas Wing,2026-04-11,12:00,2026-04-11,17:45,LGA,New York,RDM,Redmond,473.6,Economy
+FL494,Lakeside Airlines,2026-05-02,10:30,2026-05-02,12:30,ATL,Atlanta,ANC,Anchorage,291.12,Economy
+FL495,SilverJet Airlines,2026-05-03,13:00,2026-05-03,14:30,COS,Colorado Springs,EYW,Key West,109.49,Economy
+FL496,Coastal Breeze Airlines,2026-05-31,22:15,2026-06-01,00:30,EYW,Key West,ECP,Panama City,157.65,Economy
+FL497,AltitudeX,2026-05-17,14:00,2026-05-17,20:45,PVD,Providence,ATW,Appleton,495.56,Economy
+FL498,Comet Airlines,2026-06-29,05:30,2026-06-29,07:30,ABE,Allentown,AVL,Asheville,171.49,Economy
+FL499,Gulfway Airlines,2026-04-22,08:30,2026-04-22,11:30,ELP,El Paso,ANC,Anchorage,300.99,Economy
+FL500,Gulfway Airlines,2026-04-11,20:00,2026-04-12,00:30,CID,Cedar Rapids,MYR,Myrtle Beach,284.09,Economy
+FL501,Zephyr Air,2026-04-27,11:00,2026-04-27,13:45,VPS,Destin,MYR,Myrtle Beach,290.73,Economy
+FL502,AltitudeX,2026-05-22,07:15,2026-05-22,09:30,SBN,South Bend,SYR,Syracuse,236.65,Economy
+FL503,AeroVista,2026-05-24,20:45,2026-05-25,00:45,ATL,Atlanta,BHM,Birmingham,429.85,Economy
+FL504,Northstar Air,2026-06-25,12:30,2026-06-25,17:45,PBI,West Palm Beach,CHS,Charleston,398.43,Economy
+FL505,Comet Airlines,2026-04-27,10:30,2026-04-27,13:30,SAV,Savannah,FWA,Fort Wayne,267.26,Economy
+FL506,Crosswind Air,2026-05-19,17:00,2026-05-19,18:15,PWM,Portland,CID,Cedar Rapids,165.6,Economy
+FL507,SunTrail Airlines,2026-06-04,07:15,2026-06-04,13:00,ANC,Anchorage,DEN,Denver,394.87,Economy
+FL508,SkyReach Airways,2026-07-02,07:30,2026-07-02,11:45,AUS,Austin,CMH,Columbus,260.26,Economy
+FL509,Strato,2026-04-26,22:45,2026-04-27,04:15,KOA,Kona,BNA,Nashville,368.01,Economy
+FL510,Comet Airlines,2026-06-22,20:15,2026-06-22,21:15,SEA,Seattle,JAC,Jackson Hole,150.34,Economy
+FL511,Winglet,2026-06-04,13:15,2026-06-04,17:30,ONT,Ontario,BWI,Baltimore,316.77,Economy
+FL512,Redwood Air,2026-04-17,13:00,2026-04-17,17:30,PVD,Providence,LIT,Little Rock,390.99,Economy
+FL513,Strato,2026-04-09,06:15,2026-04-09,12:45,LAS,Las Vegas,TUL,Tulsa,355.42,Business
+FL514,Winglet,2026-05-30,13:15,2026-05-30,18:30,ATL,Atlanta,LAX,Los Angeles,321.06,Economy
+FL515,SkyReach Airways,2026-05-06,07:15,2026-05-06,11:45,PNS,Pensacola,TUL,Tulsa,329.21,Business
+FL516,Starling Air,2026-04-25,06:00,2026-04-25,08:15,PWM,Portland,GSP,Greenville,243.74,Business
+FL517,SunTrail Airlines,2026-04-16,07:15,2026-04-16,11:30,ATW,Appleton,TUL,Tulsa,425.7,Economy
+FL518,SilverJet Airlines,2026-05-23,15:15,2026-05-23,18:15,PSP,Palm Springs,SMF,Sacramento,349.1,Economy
+FL519,Winglet,2026-07-07,21:00,2026-07-07,23:45,ORD,Chicago,MCO,Orlando,182.64,Economy
+FL520,Jetline,2026-05-17,13:15,2026-05-17,14:30,MYR,Myrtle Beach,OAK,Oakland,124.41,Economy
+FL521,Skylark Airways,2026-04-10,19:15,2026-04-11,01:15,LAS,Las Vegas,EWR,Newark,401.25,First
+FL522,Crosswind Air,2026-06-01,19:30,2026-06-01,22:15,SLC,Salt Lake City,MEM,Memphis,323.71,Economy
+FL523,Winglet,2026-04-09,22:30,2026-04-10,01:30,BTV,Burlington,MCI,Kansas City,220.76,Economy
+FL524,CloudNine Air,2026-04-13,11:00,2026-04-13,13:15,MCO,Orlando,VPS,Destin,172.5,Business
+FL525,Comet Airlines,2026-04-29,07:00,2026-04-29,09:45,BDL,Hartford,ATL,Atlanta,316.85,Economy
+FL526,Winglet,2026-04-27,12:00,2026-04-27,14:30,ATW,Appleton,MFE,McAllen,179.07,Business
+FL527,Heartland Air,2026-05-08,20:45,2026-05-08,22:00,JFK,New York,ACY,Atlantic City,141.47,First
+FL528,Comet Airlines,2026-04-25,07:45,2026-04-25,13:15,MHT,Manchester,ORF,Norfolk,303.97,Economy
+FL529,AeroVista,2026-04-23,06:00,2026-04-23,08:00,EYW,Key West,MSP,Minneapolis,287.69,Economy
+FL530,Firefly Air,2026-06-07,18:00,2026-06-07,23:45,RDU,Raleigh,SJC,San Jose,437.89,Economy
+FL531,SkyReach Airways,2026-06-28,18:45,2026-06-28,20:00,CLT,Charlotte,ICT,Wichita,264.87,Economy
+FL532,TrueWay Airlines,2026-05-23,08:15,2026-05-23,13:15,SDF,Louisville,SAN,San Diego,474.29,Economy
+FL533,Northstar Air,2026-04-13,14:30,2026-04-13,20:15,ECP,Panama City,SBN,South Bend,306.82,Economy
+FL534,CloudNine Air,2026-05-12,17:15,2026-05-12,19:45,GEG,Spokane,BDL,Hartford,183.38,Economy
+FL535,Blue River Air,2026-05-19,05:45,2026-05-19,12:30,ECP,Panama City,STL,St. Louis,359.63,Economy
+FL536,HorizonLink,2026-06-10,15:30,2026-06-10,20:30,PSP,Palm Springs,JAC,Jackson Hole,374.1,Business
+FL537,AeroOne,2026-05-21,11:15,2026-05-21,17:00,JAX,Jacksonville,TYS,Knoxville,454.93,Economy
+FL538,Velocity Air,2026-07-01,22:15,2026-07-02,01:30,MDT,Harrisburg,ROC,Rochester,249.26,Economy
+FL539,AeroOne,2026-07-05,21:00,2026-07-06,00:45,PVD,Providence,FAT,Fresno,281.04,Business
+FL540,Starling Air,2026-06-23,08:15,2026-06-23,13:00,TUL,Tulsa,DCA,Washington,399.67,Economy
+FL541,Crosswind Air,2026-06-08,07:45,2026-06-08,08:45,SRQ,Sarasota,BUR,Burbank,153.89,Business
+FL542,Jetline,2026-05-30,07:30,2026-05-30,11:15,RSW,Fort Myers,PIT,Pittsburgh,210.15,First
+FL543,AeroVista,2026-05-25,22:15,2026-05-26,03:45,ABE,Allentown,IAH,Houston,359.94,Economy
+FL544,Velocity Air,2026-05-09,15:45,2026-05-09,19:30,LBB,Lubbock,DAL,Dallas,275.09,Economy
+FL545,Strato,2026-04-10,11:30,2026-04-10,16:15,MDT,Harrisburg,PHL,Philadelphia,273.61,Economy
+FL546,AeroVista,2026-04-18,05:45,2026-04-18,09:00,CID,Cedar Rapids,OAK,Oakland,378.08,Economy
+FL547,Winglet,2026-06-21,22:30,2026-06-22,01:45,RSW,Fort Myers,LIT,Little Rock,316.02,First
+FL548,AeroOne,2026-04-13,21:15,2026-04-14,03:00,FAI,Fairbanks,JFK,New York,330.49,Economy
+FL549,Aurora Jet,2026-04-30,05:30,2026-04-30,08:00,SEA,Seattle,MDW,Chicago,276.09,Business
+FL550,Mountain Crest Air,2026-05-10,15:15,2026-05-10,20:00,HRL,Harlingen,DSM,Des Moines,359.33,Economy
+FL551,AirNova,2026-05-18,11:15,2026-05-18,16:00,SFB,Sanford,ELP,El Paso,287.82,Economy
+FL552,Comet Airlines,2026-06-20,08:15,2026-06-20,10:30,GSO,Greensboro,CVG,Cincinnati,282.79,Economy
+FL553,Winglet,2026-05-22,11:00,2026-05-22,15:15,HNL,Honolulu,BHM,Birmingham,392.96,Economy
+FL554,Northstar Air,2026-06-01,05:00,2026-06-01,06:45,AVL,Asheville,DAY,Dayton,183.93,Business
+FL555,AeroVista,2026-05-30,05:45,2026-05-30,11:00,OGG,Maui,MEM,Memphis,310.35,Business
+FL556,HorizonLink,2026-05-29,12:45,2026-05-29,19:15,LIH,Kauai,PBI,West Palm Beach,486.39,Economy
+FL557,AeroOne,2026-04-13,13:30,2026-04-13,17:00,ANC,Anchorage,HSV,Huntsville,293.29,Economy
+FL558,Nimbus Airlines,2026-06-05,05:15,2026-06-05,10:30,GSO,Greensboro,DAY,Dayton,335.41,First
+FL559,TrueWay Airlines,2026-05-24,20:45,2026-05-24,23:45,ANC,Anchorage,SYR,Syracuse,319.42,Business
+FL560,Lakeside Airlines,2026-06-03,05:15,2026-06-03,06:15,CHA,Chattanooga,ORD,Chicago,174.18,Economy
+FL561,TrueWay Airlines,2026-06-02,18:45,2026-06-03,01:15,BTV,Burlington,COS,Colorado Springs,508.62,Economy
+FL562,Velocity Air,2026-07-01,16:45,2026-07-01,20:15,CLE,Cleveland,ROC,Rochester,218.32,Economy
+FL563,SkyReach Airways,2026-05-12,14:15,2026-05-12,15:15,PHX,Phoenix,ATW,Appleton,241.47,Economy
+FL564,Frontier Valley Air,2026-04-29,19:15,2026-04-30,00:30,RDM,Redmond,OMA,Omaha,311.35,Economy
+FL565,SunTrail Airlines,2026-04-14,20:00,2026-04-14,22:45,SMF,Sacramento,OAK,Oakland,260.1,Business
+FL566,Prairie Sky,2026-06-25,09:15,2026-06-25,13:15,LAX,Los Angeles,GSO,Greensboro,352.75,Business
+FL567,Starling Air,2026-05-01,11:15,2026-05-01,14:30,LGA,New York,MHT,Manchester,245.43,Economy
+FL568,CloudNine Air,2026-04-14,08:30,2026-04-14,14:30,BUR,Burbank,TUL,Tulsa,416.86,First
+FL569,Moonbeam Airlines,2026-05-09,13:15,2026-05-09,18:00,LAS,Las Vegas,FLL,Fort Lauderdale,285.54,Economy
+FL570,Mountain Crest Air,2026-06-16,09:30,2026-06-16,13:15,TUS,Tucson,SAV,Savannah,325.9,Business
+FL571,Jetline,2026-06-15,20:00,2026-06-16,00:00,LEX,Lexington,ECP,Panama City,322.34,Business
+FL572,SunTrail Airlines,2026-06-19,11:15,2026-06-19,17:15,CLT,Charlotte,SRQ,Sarasota,454.75,Economy
+FL573,AeroOne,2026-04-28,11:45,2026-04-28,12:45,ABE,Allentown,BIL,Billings,263.38,Business
+FL574,Firefly Air,2026-05-17,09:30,2026-05-17,15:30,LEX,Lexington,RDU,Raleigh,363.06,First
+FL575,AeroOne,2026-05-05,13:45,2026-05-05,16:00,CLT,Charlotte,AVL,Asheville,176.0,Economy
+FL576,Velocity Air,2026-05-22,07:00,2026-05-22,09:30,HNL,Honolulu,PSC,Pasco,189.34,Business
+FL577,Atlas Wing,2026-06-29,12:00,2026-06-29,18:15,OAK,Oakland,MFE,McAllen,429.06,Economy
+FL578,Lakeside Airlines,2026-06-22,15:45,2026-06-22,17:00,PBI,West Palm Beach,HNL,Honolulu,151.07,Economy
+FL579,TrueWay Airlines,2026-07-02,19:45,2026-07-02,23:45,DSM,Des Moines,OGG,Maui,256.61,Economy
+FL580,Redwood Air,2026-07-03,14:30,2026-07-03,20:30,LIH,Kauai,MEM,Memphis,448.36,Business
+FL581,Mountain Crest Air,2026-05-19,09:45,2026-05-19,11:15,MFR,Medford,XNA,Fayetteville,174.58,Economy
+FL582,Nimbus Airlines,2026-07-07,10:30,2026-07-07,13:15,LIT,Little Rock,JAC,Jackson Hole,328.9,Business
+FL583,Lift Airlines,2026-04-23,10:00,2026-04-23,13:15,ILM,Wilmington,BOS,Boston,262.24,Business
+FL584,AltitudeX,2026-05-08,14:00,2026-05-08,15:30,GSO,Greensboro,PIE,St. Petersburg,225.14,Economy
+FL585,AltitudeX,2026-06-22,14:30,2026-06-22,16:00,DAY,Dayton,BWI,Baltimore,103.41,Business
+FL586,Zephyr Air,2026-06-29,05:00,2026-06-29,11:30,RNO,Reno,ATL,Atlanta,361.82,Economy
+FL587,Jetline,2026-04-23,07:15,2026-04-23,09:00,MHT,Manchester,FAI,Fairbanks,153.05,Economy
+FL588,Frontier Valley Air,2026-06-10,18:15,2026-06-10,22:00,FLL,Fort Lauderdale,PSC,Pasco,208.43,Economy
+FL589,Lakeside Airlines,2026-04-11,21:00,2026-04-12,00:15,GRR,Grand Rapids,CHS,Charleston,262.74,Economy
+FL590,AeroVista,2026-06-16,22:15,2026-06-17,03:30,HOU,Houston,CLE,Cleveland,318.54,Economy
+FL591,AeroOne,2026-06-24,22:30,2026-06-25,02:00,HSV,Huntsville,CHA,Chattanooga,365.7,Business
+FL592,Firefly Air,2026-04-22,13:00,2026-04-22,17:00,LBB,Lubbock,BWI,Baltimore,274.28,Economy
+FL593,AirNova,2026-04-15,14:00,2026-04-15,15:30,PWM,Portland,LAX,Los Angeles,225.8,Economy
+FL594,Jetline,2026-05-07,06:30,2026-05-07,11:45,SAN,San Diego,BNA,Nashville,465.23,Business
+FL595,Coastal Breeze Airlines,2026-05-08,20:15,2026-05-08,21:15,LBB,Lubbock,GRR,Grand Rapids,180.18,Economy
+FL596,Frontier Valley Air,2026-05-15,11:45,2026-05-15,17:30,OAK,Oakland,HNL,Honolulu,301.28,Business
+FL597,Blue Horizon Airlines,2026-06-07,18:15,2026-06-07,22:15,LIH,Kauai,LAS,Las Vegas,360.43,Business
+FL598,Skylark Airways,2026-04-11,20:00,2026-04-11,22:00,CMH,Columbus,DAL,Dallas,287.03,Economy
+FL599,AeroVista,2026-04-09,21:00,2026-04-10,00:45,PWM,Portland,BTV,Burlington,319.44,Economy
+FL600,Zephyr Air,2026-05-24,09:15,2026-05-24,15:30,TPA,Tampa,GEG,Spokane,450.27,First
+FL601,Northstar Air,2026-06-10,18:00,2026-06-10,20:00,ECP,Panama City,ORD,Chicago,306.65,Economy
+FL602,Heartland Air,2026-06-16,22:15,2026-06-17,03:15,AVL,Asheville,HNL,Honolulu,474.36,Business
+FL603,Coastal Breeze Airlines,2026-06-09,10:15,2026-06-09,12:30,GEG,Spokane,DAY,Dayton,323.12,Economy
+FL604,AeroOne,2026-05-10,09:45,2026-05-10,11:45,HOU,Houston,IND,Indianapolis,158.4,Business
+FL605,Moonbeam Airlines,2026-04-14,21:15,2026-04-15,01:30,MCI,Kansas City,BIL,Billings,351.34,Economy
+FL606,Crosswind Air,2026-05-29,15:00,2026-05-29,16:15,ORF,Norfolk,MFR,Medford,205.48,Economy
+FL607,SkyReach Airways,2026-04-11,05:00,2026-04-11,07:00,RSW,Fort Myers,CLT,Charlotte,279.8,Economy
+FL608,Aurora Jet,2026-04-24,06:00,2026-04-24,12:30,AVL,Asheville,SYR,Syracuse,353.6,Business
+FL609,Starling Air,2026-05-18,16:00,2026-05-18,21:15,SAV,Savannah,SDF,Louisville,365.89,Economy
+FL610,AeroVista,2026-04-23,09:15,2026-04-23,11:45,TUS,Tucson,CHS,Charleston,295.85,Economy
+FL611,Coastal Breeze Airlines,2026-06-02,12:30,2026-06-02,15:30,FLL,Fort Lauderdale,MCO,Orlando,332.59,Economy
+FL612,AeroVista,2026-05-13,11:15,2026-05-13,17:15,BTV,Burlington,CHS,Charleston,448.51,Economy
+FL613,Velocity Air,2026-05-21,21:30,2026-05-21,23:45,MSO,Missoula,GSP,Greenville,252.71,Economy
+FL614,Winglet,2026-06-07,19:45,2026-06-08,00:15,AUS,Austin,LEX,Lexington,397.82,Economy
+FL615,Summit Air Group,2026-06-20,13:30,2026-06-20,19:15,HOU,Houston,ICT,Wichita,442.37,Economy
+FL616,Summit Air Group,2026-04-22,10:15,2026-04-22,13:30,MCO,Orlando,ATW,Appleton,376.69,Economy
+FL617,Lakeside Airlines,2026-06-12,09:45,2026-06-12,11:15,SGF,Springfield,TUS,Tucson,234.77,Business
+FL618,Atlas Wing,2026-07-03,12:00,2026-07-03,14:45,PBI,West Palm Beach,DCA,Washington,322.39,Economy
+FL619,Lift Airlines,2026-05-26,11:15,2026-05-26,15:00,IND,Indianapolis,OMA,Omaha,350.04,Business
+FL620,Aurora Jet,2026-05-12,06:45,2026-05-12,11:00,FWA,Fort Wayne,MCI,Kansas City,341.97,Economy
+FL621,Strato,2026-04-18,17:15,2026-04-18,18:45,ELP,El Paso,ATL,Atlanta,148.29,Economy
+FL622,Firefly Air,2026-05-14,14:30,2026-05-14,19:15,SAT,San Antonio,BDL,Hartford,332.36,Economy
+FL623,Jetline,2026-05-06,14:00,2026-05-06,19:30,RNO,Reno,PSP,Palm Springs,411.8,Economy
+FL624,AeroOne,2026-04-12,22:00,2026-04-13,02:45,ECP,Panama City,MCI,Kansas City,302.68,Economy
+FL625,Northstar Air,2026-06-19,13:30,2026-06-19,16:45,RDU,Raleigh,BWI,Baltimore,327.06,Economy
+FL626,Prairie Sky,2026-04-29,06:15,2026-04-29,11:30,ROC,Rochester,JAC,Jackson Hole,389.47,Business
+FL627,Crosswind Air,2026-05-07,09:00,2026-05-07,15:30,AVL,Asheville,MFE,McAllen,499.66,Economy
+FL628,Summit Air Group,2026-05-13,09:15,2026-05-13,11:45,DAY,Dayton,IAH,Houston,273.46,Economy
+FL629,Atlas Wing,2026-05-31,07:45,2026-05-31,13:00,SAT,San Antonio,PHL,Philadelphia,476.25,Economy
+FL630,Strato,2026-06-11,18:15,2026-06-12,00:15,KOA,Kona,MSY,New Orleans,476.67,Business
+FL631,Lakeside Airlines,2026-07-01,14:30,2026-07-01,20:15,DEN,Denver,CLT,Charlotte,400.75,First
+FL632,Coastal Breeze Airlines,2026-06-01,11:45,2026-06-01,17:00,HSV,Huntsville,ELP,El Paso,308.3,Economy
+FL633,Crosswind Air,2026-04-20,13:30,2026-04-20,19:30,SDF,Louisville,HRL,Harlingen,496.57,Economy
+FL634,Jetline,2026-06-13,05:30,2026-06-13,06:45,SMF,Sacramento,MCO,Orlando,165.81,Economy
+FL635,Zephyr Air,2026-04-19,17:45,2026-04-20,00:30,MCI,Kansas City,BUR,Burbank,464.58,Economy
+FL636,Heartland Air,2026-06-05,11:00,2026-06-05,17:45,OGG,Maui,CLE,Cleveland,513.79,Economy
+FL637,Firefly Air,2026-06-13,22:00,2026-06-14,01:30,SDF,Louisville,LAS,Las Vegas,222.82,Economy
+FL638,Prairie Sky,2026-06-21,20:45,2026-06-21,22:00,EWR,Newark,CAE,Columbia,169.5,Economy
+FL639,Blue River Air,2026-05-16,14:30,2026-05-16,19:30,DTW,Detroit,ROC,Rochester,446.88,Economy
+FL640,Comet Airlines,2026-05-26,12:00,2026-05-26,15:15,BUR,Burbank,BDL,Hartford,261.84,Economy
+FL641,Skylark Airways,2026-04-22,15:15,2026-04-22,18:30,SJC,San Jose,ECP,Panama City,234.74,First
+FL642,Mountain Crest Air,2026-06-06,08:30,2026-06-06,11:15,ONT,Ontario,ITO,Hilo,176.88,Economy
+FL643,Frontier Valley Air,2026-04-17,12:45,2026-04-17,19:15,MSY,New Orleans,MSO,Missoula,369.91,Economy
+FL644,Firefly Air,2026-05-07,17:00,2026-05-07,18:00,SYR,Syracuse,PGD,Punta Gorda,202.1,Economy
+FL645,Comet Airlines,2026-06-14,21:45,2026-06-15,01:45,IAH,Houston,PVD,Providence,312.54,Business
+FL646,AirNova,2026-05-28,22:45,2026-05-29,01:45,BHM,Birmingham,SEA,Seattle,244.76,Economy
+FL647,Skylark Airways,2026-07-07,15:45,2026-07-07,17:00,OGG,Maui,MCI,Kansas City,150.71,Business
+FL648,Aurora Jet,2026-07-05,07:45,2026-07-05,09:45,KOA,Kona,SJC,San Jose,239.75,Economy
+FL649,AirNova,2026-05-29,19:00,2026-05-29,22:00,SGF,Springfield,EWR,Newark,364.32,Economy
+FL650,Firefly Air,2026-04-22,22:45,2026-04-23,02:15,JAC,Jackson Hole,PNS,Pensacola,244.91,Economy
+FL651,Blue River Air,2026-04-11,14:15,2026-04-11,16:00,ABE,Allentown,AVL,Asheville,154.42,Economy
+FL652,Blue Horizon Airlines,2026-07-03,08:15,2026-07-03,12:00,ABE,Allentown,BIL,Billings,260.71,Economy
+FL653,AeroVista,2026-04-19,12:15,2026-04-19,16:54,ABE,Allentown,IAH,Houston,369.81,First
+FL654,AeroVista,2026-06-18,11:45,2026-06-18,16:16,ABE,Allentown,PIT,Pittsburgh,330.59,Economy
+FL655,TrueWay Airlines,2026-05-31,12:30,2026-05-31,14:28,ABE,Allentown,SNA,Santa Ana,187.92,Business
+FL656,AeroOne,2026-07-14,10:30,2026-07-14,18:28,ACY,Atlantic City,SMF,Sacramento,507.5,Economy
+FL657,Jetline,2026-04-27,12:15,2026-04-27,14:58,ANC,Anchorage,BOS,Boston,190.36,Economy
+FL658,Prairie Sky,2026-04-20,16:45,2026-04-20,21:53,ANC,Anchorage,DEN,Denver,423.17,Economy
+FL659,AirNova,2026-07-10,20:00,2026-07-10,23:38,ANC,Anchorage,HSV,Huntsville,251.11,Economy
+FL660,Prairie Sky,2026-04-18,14:45,2026-04-18,19:31,ANC,Anchorage,ORF,Norfolk,339.4,Economy
+FL661,Northstar Air,2026-06-20,11:30,2026-06-20,16:00,ANC,Anchorage,SYR,Syracuse,265.53,Economy
+FL662,Gulfway Airlines,2026-07-15,14:45,2026-07-15,16:55,ANC,Anchorage,TYS,Knoxville,250.07,Economy
+FL663,Blue Horizon Airlines,2026-05-26,14:15,2026-05-26,17:43,ATL,Atlanta,ANC,Anchorage,316.17,First
+FL664,Northstar Air,2026-04-28,17:15,2026-04-28,23:15,ATL,Atlanta,BHM,Birmingham,384.41,Economy
+FL665,Jetline,2026-07-06,07:45,2026-07-06,11:02,ATL,Atlanta,JAC,Jackson Hole,228.12,Business
+FL666,TrueWay Airlines,2026-07-10,13:15,2026-07-10,18:26,ATL,Atlanta,MFE,McAllen,417.93,Economy
+FL667,Jetline,2026-06-28,12:30,2026-06-28,14:43,ATL,Atlanta,MIA,Miami,170.26,Business
+FL668,AltitudeX,2026-05-07,06:30,2026-05-07,11:30,ATL,Atlanta,SAN,San Diego,348.09,Economy
+FL669,Atlas Wing,2026-05-05,15:30,2026-05-05,20:54,ATW,Appleton,TUL,Tulsa,466.12,Economy
+FL670,Redwood Air,2026-07-30,20:00,2026-07-30,22:48,AUS,Austin,ATL,Atlanta,242.56,Economy
+FL671,Heartland Air,2026-07-12,22:30,2026-07-13,01:33,AUS,Austin,CMH,Columbus,295.7,Economy
+FL672,Skylark Airways,2026-07-31,18:15,2026-07-31,21:31,AUS,Austin,CVG,Cincinnati,232.26,Business
+FL673,CloudNine Air,2026-06-12,21:15,2026-06-13,01:18,AUS,Austin,LEX,Lexington,453.56,First
+FL674,Blue River Air,2026-04-27,10:30,2026-04-27,14:27,AUS,Austin,MFE,McAllen,291.52,Economy
+FL675,Atlas Wing,2026-05-27,17:30,2026-05-27,19:08,AUS,Austin,ORF,Norfolk,152.41,Economy
+FL676,SunTrail Airlines,2026-05-10,05:30,2026-05-10,09:39,AUS,Austin,PVD,Providence,390.91,Economy
+FL677,TrueWay Airlines,2026-07-13,14:00,2026-07-13,16:19,AVL,Asheville,DAY,Dayton,200.2,Business
+FL678,Blue River Air,2026-05-15,19:15,2026-05-15,22:05,AVL,Asheville,ECP,Panama City,272.72,First
+FL679,HorizonLink,2026-06-11,11:00,2026-06-11,17:39,AVL,Asheville,FAT,Fresno,496.13,Economy
+FL680,Lift Airlines,2026-07-24,21:30,2026-07-25,05:05,AVL,Asheville,HNL,Honolulu,421.95,Economy
+FL681,Northstar Air,2026-07-14,10:30,2026-07-14,17:48,AVL,Asheville,MFE,McAllen,614.12,Economy
+FL682,SunTrail Airlines,2026-04-08,15:45,2026-04-08,19:17,AVL,Asheville,SMF,Sacramento,221.71,Economy
+FL683,Northstar Air,2026-07-29,15:15,2026-07-29,19:56,AVL,Asheville,SYR,Syracuse,292.1,Economy
+FL684,Winglet,2026-04-18,08:00,2026-04-18,12:33,BDL,Hartford,ATL,Atlanta,322.77,Economy
+FL685,Atlas Wing,2026-07-14,22:30,2026-07-15,03:08,BDL,Hartford,BHM,Birmingham,271.53,Economy
+FL686,Starling Air,2026-06-17,10:45,2026-06-17,13:48,BDL,Hartford,IAD,Washington,280.79,Economy
+FL687,Skylark Airways,2026-05-05,11:45,2026-05-05,16:44,BDL,Hartford,LAS,Las Vegas,364.22,Economy
+FL688,Northstar Air,2026-06-03,22:00,2026-06-04,00:57,BDL,Hartford,SEA,Seattle,198.96,Economy
+FL689,Gulfway Airlines,2026-04-16,16:15,2026-04-16,19:17,BDL,Hartford,STL,St. Louis,327.92,Economy
+FL690,Gulfway Airlines,2026-06-22,12:30,2026-06-22,14:00,BDL,Hartford,SYR,Syracuse,164.03,Business
+FL691,AltitudeX,2026-05-07,07:30,2026-05-07,12:38,BHM,Birmingham,ATW,Appleton,535.45,Business
+FL692,Atlas Wing,2026-06-12,13:00,2026-06-12,16:35,BHM,Birmingham,KOA,Kona,377.79,Economy
+FL693,Frontier Valley Air,2026-06-16,09:30,2026-06-16,14:02,BHM,Birmingham,LIH,Kauai,401.23,Economy
+FL694,Winglet,2026-06-20,20:30,2026-06-20,23:01,BHM,Birmingham,SEA,Seattle,282.23,First
+FL695,SilverJet Airlines,2026-05-02,08:30,2026-05-02,13:24,BIL,Billings,DEN,Denver,445.61,Business
+FL696,Nimbus Airlines,2026-06-01,18:30,2026-06-02,00:09,BIL,Billings,FAT,Fresno,420.82,Economy
+FL697,AltitudeX,2026-07-03,08:30,2026-07-03,11:07,BIL,Billings,TPA,Tampa,279.91,Economy
+FL698,Mountain Crest Air,2026-07-19,08:45,2026-07-19,11:16,BOS,Boston,CLT,Charlotte,199.84,First
+FL699,TrueWay Airlines,2026-06-04,09:45,2026-06-04,13:39,BOS,Boston,DEN,Denver,296.32,Economy
+FL700,SkyReach Airways,2026-05-09,07:45,2026-05-09,13:18,BOS,Boston,FLL,Fort Lauderdale,460.5,Economy
+FL701,Velocity Air,2026-04-20,07:00,2026-04-20,12:58,BOS,Boston,FSD,Sioux Falls,421.91,Economy
+FL702,Aurora Jet,2026-07-13,13:00,2026-07-13,15:21,BOS,Boston,HRL,Harlingen,212.69,First
+FL703,Starling Air,2026-05-05,18:15,2026-05-05,23:30,BOS,Boston,SEA,Seattle,423.93,Business
+FL704,AeroOne,2026-05-27,13:45,2026-05-27,20:11,BTV,Burlington,CHS,Charleston,416.38,Economy
+FL705,Velocity Air,2026-07-01,21:00,2026-07-02,02:39,BTV,Burlington,COS,Colorado Springs,450.36,Economy
+FL706,Frontier Valley Air,2026-04-15,07:15,2026-04-15,11:20,BTV,Burlington,DTW,Detroit,264.8,Economy
+FL707,AltitudeX,2026-06-21,20:45,2026-06-22,03:53,BTV,Burlington,GSP,Greenville,632.52,Business
+FL708,SunTrail Airlines,2026-04-28,07:15,2026-04-28,10:20,BTV,Burlington,MCI,Kansas City,184.57,Economy
+FL709,Crosswind Air,2026-04-16,07:30,2026-04-16,11:26,BUR,Burbank,BDL,Hartford,311.02,Economy
+FL710,Redwood Air,2026-04-23,13:15,2026-04-23,15:22,BUR,Burbank,DSM,Des Moines,207.08,Economy
+FL711,Aurora Jet,2026-05-31,22:00,2026-06-01,01:10,BUR,Burbank,SRQ,Sarasota,354.63,Economy
+FL712,Frontier Valley Air,2026-07-02,15:30,2026-07-02,21:01,BUR,Burbank,TUL,Tulsa,383.31,Economy
+FL713,CloudNine Air,2026-07-02,15:00,2026-07-02,21:27,BWI,Baltimore,MEM,Memphis,380.94,First
+FL714,Atlas Wing,2026-04-09,20:00,2026-04-09,23:49,BWI,Baltimore,ORF,Norfolk,347.08,Economy
+FL715,Blue Horizon Airlines,2026-04-17,22:30,2026-04-18,03:04,BWI,Baltimore,SAV,Savannah,381.57,Economy
+FL716,CloudNine Air,2026-05-22,07:30,2026-05-22,12:22,BZN,Bozeman,BHM,Birmingham,296.7,Economy
+FL717,Lakeside Airlines,2026-04-28,19:30,2026-04-29,01:29,BZN,Bozeman,FLL,Fort Lauderdale,416.92,Economy
+FL718,SunTrail Airlines,2026-04-09,15:00,2026-04-09,19:59,BZN,Bozeman,ORD,Chicago,355.16,Economy
+FL719,CloudNine Air,2026-05-11,09:00,2026-05-11,13:07,CAE,Columbia,COS,Colorado Springs,408.28,Economy
+FL720,Coastal Breeze Airlines,2026-05-12,14:30,2026-05-12,17:47,CAE,Columbia,MSY,New Orleans,187.25,Economy
+FL721,Mountain Crest Air,2026-05-04,13:45,2026-05-04,20:24,CHA,Chattanooga,CVG,Cincinnati,423.06,Economy
+FL722,AltitudeX,2026-04-19,19:00,2026-04-19,23:50,CHA,Chattanooga,EYW,Key West,306.39,First
+FL723,Mountain Crest Air,2026-07-15,09:30,2026-07-15,15:07,CHA,Chattanooga,JAX,Jacksonville,387.74,Business
+FL724,Skylo,2026-06-17,19:00,2026-06-17,23:11,CHA,Chattanooga,JFK,New York,259.25,Economy
+FL725,Atlas Wing,2026-07-30,10:15,2026-07-30,12:19,CHA,Chattanooga,ORD,Chicago,142.17,First
+FL726,Northstar Air,2026-06-21,10:00,2026-06-21,13:25,CHS,Charleston,ELP,El Paso,253.04,First
+FL727,Lift Airlines,2026-05-24,06:45,2026-05-24,11:40,CHS,Charleston,IAH,Houston,303.14,Economy
+FL728,Heartland Air,2026-07-02,08:45,2026-07-02,14:45,CHS,Charleston,OMA,Omaha,474.6,Economy
+FL729,SilverJet Airlines,2026-06-26,10:15,2026-06-26,16:15,CHS,Charleston,SEA,Seattle,584.31,Economy
+FL730,Crosswind Air,2026-07-29,18:30,2026-07-29,21:03,CID,Cedar Rapids,MYR,Myrtle Beach,250.2,Business
+FL731,Mountain Crest Air,2026-07-17,18:30,2026-07-17,23:13,CID,Cedar Rapids,OAK,Oakland,347.86,Economy
+FL732,Blue Horizon Airlines,2026-05-26,06:30,2026-05-26,12:10,CLE,Cleveland,ANC,Anchorage,324.81,Economy
+FL733,SkyReach Airways,2026-05-22,15:15,2026-05-22,21:13,CLE,Cleveland,ATW,Appleton,413.63,First
+FL734,Firefly Air,2026-05-29,16:00,2026-05-29,18:35,CLE,Cleveland,GSO,Greensboro,253.53,Economy
+FL735,Jetline,2026-05-22,21:45,2026-05-23,03:57,CLE,Cleveland,MSO,Missoula,466.43,Economy
+FL736,TrueWay Airlines,2026-05-20,06:15,2026-05-20,08:29,CLE,Cleveland,OGG,Maui,290.91,Economy
+FL737,HorizonLink,2026-04-30,13:45,2026-04-30,14:47,CLE,Cleveland,PIE,St. Petersburg,89.93,Economy
+FL738,Skylark Airways,2026-05-22,15:30,2026-05-22,18:25,CLE,Cleveland,ROC,Rochester,234.21,Economy
+FL739,Summit Air Group,2026-04-22,17:45,2026-04-22,20:12,CLT,Charlotte,AVL,Asheville,186.47,Economy
+FL740,HorizonLink,2026-04-13,19:15,2026-04-13,21:15,CLT,Charlotte,DFW,Dallas,232.64,Economy
+FL741,TrueWay Airlines,2026-07-04,11:45,2026-07-04,15:01,CLT,Charlotte,HRL,Harlingen,283.31,Economy
+FL742,Mountain Crest Air,2026-06-26,15:30,2026-06-26,19:24,CLT,Charlotte,ICT,Wichita,312.97,Business
+FL743,Lift Airlines,2026-06-11,15:15,2026-06-11,20:39,CLT,Charlotte,JFK,New York,342.75,Economy
+FL744,Lakeside Airlines,2026-06-17,09:30,2026-06-17,11:12,CLT,Charlotte,LAX,Los Angeles,165.56,Economy
+FL745,Prairie Sky,2026-07-03,11:00,2026-07-03,15:18,CLT,Charlotte,LBB,Lubbock,366.36,Economy
+FL746,Redwood Air,2026-06-17,05:00,2026-06-17,07:38,CLT,Charlotte,MSO,Missoula,229.29,First
+FL747,Skylark Airways,2026-07-17,15:45,2026-07-17,22:44,CLT,Charlotte,ROC,Rochester,527.57,Business
+FL748,Frontier Valley Air,2026-06-12,20:30,2026-06-13,00:34,CLT,Charlotte,SAT,San Antonio,261.36,Economy
+FL749,Aurora Jet,2026-05-14,21:45,2026-05-15,05:34,CLT,Charlotte,SRQ,Sarasota,493.32,Economy
+FL750,Mountain Crest Air,2026-04-19,13:00,2026-04-19,16:56,CMH,Columbus,DAL,Dallas,269.72,Economy
+FL751,Firefly Air,2026-04-26,06:15,2026-04-26,10:06,CMH,Columbus,STL,St. Louis,350.33,Economy
+FL752,Starling Air,2026-06-25,07:45,2026-06-25,09:14,COS,Colorado Springs,EYW,Key West,108.01,First
+FL753,Winglet,2026-05-02,17:45,2026-05-02,23:31,COS,Colorado Springs,OMA,Omaha,373.56,Economy
+FL754,Coastal Breeze Airlines,2026-06-30,05:00,2026-06-30,07:13,COS,Colorado Springs,SYR,Syracuse,246.91,Economy
+FL755,Gulfway Airlines,2026-04-30,22:00,2026-05-01,01:29,CVG,Cincinnati,RDM,Redmond,221.36,First
+FL756,Heartland Air,2026-07-25,09:15,2026-07-25,12:43,DAL,Dallas,FLL,Fort Lauderdale,226.63,Economy
+FL757,SkyReach Airways,2026-07-02,22:15,2026-07-03,01:56,DAL,Dallas,IAH,Houston,284.58,Economy
+FL758,Skylo,2026-06-25,21:30,2026-06-25,22:57,DAY,Dayton,BWI,Baltimore,121.38,Economy
+FL759,Velocity Air,2026-06-04,10:30,2026-06-04,14:35,DAY,Dayton,IAH,Houston,324.78,Economy
+FL760,Skylo,2026-05-11,13:15,2026-05-11,18:55,DAY,Dayton,ICT,Wichita,482.04,Economy
+FL761,SunTrail Airlines,2026-06-09,13:00,2026-06-09,16:35,DAY,Dayton,SFB,Sanford,325.7,Business
+FL762,Lakeside Airlines,2026-05-08,14:00,2026-05-08,15:21,DCA,Washington,COS,Colorado Springs,113.72,Economy
+FL763,TrueWay Airlines,2026-04-18,09:45,2026-04-18,13:04,DCA,Washington,EWR,Newark,303.06,Business
+FL764,Coastal Breeze Airlines,2026-07-07,12:15,2026-07-07,14:53,DCA,Washington,PHL,Philadelphia,254.13,Economy
+FL765,Mountain Crest Air,2026-06-16,20:15,2026-06-17,00:08,DCA,Washington,PIT,Pittsburgh,284.06,Economy
+FL766,SilverJet Airlines,2026-05-27,06:00,2026-05-27,14:15,DCA,Washington,STL,St. Louis,549.94,First
+FL767,Starling Air,2026-04-08,16:45,2026-04-08,22:31,DEN,Denver,CLT,Charlotte,456.48,Economy
+FL768,SilverJet Airlines,2026-06-15,12:30,2026-06-15,14:31,DEN,Denver,MSP,Minneapolis,157.73,Economy
+FL769,Skylark Airways,2026-06-09,06:15,2026-06-09,09:04,DFW,Dallas,ATL,Atlanta,233.3,Economy
+FL770,Redwood Air,2026-07-09,10:45,2026-07-09,13:44,DFW,Dallas,CLT,Charlotte,285.85,First
+FL771,TrueWay Airlines,2026-04-11,18:00,2026-04-11,20:07,DFW,Dallas,DEN,Denver,195.51,Economy
+FL772,AeroVista,2026-04-18,19:00,2026-04-18,23:14,DFW,Dallas,MSP,Minneapolis,475.12,Economy
+FL773,Crosswind Air,2026-04-14,13:45,2026-04-14,19:52,DFW,Dallas,PHL,Philadelphia,417.23,Economy
+FL774,SkyReach Airways,2026-05-19,16:15,2026-05-19,20:22,DSM,Des Moines,OGG,Maui,306.86,Economy
+FL775,Jetline,2026-07-13,18:45,2026-07-13,21:47,DSM,Des Moines,SFB,Sanford,297.43,Economy
+FL776,Starling Air,2026-04-10,07:00,2026-04-10,10:44,DSM,Des Moines,SMF,Sacramento,308.88,Economy
+FL777,Atlas Wing,2026-07-16,06:45,2026-07-16,11:21,DTW,Detroit,HRL,Harlingen,270.51,First
+FL778,Heartland Air,2026-05-03,06:00,2026-05-03,11:09,DTW,Detroit,MDW,Chicago,379.73,First
+FL779,Starling Air,2026-07-02,09:00,2026-07-02,15:54,DTW,Detroit,ROC,Rochester,548.09,Economy
+FL780,SkyReach Airways,2026-07-06,13:30,2026-07-06,18:44,ECP,Panama City,BWI,Baltimore,342.6,Economy
+FL781,Blue River Air,2026-07-16,10:30,2026-07-16,14:09,ECP,Panama City,MCI,Kansas City,256.87,Business
+FL782,AeroVista,2026-05-17,17:30,2026-05-17,21:20,ECP,Panama City,ORD,Chicago,375.24,Economy
+FL783,Firefly Air,2026-04-17,13:15,2026-04-17,16:28,ECP,Panama City,SBN,South Bend,341.72,Business
+FL784,Lift Airlines,2026-07-25,09:15,2026-07-25,12:57,ECP,Panama City,SNA,Santa Ana,297.69,Economy
+FL785,Nimbus Airlines,2026-06-15,19:00,2026-06-16,00:14,ECP,Panama City,STL,St. Louis,298.86,Economy
+FL786,Mountain Crest Air,2026-04-09,18:45,2026-04-09,23:30,ELP,El Paso,ANC,Anchorage,307.19,Business
+FL787,Skylark Airways,2026-05-24,20:00,2026-05-24,21:45,ELP,El Paso,ATL,Atlanta,128.84,First
+FL788,Crosswind Air,2026-07-10,22:00,2026-07-11,02:49,ELP,El Paso,BNA,Nashville,428.76,Economy
+FL789,TrueWay Airlines,2026-07-16,20:45,2026-07-17,03:14,ELP,El Paso,DEN,Denver,402.96,Economy
+FL790,Zephyr Air,2026-05-12,15:45,2026-05-12,18:46,ELP,El Paso,LIH,Kauai,322.49,Economy
+FL791,Aurora Jet,2026-05-13,19:45,2026-05-14,00:27,ELP,El Paso,MFE,McAllen,428.17,First
+FL792,Winglet,2026-06-25,17:30,2026-06-25,19:21,EWR,Newark,CAE,Columbia,137.79,Economy
+FL793,Moonbeam Airlines,2026-05-01,21:00,2026-05-01,22:43,EYW,Key West,ECP,Panama City,151.29,Business
+FL794,HorizonLink,2026-05-21,14:15,2026-05-21,18:01,EYW,Key West,MIA,Miami,303.65,Business
+FL795,Jetline,2026-06-18,05:30,2026-06-18,09:06,EYW,Key West,PVD,Providence,329.39,Economy
+FL796,Aurora Jet,2026-05-08,18:30,2026-05-09,01:05,EYW,Key West,SAT,San Antonio,448.72,Business
+FL797,Heartland Air,2026-07-05,20:30,2026-07-06,04:15,EYW,Key West,SFB,Sanford,527.29,Economy
+FL798,Skylo,2026-07-18,06:00,2026-07-18,10:03,FAI,Fairbanks,HOU,Houston,334.01,First
+FL799,Redwood Air,2026-07-05,13:15,2026-07-05,19:03,FAI,Fairbanks,ITO,Hilo,443.34,Economy
+FL800,Northstar Air,2026-06-07,22:15,2026-06-08,01:59,FAI,Fairbanks,JFK,New York,327.67,Business
+FL801,Velocity Air,2026-05-20,16:45,2026-05-20,22:21,FAI,Fairbanks,MSP,Minneapolis,326.6,Economy
+FL802,HorizonLink,2026-05-07,09:15,2026-05-07,14:34,FAT,Fresno,BUR,Burbank,379.59,Economy
+FL803,TrueWay Airlines,2026-07-14,11:15,2026-07-14,15:44,FAT,Fresno,PSC,Pasco,332.99,Economy
+FL804,Starling Air,2026-05-13,22:15,2026-05-14,00:23,FAT,Fresno,RSW,Fort Myers,145.52,First
+FL805,Blue Horizon Airlines,2026-07-23,11:30,2026-07-23,14:07,FAT,Fresno,SDF,Louisville,216.67,Economy
+FL806,Crosswind Air,2026-05-16,05:30,2026-05-16,10:00,FLL,Fort Lauderdale,MCO,Orlando,346.01,Economy
+FL807,Jetline,2026-04-13,07:00,2026-04-13,10:10,FLL,Fort Lauderdale,PSC,Pasco,194.14,Economy
+FL808,CloudNine Air,2026-06-28,21:00,2026-06-29,02:26,FSD,Sioux Falls,PVD,Providence,557.01,Economy
+FL809,Winglet,2026-05-14,20:30,2026-05-15,00:01,FSD,Sioux Falls,ROC,Rochester,261.94,Economy
+FL810,Crosswind Air,2026-04-14,13:30,2026-04-14,18:30,FWA,Fort Wayne,MCI,Kansas City,406.18,Economy
+FL811,Blue River Air,2026-07-22,07:30,2026-07-22,13:42,FWA,Fort Wayne,STL,St. Louis,425.96,Economy
+FL812,Winglet,2026-06-27,07:00,2026-06-27,08:39,GEG,Spokane,BDL,Hartford,159.02,Economy
+FL813,Winglet,2026-05-16,08:00,2026-05-16,12:43,GEG,Spokane,CLE,Cleveland,313.98,Economy
+FL814,SilverJet Airlines,2026-06-24,12:30,2026-06-24,17:09,GEG,Spokane,DAY,Dayton,334.48,Economy
+FL815,Skylo,2026-06-03,15:00,2026-06-03,18:45,GEG,Spokane,JAC,Jackson Hole,319.05,Economy
+FL816,Lift Airlines,2026-06-19,07:15,2026-06-19,09:24,GEG,Spokane,SGF,Springfield,198.48,Economy
+FL817,Blue Horizon Airlines,2026-07-14,12:00,2026-07-14,15:50,GRR,Grand Rapids,CHS,Charleston,235.14,Business
+FL818,Aurora Jet,2026-04-28,13:00,2026-04-28,18:44,GRR,Grand Rapids,HRL,Harlingen,531.39,Economy
+FL819,Comet Airlines,2026-04-08,18:30,2026-04-08,22:27,GRR,Grand Rapids,MFR,Medford,337.46,Business
+FL820,Starling Air,2026-05-15,06:30,2026-05-15,08:59,GSO,Greensboro,CAE,Columbia,209.54,Business
+FL821,Lakeside Airlines,2026-07-06,20:00,2026-07-06,22:39,GSO,Greensboro,CVG,Cincinnati,313.71,Business
+FL822,HorizonLink,2026-07-17,11:45,2026-07-17,15:39,GSO,Greensboro,DAY,Dayton,285.65,Economy
+FL823,Gulfway Airlines,2026-06-29,10:15,2026-06-29,15:11,GSO,Greensboro,DTW,Detroit,284.59,Economy
+FL824,Coastal Breeze Airlines,2026-04-17,07:15,2026-04-17,08:55,GSO,Greensboro,GEG,Spokane,179.41,Business
+FL825,Winglet,2026-05-14,19:30,2026-05-14,21:45,GSO,Greensboro,PIE,St. Petersburg,227.6,First
+FL826,Lift Airlines,2026-07-06,18:15,2026-07-06,20:15,GSO,Greensboro,TYS,Knoxville,125.42,Economy
+FL827,TrueWay Airlines,2026-06-10,19:30,2026-06-10,21:40,GSP,Greenville,AUS,Austin,216.87,Economy
+FL828,Skylark Airways,2026-07-11,15:45,2026-07-11,19:02,GSP,Greenville,ITO,Hilo,197.32,Economy
+FL829,Aurora Jet,2026-05-07,06:00,2026-05-07,10:48,GSP,Greenville,SFO,San Francisco,419.29,Economy
+FL830,Crosswind Air,2026-06-07,22:00,2026-06-08,03:33,HNL,Honolulu,BHM,Birmingham,476.36,Business
+FL831,Crosswind Air,2026-06-21,19:15,2026-06-21,22:17,HNL,Honolulu,IND,Indianapolis,307.82,Business
+FL832,Starling Air,2026-05-22,18:30,2026-05-23,00:55,HNL,Honolulu,JFK,New York,438.96,Economy
+FL833,Blue Horizon Airlines,2026-07-26,10:30,2026-07-26,12:21,HNL,Honolulu,MSO,Missoula,150.09,Economy
+FL834,Strato,2026-05-14,18:15,2026-05-14,20:37,HNL,Honolulu,PSC,Pasco,216.27,Economy
+FL835,AirNova,2026-06-05,08:15,2026-06-05,11:55,HOU,Houston,CLE,Cleveland,291.01,Business
+FL836,Blue River Air,2026-07-15,18:15,2026-07-16,00:56,HOU,Houston,ICT,Wichita,518.11,Economy
+FL837,AeroOne,2026-07-01,20:15,2026-07-01,22:11,HOU,Houston,IND,Indianapolis,130.58,Economy
+FL838,SunTrail Airlines,2026-05-24,21:15,2026-05-25,01:35,HPN,White Plains,BZN,Bozeman,339.46,Economy
+FL839,AltitudeX,2026-05-04,14:00,2026-05-04,21:20,HPN,White Plains,COS,Colorado Springs,392.46,Economy
+FL840,Lakeside Airlines,2026-06-03,21:00,2026-06-04,00:15,HPN,White Plains,DAY,Dayton,282.93,First
+FL841,Heartland Air,2026-07-07,10:30,2026-07-07,13:39,HPN,White Plains,FAT,Fresno,287.05,Economy
+FL842,Velocity Air,2026-05-30,08:15,2026-05-30,10:43,HPN,White Plains,ORF,Norfolk,299.66,Economy
+FL843,Blue River Air,2026-06-06,09:15,2026-06-06,17:00,HPN,White Plains,RDU,Raleigh,557.1,Economy
+FL844,Strato,2026-07-08,14:45,2026-07-08,20:35,HPN,White Plains,SJC,San Jose,445.62,Business
+FL845,SilverJet Airlines,2026-07-23,20:45,2026-07-23,22:45,HPN,White Plains,SYR,Syracuse,170.49,Business
+FL846,Velocity Air,2026-04-26,17:45,2026-04-26,22:13,HRL,Harlingen,DSM,Des Moines,436.53,Business
+FL847,Summit Air Group,2026-07-12,09:45,2026-07-12,13:42,HRL,Harlingen,ITO,Hilo,333.41,Economy
+FL848,SilverJet Airlines,2026-05-21,21:30,2026-05-22,03:08,HRL,Harlingen,OAK,Oakland,524.21,Economy
+FL849,Lakeside Airlines,2026-07-09,15:00,2026-07-09,20:45,HSV,Huntsville,CHA,Chattanooga,434.95,Business
+FL850,Skylo,2026-06-15,20:45,2026-06-16,00:29,HSV,Huntsville,ELP,El Paso,292.76,Business
+FL851,TrueWay Airlines,2026-05-26,20:00,2026-05-27,02:22,IAD,Washington,DTW,Detroit,628.21,Business
+FL852,Heartland Air,2026-06-20,17:45,2026-06-20,20:44,IAH,Houston,PIT,Pittsburgh,352.35,Economy
+FL853,SilverJet Airlines,2026-04-13,15:30,2026-04-13,20:05,IAH,Houston,PVD,Providence,316.55,Economy
+FL854,Prairie Sky,2026-05-27,10:15,2026-05-27,13:18,ICT,Wichita,HRL,Harlingen,305.86,Economy
+FL855,CloudNine Air,2026-06-11,16:00,2026-06-11,18:42,ILM,Wilmington,BOS,Boston,312.95,First
+FL856,Skylo,2026-04-20,22:15,2026-04-21,05:11,ILM,Wilmington,BWI,Baltimore,389.89,First
+FL857,Coastal Breeze Airlines,2026-05-30,10:15,2026-05-30,13:24,ILM,Wilmington,DEN,Denver,329.1,Business
+FL858,HorizonLink,2026-05-21,18:00,2026-05-21,22:23,ILM,Wilmington,HRL,Harlingen,273.64,Economy
+FL859,Mountain Crest Air,2026-07-26,22:30,2026-07-27,01:48,ILM,Wilmington,LIT,Little Rock,307.55,Economy
+FL860,Strato,2026-07-28,06:30,2026-07-28,10:27,IND,Indianapolis,MDW,Chicago,334.7,Economy
+FL861,Lakeside Airlines,2026-05-07,08:15,2026-05-07,13:46,IND,Indianapolis,OMA,Omaha,434.14,Business
+FL862,Blue Horizon Airlines,2026-06-03,10:45,2026-06-03,12:59,IND,Indianapolis,PBI,West Palm Beach,147.06,Economy
+FL863,AeroVista,2026-04-13,15:45,2026-04-13,18:05,IND,Indianapolis,SBN,South Bend,133.11,Economy
+FL864,Nimbus Airlines,2026-05-25,19:15,2026-05-26,00:22,IND,Indianapolis,SDF,Louisville,369.51,First
+FL865,SilverJet Airlines,2026-06-19,11:15,2026-06-19,15:38,IND,Indianapolis,TPA,Tampa,342.5,Economy
+FL866,Prairie Sky,2026-06-26,13:00,2026-06-26,18:47,ITO,Hilo,BHM,Birmingham,423.79,Business
+FL867,Coastal Breeze Airlines,2026-05-07,20:15,2026-05-07,22:47,ITO,Hilo,BZN,Bozeman,222.45,Economy
+FL868,AeroOne,2026-07-19,20:15,2026-07-19,23:21,ITO,Hilo,FAI,Fairbanks,303.9,Economy
+FL869,Comet Airlines,2026-04-17,19:30,2026-04-18,00:38,ITO,Hilo,LGB,Long Beach,455.45,Economy
+FL870,Lift Airlines,2026-06-28,19:00,2026-06-29,02:56,JAC,Jackson Hole,BOS,Boston,427.66,Economy
+FL871,Lift Airlines,2026-05-03,17:45,2026-05-03,20:46,JAC,Jackson Hole,PNS,Pensacola,207.68,Economy
+FL872,Prairie Sky,2026-06-20,16:45,2026-06-20,20:58,JAX,Jacksonville,ACY,Atlantic City,314.16,Business
+FL873,Lakeside Airlines,2026-04-10,18:00,2026-04-10,20:35,JAX,Jacksonville,LBB,Lubbock,182.76,Economy
+FL874,AltitudeX,2026-06-24,21:15,2026-06-25,02:01,JAX,Jacksonville,OMA,Omaha,412.77,Economy
+FL875,Lakeside Airlines,2026-07-16,12:45,2026-07-16,17:02,JAX,Jacksonville,TUL,Tulsa,398.7,Business
+FL876,Gulfway Airlines,2026-06-28,11:30,2026-06-28,19:08,JAX,Jacksonville,TYS,Knoxville,415.25,Economy
+FL877,CloudNine Air,2026-06-27,08:30,2026-06-27,10:27,JFK,New York,ACY,Atlantic City,153.12,Economy
+FL878,AirNova,2026-05-17,19:30,2026-05-17,23:18,JFK,New York,ATW,Appleton,410.47,First
+FL879,CloudNine Air,2026-04-19,14:45,2026-04-19,17:26,JFK,New York,DCA,Washington,233.52,Economy
+FL880,Crosswind Air,2026-05-03,09:30,2026-05-03,13:40,JFK,New York,HPN,White Plains,283.88,Economy
+FL881,Northstar Air,2026-06-14,21:30,2026-06-15,00:04,JFK,New York,MIA,Miami,292.84,Economy
+FL882,HorizonLink,2026-07-22,20:45,2026-07-23,01:40,JFK,New York,PWM,Portland,401.24,Economy
+FL883,Mountain Crest Air,2026-07-19,09:00,2026-07-19,15:59,JFK,New York,RDU,Raleigh,624.31,Economy
+FL884,Coastal Breeze Airlines,2026-07-13,12:30,2026-07-13,18:41,JFK,New York,SEA,Seattle,550.62,Business
+FL885,Velocity Air,2026-05-24,08:15,2026-05-24,14:26,JFK,New York,SFO,San Francisco,343.07,First
+FL886,TrueWay Airlines,2026-04-23,20:00,2026-04-24,01:14,KOA,Kona,BNA,Nashville,405.83,Economy
+FL887,HorizonLink,2026-06-21,17:30,2026-06-22,01:13,KOA,Kona,MSY,New Orleans,583.03,Economy
+FL888,Blue Horizon Airlines,2026-07-03,12:45,2026-07-03,18:25,KOA,Kona,SAN,San Diego,309.29,Economy
+FL889,Velocity Air,2026-05-19,12:30,2026-05-19,14:38,KOA,Kona,SJC,San Jose,260.35,Economy
+FL890,SkyReach Airways,2026-07-06,15:00,2026-07-06,19:23,KOA,Kona,SLC,Salt Lake City,309.42,Economy
+FL891,CloudNine Air,2026-04-13,06:30,2026-04-13,08:19,LAS,Las Vegas,DEN,Denver,193.47,Economy
+FL892,Blue River Air,2026-04-20,13:00,2026-04-20,19:47,LAS,Las Vegas,EWR,Newark,345.5,Economy
+FL893,SkyReach Airways,2026-05-25,18:45,2026-05-25,22:30,LAS,Las Vegas,FLL,Fort Lauderdale,323.81,Economy
+FL894,Coastal Breeze Airlines,2026-07-30,18:45,2026-07-30,22:38,LAS,Las Vegas,IND,Indianapolis,219.72,Business
+FL895,Strato,2026-06-25,18:30,2026-06-25,20:30,LAS,Las Vegas,LAX,Los Angeles,166.11,Economy
+FL896,AirNova,2026-07-05,17:15,2026-07-05,21:50,LAS,Las Vegas,OMA,Omaha,364.12,Economy
+FL897,Heartland Air,2026-07-26,17:00,2026-07-26,18:06,LAS,Las Vegas,SAN,San Diego,155.8,Economy
+FL898,Northstar Air,2026-06-16,16:45,2026-06-16,18:18,LAS,Las Vegas,SFO,San Francisco,161.56,Economy
+FL899,Firefly Air,2026-04-23,20:00,2026-04-24,00:03,LAS,Las Vegas,TUL,Tulsa,390.34,Economy
+FL900,AeroVista,2026-04-14,16:00,2026-04-14,18:31,LAX,Los Angeles,DEN,Denver,306.25,Economy
+FL901,Winglet,2026-05-04,07:30,2026-05-04,12:03,LAX,Los Angeles,GSO,Greensboro,375.28,First
+FL902,Gulfway Airlines,2026-05-20,10:00,2026-05-20,17:32,LAX,Los Angeles,MIA,Miami,365.37,Economy
+FL903,Coastal Breeze Airlines,2026-04-24,13:30,2026-04-24,18:12,LAX,Los Angeles,ORD,Chicago,282.0,First
+FL904,AeroVista,2026-04-24,05:30,2026-04-24,07:22,LAX,Los Angeles,PHX,Phoenix,191.23,Economy
+FL905,Heartland Air,2026-06-22,15:45,2026-06-22,18:17,LBB,Lubbock,BWI,Baltimore,240.93,Economy
+FL906,AltitudeX,2026-04-24,18:45,2026-04-24,22:22,LBB,Lubbock,DAL,Dallas,234.14,Economy
+FL907,Atlas Wing,2026-06-07,19:45,2026-06-08,00:57,LBB,Lubbock,DEN,Denver,382.0,Economy
+FL908,Blue Horizon Airlines,2026-06-04,21:30,2026-06-04,23:14,LBB,Lubbock,GRR,Grand Rapids,220.8,Business
+FL909,AirNova,2026-07-10,22:00,2026-07-11,01:38,LBB,Lubbock,SMF,Sacramento,309.83,Economy
+FL910,AeroVista,2026-04-15,20:45,2026-04-16,01:33,LEX,Lexington,ECP,Panama City,316.13,Economy
+FL911,Blue Horizon Airlines,2026-06-09,19:30,2026-06-09,21:39,LEX,Lexington,PIE,St. Petersburg,243.8,Economy
+FL912,Moonbeam Airlines,2026-06-24,10:00,2026-06-24,13:56,LEX,Lexington,RDU,Raleigh,311.06,First
+FL913,Zephyr Air,2026-06-17,15:45,2026-06-17,19:33,LEX,Lexington,SAT,San Antonio,434.08,Economy
+FL914,SunTrail Airlines,2026-05-15,20:00,2026-05-16,01:49,LEX,Lexington,SNA,Santa Ana,396.73,Business
+FL915,Blue Horizon Airlines,2026-07-18,09:00,2026-07-18,12:53,LGA,New York,ATW,Appleton,276.58,Economy
+FL916,Velocity Air,2026-07-09,12:15,2026-07-09,15:10,LGA,New York,HNL,Honolulu,243.37,Economy
+FL917,Gulfway Airlines,2026-05-30,16:15,2026-05-30,19:13,LGA,New York,MHT,Manchester,240.38,Economy
+FL918,Blue Horizon Airlines,2026-05-18,19:00,2026-05-18,22:10,LGA,New York,MIA,Miami,310.33,Economy
+FL919,Northstar Air,2026-04-27,20:30,2026-04-27,22:38,LGA,New York,OMA,Omaha,191.77,Economy
+FL920,Aurora Jet,2026-04-19,19:15,2026-04-20,00:39,LGA,New York,RDM,Redmond,537.57,Business
+FL921,Northstar Air,2026-07-20,09:30,2026-07-20,11:35,LGA,New York,TUS,Tucson,151.01,Economy
+FL922,Velocity Air,2026-06-18,16:00,2026-06-18,18:12,LGB,Long Beach,KOA,Kona,133.59,Business
+FL923,Nimbus Airlines,2026-07-28,19:00,2026-07-28,22:53,LIH,Kauai,LAS,Las Vegas,445.41,Economy
+FL924,Lift Airlines,2026-05-23,08:45,2026-05-23,10:51,LIH,Kauai,LGB,Long Beach,202.15,First
+FL925,Coastal Breeze Airlines,2026-07-01,20:45,2026-07-02,02:12,LIH,Kauai,MEM,Memphis,529.64,Economy
+FL926,Nimbus Airlines,2026-07-25,17:15,2026-07-25,22:44,LIH,Kauai,PBI,West Palm Beach,556.03,Economy
+FL927,Winglet,2026-05-06,19:00,2026-05-06,22:41,LIH,Kauai,SAT,San Antonio,315.48,Economy
+FL928,Velocity Air,2026-04-11,14:00,2026-04-11,15:31,LIT,Little Rock,BHM,Birmingham,150.81,Economy
+FL929,Lift Airlines,2026-05-21,16:30,2026-05-21,19:30,LIT,Little Rock,JAC,Jackson Hole,289.97,Business
+FL930,Coastal Breeze Airlines,2026-06-19,18:15,2026-06-19,23:32,LIT,Little Rock,OGG,Maui,407.19,Economy
+FL931,AeroVista,2026-04-19,22:15,2026-04-20,01:42,MAF,Midland,ABE,Allentown,306.8,Economy
+FL932,SkyReach Airways,2026-05-21,10:30,2026-05-21,12:23,MAF,Midland,MEM,Memphis,161.06,Business
+FL933,Moonbeam Airlines,2026-07-16,08:00,2026-07-16,11:53,MCI,Kansas City,BIL,Billings,305.67,Economy
+FL934,AltitudeX,2026-07-03,08:00,2026-07-03,14:09,MCI,Kansas City,BUR,Burbank,464.3,Economy
+FL935,Skylark Airways,2026-06-09,19:30,2026-06-09,22:53,MCI,Kansas City,BWI,Baltimore,245.57,Economy
+FL936,Summit Air Group,2026-04-22,16:30,2026-04-22,20:25,MCI,Kansas City,FAT,Fresno,269.5,First
+FL937,Zephyr Air,2026-06-09,22:15,2026-06-10,03:13,MCI,Kansas City,GSO,Greensboro,320.7,Economy
+FL938,Redwood Air,2026-06-23,07:15,2026-06-23,11:46,MCI,Kansas City,HSV,Huntsville,374.67,First
+FL939,Frontier Valley Air,2026-07-15,09:45,2026-07-15,12:03,MCI,Kansas City,ITO,Hilo,140.98,Business
+FL940,Moonbeam Airlines,2026-04-23,05:00,2026-04-23,08:03,MCI,Kansas City,TUS,Tucson,236.59,Economy
+FL941,Crosswind Air,2026-04-24,17:30,2026-04-24,23:26,MCO,Orlando,ATW,Appleton,420.63,Business
+FL942,Summit Air Group,2026-06-18,16:45,2026-06-18,18:19,MCO,Orlando,BIL,Billings,155.77,Economy
+FL943,AirNova,2026-06-02,06:00,2026-06-02,07:59,MCO,Orlando,DCA,Washington,241.08,Business
+FL944,Moonbeam Airlines,2026-06-20,19:00,2026-06-20,20:36,MCO,Orlando,GSO,Greensboro,125.68,Business
+FL945,SilverJet Airlines,2026-05-15,09:00,2026-05-15,12:21,MCO,Orlando,TPA,Tampa,225.64,Economy
+FL946,Moonbeam Airlines,2026-04-29,20:00,2026-04-29,22:23,MCO,Orlando,VPS,Destin,191.53,Economy
+FL947,Northstar Air,2026-04-19,19:15,2026-04-19,21:58,MDT,Harrisburg,PHL,Philadelphia,248.85,First
+FL948,Zephyr Air,2026-05-29,22:15,2026-05-30,00:25,MDT,Harrisburg,PWM,Portland,210.35,Economy
+FL949,Lift Airlines,2026-07-12,16:15,2026-07-12,18:43,MDT,Harrisburg,ROC,Rochester,236.77,First
+FL950,Comet Airlines,2026-04-17,21:45,2026-04-18,01:36,MDW,Chicago,MDT,Harrisburg,232.36,Business
+FL951,Summit Air Group,2026-05-02,16:30,2026-05-02,18:22,MEM,Memphis,SEA,Seattle,220.67,Business
+FL952,Coastal Breeze Airlines,2026-05-08,08:45,2026-05-08,12:03,MEM,Memphis,SGF,Springfield,318.39,First
+FL953,Crosswind Air,2026-06-24,10:15,2026-06-24,14:14,MFE,McAllen,STL,St. Louis,321.06,First
+FL954,Strato,2026-06-06,19:45,2026-06-06,21:28,MFR,Medford,BOS,Boston,161.3,Business
+FL955,Winglet,2026-06-29,15:45,2026-06-29,20:35,MFR,Medford,FSD,Sioux Falls,395.28,Economy
+FL956,Moonbeam Airlines,2026-04-27,19:30,2026-04-27,21:04,MFR,Medford,XNA,Fayetteville,176.5,Business
+FL957,Lift Airlines,2026-07-18,14:15,2026-07-18,18:00,MHT,Manchester,CID,Cedar Rapids,223.76,Economy
+FL958,Summit Air Group,2026-04-17,15:15,2026-04-17,17:14,MHT,Manchester,FAI,Fairbanks,153.56,Economy
+FL959,AltitudeX,2026-05-25,14:30,2026-05-25,16:04,MHT,Manchester,MCO,Orlando,207.84,Economy
+FL960,Aurora Jet,2026-06-25,21:30,2026-06-26,01:19,MHT,Manchester,ORF,Norfolk,306.47,Economy
+FL961,Velocity Air,2026-07-18,06:45,2026-07-18,12:20,MHT,Manchester,RSW,Fort Myers,443.02,Economy
+FL962,Winglet,2026-06-30,11:30,2026-06-30,14:41,MIA,Miami,BOS,Boston,295.73,Economy
+FL963,Summit Air Group,2026-04-27,07:15,2026-04-27,10:42,MIA,Miami,CHA,Chattanooga,214.78,Business
+FL964,Mountain Crest Air,2026-07-08,08:00,2026-07-08,13:49,MIA,Miami,DEN,Denver,419.94,First
+FL965,AirNova,2026-05-09,19:30,2026-05-09,23:26,MSO,Missoula,CLE,Cleveland,343.41,Economy
+FL966,Comet Airlines,2026-05-24,17:15,2026-05-24,20:21,MSO,Missoula,DSM,Des Moines,254.19,Economy
+FL967,Mountain Crest Air,2026-07-03,07:00,2026-07-03,10:50,MSO,Missoula,GSP,Greenville,275.78,Economy
+FL968,Atlas Wing,2026-05-20,08:30,2026-05-20,13:48,MSO,Missoula,PVD,Providence,366.41,Business
+FL969,Coastal Breeze Airlines,2026-05-20,08:00,2026-05-20,11:14,MSP,Minneapolis,AVL,Asheville,264.96,Economy
+FL970,Nimbus Airlines,2026-05-17,18:00,2026-05-17,19:38,MSP,Minneapolis,DEN,Denver,208.75,First
+FL971,Aurora Jet,2026-05-17,17:30,2026-05-17,19:11,MSP,Minneapolis,ORD,Chicago,167.66,Economy
+FL972,CloudNine Air,2026-07-02,22:15,2026-07-03,00:26,MSP,Minneapolis,PIT,Pittsburgh,257.48,Economy
+FL973,Skylark Airways,2026-06-12,17:00,2026-06-12,19:32,MSP,Minneapolis,PVD,Providence,247.05,Business
+FL974,Crosswind Air,2026-05-05,16:15,2026-05-05,20:23,MSP,Minneapolis,VPS,Destin,282.55,First
+FL975,Gulfway Airlines,2026-04-25,10:15,2026-04-25,14:14,MSY,New Orleans,DAL,Dallas,365.29,Economy
+FL976,Blue Horizon Airlines,2026-06-11,22:15,2026-06-12,02:04,MSY,New Orleans,FAT,Fresno,385.98,Economy
+FL977,CloudNine Air,2026-06-23,17:30,2026-06-23,19:49,MSY,New Orleans,KOA,Kona,209.68,Economy
+FL978,Comet Airlines,2026-07-09,19:30,2026-07-09,23:21,MSY,New Orleans,MSO,Missoula,364.32,First
+FL979,Heartland Air,2026-06-03,14:30,2026-06-03,18:36,MSY,New Orleans,PIE,St. Petersburg,314.5,Economy
+FL980,Skylo,2026-05-07,22:30,2026-05-08,02:00,MYR,Myrtle Beach,CID,Cedar Rapids,313.61,Economy
+FL981,Starling Air,2026-07-23,11:30,2026-07-23,18:04,MYR,Myrtle Beach,HOU,Houston,521.23,Economy
+FL982,Winglet,2026-06-03,20:15,2026-06-03,22:51,MYR,Myrtle Beach,LAX,Los Angeles,264.77,Business
+FL983,Summit Air Group,2026-06-14,18:45,2026-06-14,19:55,MYR,Myrtle Beach,OAK,Oakland,145.26,Economy
+FL984,CloudNine Air,2026-07-28,13:30,2026-07-28,16:36,OAK,Oakland,HNL,Honolulu,327.95,Economy
+FL985,Northstar Air,2026-06-17,08:45,2026-06-17,14:37,OAK,Oakland,KOA,Kona,450.06,Economy
+FL986,Lakeside Airlines,2026-04-18,10:30,2026-04-18,16:09,OAK,Oakland,MFE,McAllen,430.0,Business
+FL987,Summit Air Group,2026-04-26,19:15,2026-04-26,21:56,OAK,Oakland,PHX,Phoenix,333.62,First
+FL988,Gulfway Airlines,2026-07-21,19:45,2026-07-21,21:41,OAK,Oakland,SDF,Louisville,134.33,Economy
+FL989,AeroVista,2026-05-31,07:00,2026-05-31,13:41,OGG,Maui,CLE,Cleveland,527.1,Business
+FL990,Heartland Air,2026-05-27,08:00,2026-05-27,14:05,OGG,Maui,FAI,Fairbanks,364.99,Economy
+FL991,Moonbeam Airlines,2026-04-20,16:00,2026-04-20,18:20,OGG,Maui,JAC,Jackson Hole,168.8,Economy
+FL992,AirNova,2026-05-14,20:30,2026-05-14,22:44,OGG,Maui,MCI,Kansas City,176.93,Economy
+FL993,Starling Air,2026-06-04,05:00,2026-06-04,09:55,OGG,Maui,MEM,Memphis,259.34,Economy
+FL994,HorizonLink,2026-05-05,10:15,2026-05-05,12:20,OGG,Maui,RDU,Raleigh,205.29,Economy
+FL995,SunTrail Airlines,2026-06-01,09:00,2026-06-01,13:09,OMA,Omaha,MDW,Chicago,268.17,First
+FL996,Lift Airlines,2026-04-23,07:00,2026-04-23,09:30,OMA,Omaha,XNA,Fayetteville,208.69,Economy
+FL997,SkyReach Airways,2026-04-16,09:00,2026-04-16,13:47,ONT,Ontario,BWI,Baltimore,382.44,Economy
+FL998,TrueWay Airlines,2026-04-10,21:45,2026-04-10,23:51,ONT,Ontario,ITO,Hilo,160.76,Economy
+FL999,Coastal Breeze Airlines,2026-05-15,19:00,2026-05-15,22:00,ONT,Ontario,MCO,Orlando,341.55,First
+FL1000,Heartland Air,2026-06-20,18:45,2026-06-20,21:38,ORD,Chicago,BOS,Boston,280.24,Business
+FL1001,Aurora Jet,2026-06-14,17:00,2026-06-14,21:47,ORD,Chicago,CID,Cedar Rapids,506.93,Economy
+FL1002,TrueWay Airlines,2026-06-11,21:30,2026-06-11,23:35,ORD,Chicago,CLT,Charlotte,157.78,Economy
+FL1003,Starling Air,2026-04-13,17:45,2026-04-13,19:38,ORD,Chicago,DEN,Denver,159.97,Economy
+FL1004,AeroVista,2026-05-23,07:30,2026-05-23,10:44,ORD,Chicago,DFW,Dallas,241.44,First
+FL1005,Blue Horizon Airlines,2026-07-15,16:00,2026-07-15,18:17,ORD,Chicago,FWA,Fort Wayne,192.43,Economy
+FL1006,TrueWay Airlines,2026-05-21,11:00,2026-05-21,13:23,ORD,Chicago,MCO,Orlando,210.15,Economy
+FL1007,SkyReach Airways,2026-07-06,20:45,2026-07-07,01:11,ORD,Chicago,SMF,Sacramento,408.25,Economy
+FL1008,Atlas Wing,2026-07-08,20:00,2026-07-08,22:34,ORF,Norfolk,FWA,Fort Wayne,261.37,Economy
+FL1009,AirNova,2026-07-18,11:45,2026-07-18,13:50,ORF,Norfolk,MFR,Medford,193.57,Business
+FL1010,Lift Airlines,2026-06-12,18:00,2026-06-13,01:19,ORF,Norfolk,PIT,Pittsburgh,527.67,Economy
+FL1011,AirNova,2026-07-13,11:30,2026-07-13,14:36,PBI,West Palm Beach,BZN,Bozeman,274.88,Economy
+FL1012,AltitudeX,2026-07-27,16:00,2026-07-27,20:49,PBI,West Palm Beach,CHS,Charleston,341.06,Economy
+FL1013,Northstar Air,2026-06-02,18:15,2026-06-02,22:50,PBI,West Palm Beach,DCA,Washington,321.71,Economy
+FL1014,Prairie Sky,2026-05-21,11:15,2026-05-21,13:16,PBI,West Palm Beach,HNL,Honolulu,167.9,Economy
+FL1015,Northstar Air,2026-07-19,22:00,2026-07-20,00:34,PBI,West Palm Beach,MCO,Orlando,266.76,Business
+FL1016,Skylark Airways,2026-04-18,19:15,2026-04-18,20:53,PBI,West Palm Beach,SJC,San Jose,145.24,Economy
+FL1017,Crosswind Air,2026-06-16,14:45,2026-06-16,18:26,PDX,Portland,FAT,Fresno,290.47,Economy
+FL1018,Moonbeam Airlines,2026-07-01,14:45,2026-07-01,18:24,PDX,Portland,FSD,Sioux Falls,336.17,Economy
+FL1019,Skylark Airways,2026-04-29,19:30,2026-04-29,20:52,PDX,Portland,SEA,Seattle,89.61,Economy
+FL1020,Nimbus Airlines,2026-06-25,19:15,2026-06-25,21:02,PDX,Portland,SFO,San Francisco,168.6,Business
+FL1021,AltitudeX,2026-04-17,18:15,2026-04-18,00:18,PGD,Punta Gorda,ORD,Chicago,437.84,Economy
+FL1022,Comet Airlines,2026-04-11,10:00,2026-04-11,15:32,PGD,Punta Gorda,SBN,South Bend,291.28,Economy
+FL1023,Atlas Wing,2026-05-08,17:00,2026-05-08,20:16,PGD,Punta Gorda,TPA,Tampa,274.96,Business
+FL1024,Winglet,2026-04-12,10:15,2026-04-12,14:11,PGD,Punta Gorda,XNA,Fayetteville,287.48,Economy
+FL1025,Northstar Air,2026-05-25,19:30,2026-05-25,21:48,PHL,Philadelphia,BOS,Boston,154.61,Economy
+FL1026,CloudNine Air,2026-06-14,17:00,2026-06-14,19:50,PHX,Phoenix,ATW,Appleton,227.34,First
+FL1027,Jetline,2026-05-09,09:00,2026-05-09,11:03,PHX,Phoenix,DFW,Dallas,232.15,Economy
+FL1028,Strato,2026-06-13,17:45,2026-06-14,01:08,PHX,Phoenix,IAD,Washington,387.49,Business
+FL1029,HorizonLink,2026-07-07,19:45,2026-07-07,22:42,PHX,Phoenix,SEA,Seattle,368.89,Economy
+FL1030,Lakeside Airlines,2026-07-05,21:00,2026-07-05,23:55,PIE,St. Petersburg,CHA,Chattanooga,237.21,Economy
+FL1031,Atlas Wing,2026-06-04,11:00,2026-06-04,16:33,PIE,St. Petersburg,CVG,Cincinnati,495.07,Economy
+FL1032,Moonbeam Airlines,2026-07-02,16:30,2026-07-02,20:30,PIE,St. Petersburg,LBB,Lubbock,219.02,Economy
+FL1033,TrueWay Airlines,2026-05-15,15:00,2026-05-15,17:50,PIE,St. Petersburg,MDT,Harrisburg,286.44,Economy
+FL1034,Crosswind Air,2026-07-18,17:00,2026-07-19,00:10,PIT,Pittsburgh,ANC,Anchorage,424.63,Economy
+FL1035,Firefly Air,2026-07-18,09:45,2026-07-18,13:15,PIT,Pittsburgh,DTW,Detroit,364.16,Economy
+FL1036,AeroVista,2026-05-24,17:15,2026-05-25,00:14,PIT,Pittsburgh,GSO,Greensboro,578.4,Business
+FL1037,Velocity Air,2026-04-24,08:15,2026-04-24,10:23,PNS,Pensacola,BZN,Bozeman,209.51,Economy
+FL1038,Starling Air,2026-06-14,18:30,2026-06-14,22:38,PNS,Pensacola,CHA,Chattanooga,273.92,Economy
+FL1039,Winglet,2026-04-17,09:30,2026-04-17,15:51,PNS,Pensacola,RSW,Fort Myers,543.22,Economy
+FL1040,Skylo,2026-06-06,22:00,2026-06-07,00:44,PNS,Pensacola,SYR,Syracuse,207.55,Economy
+FL1041,Velocity Air,2026-06-28,11:15,2026-06-28,15:53,PNS,Pensacola,TUL,Tulsa,406.51,Business
+FL1042,Skylark Airways,2026-06-11,07:15,2026-06-11,10:00,PSC,Pasco,DAY,Dayton,291.57,Economy
+FL1043,Lift Airlines,2026-04-29,10:30,2026-04-29,13:11,PSP,Palm Springs,FSD,Sioux Falls,246.23,Business
+FL1044,Gulfway Airlines,2026-05-22,22:00,2026-05-23,03:42,PSP,Palm Springs,HOU,Houston,505.89,Economy
+FL1045,HorizonLink,2026-05-03,14:15,2026-05-03,18:27,PSP,Palm Springs,JAC,Jackson Hole,404.5,Business
+FL1046,TrueWay Airlines,2026-04-19,21:30,2026-04-20,01:53,PSP,Palm Springs,RDU,Raleigh,423.77,Economy
+FL1047,Zephyr Air,2026-04-27,10:45,2026-04-27,15:09,PSP,Palm Springs,SMF,Sacramento,377.38,Economy
+FL1048,Mountain Crest Air,2026-07-24,06:45,2026-07-24,11:52,PVD,Providence,ATW,Appleton,414.56,Economy
+FL1049,Winglet,2026-05-11,12:00,2026-05-11,16:08,PVD,Providence,EYW,Key West,294.66,First
+FL1050,AeroVista,2026-06-10,14:45,2026-06-10,18:37,PVD,Providence,FAT,Fresno,345.82,Economy
+FL1051,Starling Air,2026-05-09,18:15,2026-05-10,00:31,PVD,Providence,LBB,Lubbock,459.95,Business
+FL1052,AltitudeX,2026-04-28,19:30,2026-04-29,00:56,PVD,Providence,LIT,Little Rock,397.99,Business
+FL1053,Frontier Valley Air,2026-05-21,10:00,2026-05-21,13:10,PVD,Providence,SMF,Sacramento,343.14,Economy
+FL1054,Moonbeam Airlines,2026-07-10,16:30,2026-07-10,18:25,PWM,Portland,ATL,Atlanta,165.22,Economy
+FL1055,Northstar Air,2026-06-12,08:45,2026-06-12,12:25,PWM,Portland,BTV,Burlington,290.3,First
+FL1056,Blue River Air,2026-05-12,19:45,2026-05-12,23:16,PWM,Portland,BUR,Burbank,265.23,Economy
+FL1057,AltitudeX,2026-05-15,17:45,2026-05-15,20:10,PWM,Portland,CID,Cedar Rapids,178.34,Economy
+FL1058,Heartland Air,2026-07-27,10:30,2026-07-27,13:11,PWM,Portland,GSP,Greenville,297.41,Economy
+FL1059,Moonbeam Airlines,2026-05-02,10:30,2026-05-02,13:33,PWM,Portland,LAX,Los Angeles,281.84,Economy
+FL1060,SkyReach Airways,2026-06-10,15:15,2026-06-10,17:16,PWM,Portland,LIH,Kauai,139.57,Economy
+FL1061,Redwood Air,2026-06-11,20:00,2026-06-12,00:41,PWM,Portland,MSP,Minneapolis,348.5,First
+FL1062,Nimbus Airlines,2026-04-14,07:00,2026-04-14,12:42,PWM,Portland,SLC,Salt Lake City,415.74,Economy
+FL1063,Starling Air,2026-05-14,22:30,2026-05-15,01:31,RDM,Redmond,ABE,Allentown,357.76,Economy
+FL1064,Skylark Airways,2026-04-25,13:45,2026-04-25,18:58,RDM,Redmond,BUR,Burbank,431.43,Economy
+FL1065,Northstar Air,2026-04-13,18:15,2026-04-13,23:28,RDM,Redmond,MCI,Kansas City,523.03,Economy
+FL1066,Firefly Air,2026-05-24,14:30,2026-05-24,17:39,RDM,Redmond,OMA,Omaha,303.21,Economy
+FL1067,Skylo,2026-07-14,14:15,2026-07-14,19:00,RDU,Raleigh,BWI,Baltimore,407.22,Economy
+FL1068,Blue River Air,2026-04-24,08:30,2026-04-24,11:20,RDU,Raleigh,OAK,Oakland,231.66,Economy
+FL1069,Mountain Crest Air,2026-06-18,17:00,2026-06-18,22:06,RDU,Raleigh,SJC,San Jose,389.54,Economy
+FL1070,Summit Air Group,2026-05-29,21:30,2026-05-30,02:40,RDU,Raleigh,TUS,Tucson,410.37,First
+FL1071,CloudNine Air,2026-07-08,16:00,2026-07-08,23:01,RDU,Raleigh,XNA,Fayetteville,475.71,Economy
+FL1072,Coastal Breeze Airlines,2026-06-24,21:45,2026-06-25,01:02,RNO,Reno,ANC,Anchorage,324.9,Economy
+FL1073,Moonbeam Airlines,2026-04-28,18:00,2026-04-28,22:56,RNO,Reno,ATL,Atlanta,386.13,Economy
+FL1074,Summit Air Group,2026-07-23,21:45,2026-07-24,01:53,RNO,Reno,BWI,Baltimore,333.86,Economy
+FL1075,Winglet,2026-05-16,20:30,2026-05-17,01:04,RNO,Reno,PSP,Palm Springs,397.7,Business
+FL1076,Blue River Air,2026-05-31,15:15,2026-05-31,19:01,RNO,Reno,RDU,Raleigh,380.75,Business
+FL1077,HorizonLink,2026-06-30,12:45,2026-06-30,16:38,ROC,Rochester,DAL,Dallas,394.42,Economy
+FL1078,Comet Airlines,2026-06-14,17:30,2026-06-14,21:47,ROC,Rochester,JAC,Jackson Hole,455.58,Business
+FL1079,Heartland Air,2026-04-12,09:00,2026-04-12,12:24,ROC,Rochester,LIH,Kauai,259.05,Business
+FL1080,Moonbeam Airlines,2026-05-31,10:15,2026-05-31,13:37,RSW,Fort Myers,CLT,Charlotte,310.78,Economy
+FL1081,SilverJet Airlines,2026-06-11,20:30,2026-06-12,01:21,RSW,Fort Myers,LIT,Little Rock,373.46,Economy
+FL1082,AltitudeX,2026-07-07,09:45,2026-07-07,12:51,RSW,Fort Myers,PIT,Pittsburgh,187.73,Economy
+FL1083,Moonbeam Airlines,2026-07-01,20:45,2026-07-02,03:59,SAN,San Diego,BNA,Nashville,451.07,Economy
+FL1084,Crosswind Air,2026-06-05,22:30,2026-06-06,03:37,SAN,San Diego,JFK,New York,396.15,Economy
+FL1085,HorizonLink,2026-06-25,20:45,2026-06-25,21:57,SAN,San Diego,LAS,Las Vegas,153.85,Economy
+FL1086,Jetline,2026-06-18,15:00,2026-06-18,17:58,SAN,San Diego,LGA,New York,312.17,Economy
+FL1087,Lift Airlines,2026-07-15,14:30,2026-07-15,19:00,SAN,San Diego,MSP,Minneapolis,311.91,Economy
+FL1088,Strato,2026-05-18,20:45,2026-05-19,03:14,SAN,San Diego,MSY,New Orleans,503.72,Economy
+FL1089,Jetline,2026-05-14,09:15,2026-05-14,12:58,SAN,San Diego,SEA,Seattle,315.87,Economy
+FL1090,Prairie Sky,2026-07-31,18:00,2026-07-31,20:22,SAN,San Diego,TPA,Tampa,184.26,Economy
+FL1091,Coastal Breeze Airlines,2026-05-15,06:45,2026-05-15,10:21,SAT,San Antonio,BDL,Hartford,408.77,First
+FL1092,Aurora Jet,2026-05-22,19:30,2026-05-22,22:02,SAT,San Antonio,IND,Indianapolis,254.66,Economy
+FL1093,Frontier Valley Air,2026-05-03,22:30,2026-05-04,04:39,SAT,San Antonio,PHL,Philadelphia,580.96,Business
+FL1094,Jetline,2026-04-25,08:45,2026-04-25,12:03,SAT,San Antonio,RNO,Reno,239.14,Economy
+FL1095,Heartland Air,2026-05-09,07:00,2026-05-09,11:25,SAV,Savannah,BTV,Burlington,392.18,Economy
+FL1096,Gulfway Airlines,2026-06-28,12:45,2026-06-28,15:21,SAV,Savannah,FWA,Fort Wayne,225.86,Business
+FL1097,Mountain Crest Air,2026-07-08,20:30,2026-07-09,01:25,SAV,Savannah,PSP,Palm Springs,452.97,Business
+FL1098,CloudNine Air,2026-04-08,10:30,2026-04-08,15:54,SAV,Savannah,SDF,Louisville,400.21,Economy
+FL1099,Starling Air,2026-06-08,11:45,2026-06-08,17:28,SBA,Santa Barbara,ROC,Rochester,389.94,Economy
+FL1100,AltitudeX,2026-07-15,08:15,2026-07-15,10:26,SBN,South Bend,LBB,Lubbock,191.01,Economy
+FL1101,TrueWay Airlines,2026-07-11,06:30,2026-07-11,10:54,SBN,South Bend,SAV,Savannah,384.48,Economy
+FL1102,Crosswind Air,2026-04-12,18:00,2026-04-12,21:03,SBN,South Bend,SYR,Syracuse,209.16,Economy
+FL1103,Lakeside Airlines,2026-07-29,06:30,2026-07-29,10:12,SDF,Louisville,BDL,Hartford,360.36,Economy
+FL1104,Blue Horizon Airlines,2026-05-20,14:30,2026-05-20,21:26,SDF,Louisville,HRL,Harlingen,618.28,Economy
+FL1105,TrueWay Airlines,2026-06-14,21:15,2026-06-14,23:32,SDF,Louisville,LAS,Las Vegas,263.59,Business
+FL1106,SkyReach Airways,2026-05-12,11:30,2026-05-12,13:21,SDF,Louisville,MCI,Kansas City,115.19,Business
+FL1107,Comet Airlines,2026-07-10,20:00,2026-07-11,01:35,SDF,Louisville,ROC,Rochester,460.36,Business
+FL1108,AeroOne,2026-07-11,16:15,2026-07-11,22:30,SDF,Louisville,SAN,San Diego,500.61,First
+FL1109,Firefly Air,2026-04-30,18:15,2026-05-01,00:34,SDF,Louisville,SGF,Springfield,435.38,Economy
+FL1110,Aurora Jet,2026-05-29,08:30,2026-05-29,13:47,SEA,Seattle,ABE,Allentown,547.38,Economy
+FL1111,Starling Air,2026-05-19,13:15,2026-05-19,15:45,SEA,Seattle,DEN,Denver,252.27,Economy
+FL1112,Heartland Air,2026-06-04,14:00,2026-06-04,20:24,SEA,Seattle,DTW,Detroit,435.97,Economy
+FL1113,Winglet,2026-04-09,13:45,2026-04-09,18:08,SEA,Seattle,HNL,Honolulu,325.87,Economy
+FL1114,Heartland Air,2026-04-15,09:15,2026-04-15,11:14,SEA,Seattle,JAC,Jackson Hole,141.03,Economy
+FL1115,Redwood Air,2026-07-04,21:30,2026-07-05,01:30,SEA,Seattle,MDW,Chicago,316.52,Economy
+FL1116,Blue River Air,2026-06-28,14:45,2026-06-28,21:19,SEA,Seattle,MIA,Miami,511.38,Business
+FL1117,Gulfway Airlines,2026-04-25,20:45,2026-04-26,01:04,SEA,Seattle,ONT,Ontario,362.52,Economy
+FL1118,Northstar Air,2026-05-31,20:30,2026-06-01,02:27,SEA,Seattle,SRQ,Sarasota,433.71,Business
+FL1119,Frontier Valley Air,2026-07-14,13:15,2026-07-14,17:12,SFB,Sanford,ELP,El Paso,328.01,Economy
+FL1120,Aurora Jet,2026-06-14,19:45,2026-06-15,02:30,SFB,Sanford,ORD,Chicago,459.54,Business
+FL1121,Atlas Wing,2026-06-19,09:00,2026-06-19,11:37,SFB,Sanford,SYR,Syracuse,310.23,Business
+FL1122,Summit Air Group,2026-05-03,22:30,2026-05-04,03:38,SFO,San Francisco,ATL,Atlanta,362.73,First
+FL1123,SunTrail Airlines,2026-06-03,09:00,2026-06-03,13:32,SFO,San Francisco,JFK,New York,436.7,Business
+FL1124,Strato,2026-04-19,21:45,2026-04-20,04:39,SFO,San Francisco,MSO,Missoula,530.58,Economy
+FL1125,SkyReach Airways,2026-04-24,21:45,2026-04-25,03:11,SFO,San Francisco,ORD,Chicago,387.64,Economy
+FL1126,AltitudeX,2026-06-18,20:15,2026-06-18,22:54,SFO,San Francisco,SEA,Seattle,265.33,Economy
+FL1127,Redwood Air,2026-05-10,05:00,2026-05-10,09:05,SGF,Springfield,ANC,Anchorage,244.58,First
+FL1128,Atlas Wing,2026-04-13,19:00,2026-04-13,21:44,SGF,Springfield,BUR,Burbank,276.28,Business
+FL1129,TrueWay Airlines,2026-04-15,07:30,2026-04-15,10:30,SGF,Springfield,COS,Colorado Springs,202.06,Economy
+FL1130,SilverJet Airlines,2026-05-01,09:45,2026-05-01,15:12,SGF,Springfield,EWR,Newark,352.85,Economy
+FL1131,Prairie Sky,2026-06-04,17:30,2026-06-04,20:18,SGF,Springfield,FLL,Fort Lauderdale,206.5,Business
+FL1132,TrueWay Airlines,2026-04-25,16:30,2026-04-25,18:07,SGF,Springfield,OMA,Omaha,168.8,Economy
+FL1133,TrueWay Airlines,2026-05-28,22:15,2026-05-29,03:47,SGF,Springfield,ORF,Norfolk,508.62,Economy
+FL1134,Gulfway Airlines,2026-07-23,05:00,2026-07-23,07:02,SGF,Springfield,TUS,Tucson,291.19,Economy
+FL1135,SkyReach Airways,2026-07-03,19:00,2026-07-03,22:08,SJC,San Jose,ECP,Panama City,227.86,Business
+FL1136,Gulfway Airlines,2026-05-09,20:00,2026-05-10,01:08,SJC,San Jose,GSP,Greenville,315.95,Economy
+FL1137,Firefly Air,2026-07-29,09:00,2026-07-29,12:48,SJC,San Jose,SLC,Salt Lake City,436.39,Economy
+FL1138,SilverJet Airlines,2026-06-25,06:00,2026-06-25,10:41,SLC,Salt Lake City,ATL,Atlanta,316.92,Economy
+FL1139,Blue Horizon Airlines,2026-06-23,06:30,2026-06-23,12:54,SLC,Salt Lake City,BOS,Boston,438.29,Economy
+FL1140,AltitudeX,2026-05-09,06:45,2026-05-09,10:36,SLC,Salt Lake City,MEM,Memphis,322.91,Economy
+FL1141,TrueWay Airlines,2026-05-05,07:15,2026-05-05,08:53,SLC,Salt Lake City,PHX,Phoenix,200.99,Business
+FL1142,Lakeside Airlines,2026-05-07,15:30,2026-05-07,18:43,SLC,Salt Lake City,SEA,Seattle,252.03,Economy
+FL1143,Moonbeam Airlines,2026-05-08,15:00,2026-05-08,17:18,SMF,Sacramento,COS,Colorado Springs,308.79,Economy
+FL1144,SunTrail Airlines,2026-05-06,18:30,2026-05-06,20:19,SMF,Sacramento,MCO,Orlando,153.18,Economy
+FL1145,Velocity Air,2026-06-22,11:00,2026-06-22,15:20,SMF,Sacramento,MSO,Missoula,368.77,Economy
+FL1146,Velocity Air,2026-06-10,07:00,2026-06-10,10:14,SMF,Sacramento,OAK,Oakland,318.29,Business
+FL1147,Prairie Sky,2026-07-17,22:15,2026-07-18,01:55,SMF,Sacramento,RDU,Raleigh,351.34,Business
+FL1148,SilverJet Airlines,2026-04-27,15:00,2026-04-27,20:16,SMF,Sacramento,SAV,Savannah,334.45,Economy
+FL1149,TrueWay Airlines,2026-06-07,13:00,2026-06-07,15:24,SNA,Santa Ana,KOA,Kona,179.92,Economy
+FL1150,Coastal Breeze Airlines,2026-07-20,20:15,2026-07-20,22:43,SNA,Santa Ana,MDT,Harrisburg,152.62,Economy
+FL1151,SilverJet Airlines,2026-05-31,22:15,2026-05-31,23:53,SRQ,Sarasota,BUR,Burbank,150.01,Economy
+FL1152,HorizonLink,2026-05-04,16:00,2026-05-04,20:00,SRQ,Sarasota,CID,Cedar Rapids,479.4,Economy
+FL1153,Northstar Air,2026-04-19,22:30,2026-04-20,03:48,SRQ,Sarasota,MDT,Harrisburg,366.84,Economy
+FL1154,Prairie Sky,2026-07-03,06:45,2026-07-03,08:40,STL,St. Louis,ORD,Chicago,112.42,Economy
+FL1155,Zephyr Air,2026-07-09,12:15,2026-07-09,17:57,STL,St. Louis,SNA,Santa Ana,350.55,Economy
+FL1156,Mountain Crest Air,2026-05-16,05:30,2026-05-16,07:13,SYR,Syracuse,DAY,Dayton,214.95,Economy
+FL1157,Blue River Air,2026-07-12,20:45,2026-07-12,23:16,SYR,Syracuse,PGD,Punta Gorda,224.94,Economy
+FL1158,Frontier Valley Air,2026-05-28,13:00,2026-05-28,17:10,TPA,Tampa,BDL,Hartford,306.22,Economy
+FL1159,Lakeside Airlines,2026-05-26,20:15,2026-05-27,03:31,TPA,Tampa,GEG,Spokane,491.66,Business
+FL1160,Lift Airlines,2026-05-11,17:00,2026-05-11,19:02,TPA,Tampa,MDT,Harrisburg,204.59,Economy
+FL1161,SkyReach Airways,2026-04-20,20:30,2026-04-21,00:37,TPA,Tampa,PHX,Phoenix,322.54,Economy
+FL1162,Frontier Valley Air,2026-05-25,15:30,2026-05-25,18:22,TPA,Tampa,SFB,Sanford,189.81,Economy
+FL1163,Gulfway Airlines,2026-07-11,10:00,2026-07-11,13:02,TUL,Tulsa,DAL,Dallas,285.77,Economy
+FL1164,Zephyr Air,2026-06-21,18:45,2026-06-21,23:40,TUL,Tulsa,DCA,Washington,347.15,Economy
+FL1165,Mountain Crest Air,2026-05-07,17:30,2026-05-07,21:12,TUL,Tulsa,PHX,Phoenix,318.58,Economy
+FL1166,Strato,2026-06-17,16:15,2026-06-17,19:47,TUS,Tucson,BWI,Baltimore,383.02,Economy
+FL1167,Strato,2026-07-09,21:00,2026-07-10,00:28,TUS,Tucson,CHS,Charleston,259.08,Economy
+FL1168,Nimbus Airlines,2026-04-29,09:45,2026-04-29,14:17,TUS,Tucson,LIT,Little Rock,322.32,Economy
+FL1169,Crosswind Air,2026-07-30,07:15,2026-07-30,11:22,TUS,Tucson,SAV,Savannah,265.68,Economy
+FL1170,Atlas Wing,2026-07-21,07:00,2026-07-21,10:41,TYS,Knoxville,MAF,Midland,387.51,Economy
+FL1171,Gulfway Airlines,2026-04-16,10:15,2026-04-16,13:57,VPS,Destin,CMH,Columbus,341.39,Economy
+FL1172,SkyReach Airways,2026-05-25,07:15,2026-05-25,08:54,VPS,Destin,MDT,Harrisburg,109.58,Economy
+FL1173,Starling Air,2026-07-01,21:00,2026-07-02,01:34,VPS,Destin,MFE,McAllen,351.96,Economy
+FL1174,Velocity Air,2026-05-30,05:30,2026-05-30,08:02,VPS,Destin,MYR,Myrtle Beach,301.85,Economy
+FL1175,Jetline,2026-06-15,14:30,2026-06-15,16:01,VPS,Destin,PBI,West Palm Beach,185.47,Economy
+FL1176,Skylark Airways,2026-07-20,11:00,2026-07-20,15:57,VPS,Destin,PGD,Punta Gorda,520.51,Business
+FL1177,SunTrail Airlines,2026-04-27,13:00,2026-04-27,15:54,XNA,Fayetteville,COS,Colorado Springs,316.42,Economy
+FL1178,HorizonLink,2026-07-21,16:45,2026-07-21,21:33,XNA,Fayetteville,HPN,White Plains,455.63,Economy
+FL1179,Aurora Jet,2026-05-25,18:15,2026-05-25,21:13,XNA,Fayetteville,PHX,Phoenix,253.9,Business
+FL1180,Gulfway Airlines,2026-05-16,08:00,2026-05-16,10:04,XNA,Fayetteville,PSP,Palm Springs,172.84,Economy
+FL1181,Prairie Sky,2026-05-26,20:30,2026-05-26,23:37,XNA,Fayetteville,SEA,Seattle,343.94,Business
+FL1182,Northstar Air,2026-05-10,06:30,2026-05-10,12:45,JAX,Jacksonville,MHT,Manchester,506.12,Business
+FL1183,Blue Horizon Airlines,2026-05-17,09:15,2026-05-17,15:30,JAX,Jacksonville,MHT,Manchester,573.84,Economy
+FL1184,Moonbeam Airlines,2026-05-24,14:00,2026-05-24,20:15,JAX,Jacksonville,MHT,Manchester,427.9,Business
+FL1185,Crosswind Air,2026-05-08,07:00,2026-05-08,09:30,ROC,Rochester,ORD,Chicago,164.47,Economy
+FL1186,Lakeside Airlines,2026-05-15,12:45,2026-05-15,15:15,ROC,Rochester,ORD,Chicago,124.01,Economy
+FL1187,AeroVista,2026-05-22,17:30,2026-05-22,20:00,ROC,Rochester,ORD,Chicago,132.48,First
+FL1188,SkyReach Airways,2026-05-06,08:00,2026-05-06,13:45,ECP,Panama City,PDX,Portland,365.07,Business
+FL1189,Moonbeam Airlines,2026-05-13,11:30,2026-05-13,17:15,ECP,Panama City,PDX,Portland,444.35,Economy
+FL1190,Blue Horizon Airlines,2026-05-20,15:00,2026-05-20,20:45,ECP,Panama City,PDX,Portland,490.87,Economy
+FL1191,Lift Airlines,2026-05-10,06:45,2026-05-10,11:30,XNA,Fayetteville,FWA,Fort Wayne,354.41,Business
+FL1192,Heartland Air,2026-05-17,09:00,2026-05-17,13:45,XNA,Fayetteville,FWA,Fort Wayne,299.37,Economy
+FL1193,AirNova,2026-05-24,14:30,2026-05-24,19:15,XNA,Fayetteville,FWA,Fort Wayne,370.3,Economy
+FL1194,Comet Airlines,2026-05-05,07:30,2026-05-05,15:45,ORF,Norfolk,KOA,Kailua-Kona,236.26,Economy
+FL1195,AeroOne,2026-05-12,10:00,2026-05-12,18:15,ORF,Norfolk,KOA,Kailua-Kona,251.02,Economy
+FL1196,Aurora Jet,2026-05-19,13:30,2026-05-19,21:45,ORF,Norfolk,KOA,Kailua-Kona,261.44,Business
+FL1197,Coastal Breeze Airlines,2026-05-07,06:00,2026-05-07,10:00,PIE,St. Petersburg,ORD,Chicago,203.38,Economy
+FL1198,Zephyr Air,2026-05-14,10:45,2026-05-14,14:45,PIE,St. Petersburg,ORD,Chicago,185.77,Business
+FL1199,Skylo,2026-05-21,15:30,2026-05-21,19:30,PIE,St. Petersburg,ORD,Chicago,188.19,First
+FL1200,AirNova,2026-05-02,07:15,2026-05-02,13:30,DSM,Des Moines,SAV,Savannah,291.43,Economy
+FL1201,Strato,2026-05-09,11:00,2026-05-09,17:15,DSM,Des Moines,SAV,Savannah,416.65,Business
+FL1202,Northstar Air,2026-05-16,14:45,2026-05-16,21:00,DSM,Des Moines,SAV,Savannah,429.85,Economy
+FL1203,Aurora Jet,2026-05-04,06:30,2026-05-04,14:15,BUR,Burbank,EWR,Newark,390.11,Economy
+FL1204,Lakeside Airlines,2026-05-11,09:45,2026-05-11,17:30,BUR,Burbank,EWR,Newark,258.58,Economy
+FL1205,TrueWay Airlines,2026-05-18,13:00,2026-05-18,20:45,BUR,Burbank,EWR,Newark,271.28,Economy
+FL1206,Northstar Air,2026-05-08,07:00,2026-05-08,09:30,SRQ,Sarasota,ATL,Atlanta,372.58,Economy
+FL1207,SunTrail Airlines,2026-05-15,10:30,2026-05-15,13:00,SRQ,Sarasota,ATL,Atlanta,526.2,Economy
+FL1208,CloudNine Air,2026-05-22,15:00,2026-05-22,17:30,SRQ,Sarasota,ATL,Atlanta,274.56,Economy
+FL1209,Jetline,2026-05-02,06:00,2026-05-02,14:00,BZN,Bozeman,MHT,Manchester,301.62,Economy
+FL1210,SilverJet Airlines,2026-05-09,09:30,2026-05-09,17:30,BZN,Bozeman,MHT,Manchester,416.48,Economy
+FL1211,Moonbeam Airlines,2026-05-16,13:00,2026-05-16,21:00,BZN,Bozeman,MHT,Manchester,419.5,Economy
+FL1212,Skylark Airways,2026-05-09,07:30,2026-05-09,13:15,PSP,Palm Springs,XNA,Fayetteville,288.5,Economy
+FL1213,Blue River Air,2026-05-16,11:00,2026-05-16,16:45,PSP,Palm Springs,XNA,Fayetteville,364.77,First
+FL1214,SunTrail Airlines,2026-05-23,14:30,2026-05-23,20:15,PSP,Palm Springs,XNA,Fayetteville,255.54,Economy
+FL1215,Nimbus Airlines,2026-05-07,08:00,2026-05-07,13:00,GRR,Grand Rapids,RSW,Fort Myers,242.88,Business
+FL1216,Redwood Air,2026-05-14,11:30,2026-05-14,16:30,GRR,Grand Rapids,RSW,Fort Myers,328.33,Business
+FL1217,CloudNine Air,2026-05-21,15:00,2026-05-21,20:00,GRR,Grand Rapids,RSW,Fort Myers,326.19,Business
+FL1218,Firefly Air,2026-05-02,06:45,2026-05-02,12:30,MCO,Orlando,FAT,Fresno,281.41,Economy
+FL1219,Northstar Air,2026-05-09,10:15,2026-05-09,16:00,MCO,Orlando,FAT,Fresno,271.36,Economy
+FL1220,TrueWay Airlines,2026-05-16,14:00,2026-05-16,19:45,MCO,Orlando,FAT,Fresno,344.45,Economy
+FL1221,HorizonLink,2026-05-08,07:30,2026-05-08,11:45,CID,Cedar Rapids,DAL,Dallas,318.7,Economy
+FL1222,Lift Airlines,2026-05-15,12:00,2026-05-15,16:15,CID,Cedar Rapids,DAL,Dallas,193.74,Business
+FL1223,Skylo,2026-05-22,16:30,2026-05-22,20:45,CID,Cedar Rapids,DAL,Dallas,353.86,Economy
+FL1224,Zephyr Air,2026-05-05,07:00,2026-05-05,09:30,TYS,Knoxville,DAY,Dayton,224.76,Economy
+FL1225,Moonbeam Airlines,2026-05-12,10:30,2026-05-12,13:00,TYS,Knoxville,DAY,Dayton,253.46,Business
+FL1226,Skylo,2026-05-19,14:00,2026-05-19,16:30,TYS,Knoxville,DAY,Dayton,192.21,Economy
+FL1227,SilverJet Airlines,2026-05-06,06:30,2026-05-06,08:45,MSY,New Orleans,VPS,Fort Walton Beach,140.86,Business
+FL1228,Mountain Crest Air,2026-05-13,10:00,2026-05-13,12:15,MSY,New Orleans,VPS,Fort Walton Beach,439.62,Business
+FL1229,Skylo,2026-05-20,15:30,2026-05-20,17:45,MSY,New Orleans,VPS,Fort Walton Beach,203.35,Economy
+FL1230,Velocity Air,2026-05-04,07:15,2026-05-04,13:00,PBI,West Palm Beach,CID,Cedar Rapids,281.09,First
+FL1231,Blue River Air,2026-05-11,11:00,2026-05-11,16:45,PBI,West Palm Beach,CID,Cedar Rapids,199.93,Economy
+FL1232,Zephyr Air,2026-05-18,14:30,2026-05-18,20:15,PBI,West Palm Beach,CID,Cedar Rapids,246.59,Economy
+FL1233,Atlas Wing,2026-05-10,08:00,2026-05-10,10:30,TYS,Knoxville,VPS,Fort Walton Beach,209.71,Economy
+FL1234,Prairie Sky,2026-05-17,12:00,2026-05-17,14:30,TYS,Knoxville,VPS,Fort Walton Beach,256.69,Business
+FL1235,AirNova,2026-05-24,16:00,2026-05-24,18:30,TYS,Knoxville,VPS,Fort Walton Beach,300.59,Economy
+FL1236,SilverJet Airlines,2026-05-07,07:00,2026-05-07,08:30,SNA,Santa Ana,SFO,San Francisco,109.44,Economy
+FL1237,Jetline,2026-05-14,11:30,2026-05-14,13:00,SNA,Santa Ana,SFO,San Francisco,163.17,Economy
+FL1238,Nimbus Airlines,2026-05-21,16:00,2026-05-21,17:30,SNA,Santa Ana,SFO,San Francisco,129.33,Economy
+FL1239,AltitudeX,2026-05-10,07:30,2026-05-10,13:15,GRR,Grand Rapids,SFO,San Francisco,203.76,Economy
+FL1240,Velocity Air,2026-05-17,11:00,2026-05-17,16:45,GRR,Grand Rapids,SFO,San Francisco,257.33,Economy
+FL1241,Zephyr Air,2026-05-24,14:30,2026-05-24,20:15,GRR,Grand Rapids,SFO,San Francisco,252.71,Economy
+FL1242,Frontier Valley Air,2026-05-05,07:30,2026-05-05,08:30,GEG,Spokane,MSO,Missoula,235.5,Economy
+FL1243,AeroVista,2026-05-12,11:00,2026-05-12,12:00,GEG,Spokane,MSO,Missoula,215.13,Economy
+FL1244,SunTrail Airlines,2026-05-19,15:30,2026-05-19,16:30,GEG,Spokane,MSO,Missoula,178.54,Economy
+FL1245,Strato,2026-05-02,06:30,2026-05-02,13:45,MSO,Missoula,BWI,Baltimore,471.01,Economy
+FL1246,Heartland Air,2026-05-09,10:00,2026-05-09,17:15,MSO,Missoula,BWI,Baltimore,321.2,Business
+FL1247,Lift Airlines,2026-05-16,14:00,2026-05-16,21:15,MSO,Missoula,BWI,Baltimore,516.71,Economy
+FL1248,Starling Air,2026-05-12,08:00,2026-05-12,10:30,SDF,Louisville,PIT,Pittsburgh,134.03,Business
+FL1249,Nimbus Airlines,2026-05-19,12:30,2026-05-19,15:00,SDF,Louisville,PIT,Pittsburgh,403.8,Business
+FL1250,Lakeside Airlines,2026-05-26,16:00,2026-05-26,18:30,SDF,Louisville,PIT,Pittsburgh,457.38,Economy
+FL1251,Redwood Air,2026-04-30,07:00,2026-04-30,12:45,ITO,Hilo,OAK,Oakland,335.64,Economy
+FL1252,Strato,2026-05-07,10:30,2026-05-07,16:15,ITO,Hilo,OAK,Oakland,191.62,Economy
+FL1253,AirNova,2026-05-14,14:00,2026-05-14,19:45,ITO,Hilo,OAK,Oakland,222.7,Economy
+FL1254,Gulfway Airlines,2026-05-05,06:30,2026-05-05,07:45,FAT,Fresno,SFO,San Francisco,70.27,Business
+FL1255,Prairie Sky,2026-05-12,10:00,2026-05-12,11:15,FAT,Fresno,SFO,San Francisco,167.96,Business
+FL1256,Comet Airlines,2026-05-19,15:30,2026-05-19,16:45,FAT,Fresno,SFO,San Francisco,125.84,Economy
+FL1257,Coastal Breeze Airlines,2026-05-07,07:30,2026-05-07,17:00,ITO,Hilo,FSD,Sioux Falls,300.68,Business
+FL1258,SilverJet Airlines,2026-05-14,11:00,2026-05-14,20:30,ITO,Hilo,FSD,Sioux Falls,486.07,Economy
+FL1259,Frontier Valley Air,2026-05-21,14:00,2026-05-21,23:30,ITO,Hilo,FSD,Sioux Falls,449.29,Economy
+FL1260,Nimbus Airlines,2026-05-03,07:00,2026-05-03,12:45,MCO,Orlando,SFO,San Francisco,287.14,Economy
+FL1261,Comet Airlines,2026-05-10,11:30,2026-05-10,17:15,MCO,Orlando,SFO,San Francisco,400.84,Economy
+FL1262,Heartland Air,2026-05-17,15:00,2026-05-17,20:45,MCO,Orlando,SFO,San Francisco,553.1,Economy
+FL1263,Heartland Air,2026-05-07,06:00,2026-05-07,14:30,GEG,Spokane,ABE,Allentown,466.0,Economy
+FL1264,Coastal Breeze Airlines,2026-05-14,10:30,2026-05-14,19:00,GEG,Spokane,ABE,Allentown,277.3,Business
+FL1265,Summit Air Group,2026-05-21,14:00,2026-05-21,22:30,GEG,Spokane,ABE,Allentown,633.04,Economy
+FL1266,Prairie Sky,2026-05-05,07:30,2026-05-05,10:15,RDU,Raleigh,MSY,New Orleans,297.24,Business
+FL1267,Skylark Airways,2026-05-12,12:00,2026-05-12,14:45,RDU,Raleigh,MSY,New Orleans,202.81,Economy
+FL1268,Moonbeam Airlines,2026-05-19,16:30,2026-05-19,19:15,RDU,Raleigh,MSY,New Orleans,354.38,Economy
+FL1269,Zephyr Air,2026-05-06,07:00,2026-05-06,09:00,AUS,Austin,TUL,Tulsa,266.09,Economy
+FL1270,HorizonLink,2026-05-13,11:30,2026-05-13,13:30,AUS,Austin,TUL,Tulsa,249.41,Economy
+FL1271,CloudNine Air,2026-05-20,16:00,2026-05-20,18:00,AUS,Austin,TUL,Tulsa,319.07,Economy
+FL1272,Blue River Air,2026-05-08,07:00,2026-05-08,09:30,PNS,Pensacola,DAL,Dallas,360.5,Economy
+FL1273,Nimbus Airlines,2026-05-15,11:30,2026-05-15,14:00,PNS,Pensacola,DAL,Dallas,182.72,Economy
+FL1274,Coastal Breeze Airlines,2026-05-22,16:00,2026-05-22,18:30,PNS,Pensacola,DAL,Dallas,633.72,Economy
+FL1275,Lift Airlines,2026-05-09,07:30,2026-05-09,12:15,IAH,Houston,OAK,Oakland,257.65,Economy
+FL1276,Frontier Valley Air,2026-05-16,12:00,2026-05-16,16:45,IAH,Houston,OAK,Oakland,654.71,Economy
+FL1277,AeroVista,2026-05-23,16:30,2026-05-23,21:15,IAH,Houston,OAK,Oakland,744.15,Economy
+FL1278,Winglet,2026-05-07,07:00,2026-05-07,11:15,ABE,Allentown,RSW,Fort Myers,264.99,Economy
+FL1279,Firefly Air,2026-05-14,11:30,2026-05-14,15:45,ABE,Allentown,RSW,Fort Myers,254.94,Business
+FL1280,TrueWay Airlines,2026-05-21,16:00,2026-05-21,20:15,ABE,Allentown,RSW,Fort Myers,322.11,Economy
+FL1281,CloudNine Air,2026-05-05,06:30,2026-05-05,16:00,BWI,Baltimore,KOA,Kailua-Kona,201.12,Economy
+FL1282,AltitudeX,2026-05-12,10:00,2026-05-12,19:30,BWI,Baltimore,KOA,Kailua-Kona,229.92,Economy
+FL1283,AltitudeX,2026-05-19,14:00,2026-05-19,23:30,BWI,Baltimore,KOA,Kailua-Kona,188.47,Economy
+FL1284,Moonbeam Airlines,2026-05-06,07:30,2026-05-06,11:45,GSP,Greenville,HRL,Harlingen,267.36,Economy
+FL1285,Strato,2026-05-13,12:00,2026-05-13,16:15,GSP,Greenville,HRL,Harlingen,187.96,Business
+FL1286,Lift Airlines,2026-05-20,16:30,2026-05-20,20:45,GSP,Greenville,HRL,Harlingen,289.28,Economy
+FL1287,Atlas Wing,2026-05-08,08:00,2026-05-08,12:30,DAL,Dallas,ILM,Wilmington,237.64,First
+FL1288,CloudNine Air,2026-05-15,12:30,2026-05-15,17:00,DAL,Dallas,ILM,Wilmington,447.56,Business
+FL1289,Velocity Air,2026-05-22,16:00,2026-05-22,20:30,DAL,Dallas,ILM,Wilmington,261.42,Economy
+FL1290,AeroOne,2026-05-07,07:15,2026-05-07,10:00,SGF,Springfield,FSD,Sioux Falls,307.65,Economy
+FL1291,Strato,2026-05-14,11:45,2026-05-14,14:30,SGF,Springfield,FSD,Sioux Falls,126.26,Economy
+FL1292,Northstar Air,2026-05-21,16:15,2026-05-21,19:00,SGF,Springfield,FSD,Sioux Falls,193.8,Economy
+FL1293,SkyReach Airways,2026-05-08,08:30,2026-05-08,14:00,ONT,Ontario,MSP,St. Paul,237.08,First
+FL1294,Lakeside Airlines,2026-05-15,11:00,2026-05-15,16:30,ONT,Ontario,MSP,St. Paul,159.61,Economy
+FL1295,Mountain Crest Air,2026-05-22,12:30,2026-05-22,18:00,ONT,Ontario,MSP,St. Paul,289.82,Economy
+FL1296,Northstar Air,2026-05-13,07:00,2026-05-13,10:30,VPS,Fort Walton Beach,SDF,Louisville,206.5,Economy
+FL1297,Coastal Breeze Airlines,2026-05-20,11:00,2026-05-20,14:30,VPS,Fort Walton Beach,SDF,Louisville,371.19,First
+FL1298,Firefly Air,2026-05-27,15:30,2026-05-27,19:00,VPS,Fort Walton Beach,SDF,Louisville,178.3,Economy
+FL1299,Moonbeam Airlines,2026-05-05,07:00,2026-05-05,10:15,BTV,Burlington,MDT,Harrisburg,345.47,Economy
+FL1300,Summit Air Group,2026-05-12,11:30,2026-05-12,14:45,BTV,Burlington,MDT,Harrisburg,302.94,Business
+FL1301,Blue River Air,2026-05-19,16:00,2026-05-19,19:15,BTV,Burlington,MDT,Harrisburg,454.83,Business
+FL1302,Crosswind Air,2026-05-06,07:30,2026-05-06,12:15,LEX,Lexington,PSC,Pasco,172.42,Economy
+FL1303,Atlas Wing,2026-05-13,11:00,2026-05-13,15:45,LEX,Lexington,PSC,Pasco,161.64,Business
+FL1304,Skylo,2026-05-20,15:30,2026-05-20,20:15,LEX,Lexington,PSC,Pasco,398.58,Business
+FL1305,AeroVista,2026-05-04,07:00,2026-05-04,09:30,BTV,Burlington,BWI,Baltimore,151.09,Economy
+FL1306,Firefly Air,2026-05-11,11:30,2026-05-11,14:00,BTV,Burlington,BWI,Baltimore,163.41,Economy
+FL1307,AltitudeX,2026-05-18,16:00,2026-05-18,18:30,BTV,Burlington,BWI,Baltimore,165.05,Economy
+FL1308,TrueWay Airlines,2026-05-08,07:30,2026-05-08,09:45,ECP,Panama City,MSY,New Orleans,89.5,Economy
+FL1309,Blue River Air,2026-05-15,12:00,2026-05-15,14:15,ECP,Panama City,MSY,New Orleans,90.8,Economy
+FL1310,CloudNine Air,2026-05-22,16:30,2026-05-22,18:45,ECP,Panama City,MSY,New Orleans,113.23,Economy
+FL1311,SilverJet Airlines,2026-05-09,07:00,2026-05-09,08:15,CLE,Cleveland,CVG,Hebron,156.13,Economy
+FL1312,Lift Airlines,2026-05-16,11:30,2026-05-16,12:45,CLE,Cleveland,CVG,Hebron,75.43,Economy
+FL1313,Lakeside Airlines,2026-05-23,16:00,2026-05-23,17:15,CLE,Cleveland,CVG,Hebron,178.68,First
+FL1314,Jetline,2026-05-07,07:00,2026-05-07,13:45,ICT,Wichita,MHT,Manchester,488.14,Economy
+FL1315,Northstar Air,2026-05-14,11:30,2026-05-14,18:15,ICT,Wichita,MHT,Manchester,264.84,Economy
+FL1316,Crosswind Air,2026-05-26,09:00,2026-05-26,15:45,ICT,Wichita,MHT,Manchester,400.4,Economy
+FL1317,Skylark Airways,2026-05-10,08:00,2026-05-10,10:30,EWR,Newark,GSP,Greenville,273.48,Economy
+FL1318,Velocity Air,2026-05-17,12:30,2026-05-17,15:00,EWR,Newark,GSP,Greenville,144.96,Business
+FL1319,AeroOne,2026-05-24,17:00,2026-05-24,19:30,EWR,Newark,GSP,Greenville,346.62,Economy
+FL1320,Summit Air Group,2026-05-07,07:00,2026-05-07,07:45,LGB,Long Beach,SNA,Santa Ana,94.0,Business
+FL1321,Blue River Air,2026-05-14,11:30,2026-05-14,12:15,LGB,Long Beach,SNA,Santa Ana,100.99,Business
+FL1322,Lift Airlines,2026-05-21,16:00,2026-05-21,16:45,LGB,Long Beach,SNA,Santa Ana,185.02,Business
+FL1323,Redwood Air,2026-05-08,07:30,2026-05-08,11:15,AVL,Asheville,GRR,Grand Rapids,329.68,Economy
+FL1324,Firefly Air,2026-05-15,12:00,2026-05-15,15:45,AVL,Asheville,GRR,Grand Rapids,272.78,Economy
+FL1325,Velocity Air,2026-05-22,16:30,2026-05-22,20:15,AVL,Asheville,GRR,Grand Rapids,410.94,Business
+FL1326,Blue River Air,2026-05-09,07:30,2026-05-09,09:15,SEA,Seattle,RDM,Redmond,138.01,Economy
+FL1327,Skylark Airways,2026-05-16,12:00,2026-05-16,13:45,SEA,Seattle,RDM,Redmond,79.83,Economy
+FL1328,Coastal Breeze Airlines,2026-05-22,16:30,2026-05-22,18:15,SEA,Seattle,RDM,Redmond,150.4,Economy
+FL1329,CloudNine Air,2026-05-30,07:15,2026-05-30,11:30,MDT,Harrisburg,PDX,Portland,285.5,Business
+FL1330,CloudNine Air,2026-05-30,13:45,2026-05-30,18:00,MDT,Harrisburg,PDX,Portland,310.0,Business
+FL1331,AeroOne,2026-05-30,09:00,2026-05-30,13:15,MDT,Harrisburg,PDX,Portland,325.75,Business
+FL1332,Winglet,2026-05-10,08:30,2026-05-10,11:45,IAH,Houston,ICT,Wichita,220.0,Economy
+FL1333,Northstar Air,2026-05-10,14:00,2026-05-10,17:15,IAH,Houston,ICT,Wichita,315.5,Economy
+FL1334,Firefly Air,2026-05-10,06:45,2026-05-10,10:00,IAH,Houston,ICT,Wichita,189.99,Economy
+FL1335,Comet Airlines,2026-05-12,09:00,2026-05-12,10:30,PGD,Punta Gorda,TPA,Tampa,145.0,Economy
+FL1336,SkyReach Airways,2026-05-14,11:30,2026-05-14,13:00,PGD,Punta Gorda,TPA,Tampa,189.5,Economy
+FL1337,Heartland Air,2026-05-16,08:00,2026-05-16,09:30,PGD,Punta Gorda,TPA,Tampa,159.99,Economy
+FL1338,Nimbus Airlines,2026-05-08,07:30,2026-05-08,10:45,EWR,Newark,CAE,Columbia,299.0,Economy
+FL1339,Zephyr Air,2026-05-12,14:00,2026-05-12,17:15,EWR,Newark,CAE,Columbia,355.75,Business
+FL1340,AltitudeX,2026-05-18,10:15,2026-05-18,13:30,EWR,Newark,CAE,Columbia,412.0,Economy
+FL1341,Crosswind Air,2026-05-15,08:00,2026-05-15,11:15,SGF,Springfield,FLL,Fort Lauderdale,249.99,Economy
+FL1342,Lift Airlines,2026-05-15,12:30,2026-05-15,15:45,SGF,Springfield,FLL,Fort Lauderdale,305.0,Economy
+FL1343,SunTrail Airlines,2026-05-15,16:00,2026-05-15,19:15,SGF,Springfield,FLL,Fort Lauderdale,317.5,Business
+FL1344,Heartland Air,2026-05-23,09:15,2026-05-23,12:00,STL,St. Louis,MDW,Chicago,199.0,Economy
+FL1345,Heartland Air,2026-05-23,15:30,2026-05-23,18:15,STL,St. Louis,MDW,Chicago,245.0,Business
+FL1346,Atlas Wing,2026-05-23,07:00,2026-05-23,09:45,STL,St. Louis,MDW,Chicago,175.5,Economy
+FL1347,Mountain Crest Air,2026-07-01,08:30,2026-07-01,10:15,GEG,Spokane,MSO,Missoula,189.99,First
+FL1348,Strato,2026-07-01,12:00,2026-07-01,13:45,GEG,Spokane,MSO,Missoula,245.5,First
+FL1349,Firefly Air,2026-07-01,16:30,2026-07-01,18:15,GEG,Spokane,MSO,Missoula,312.0,Economy
+FL1350,Prairie Sky,2026-07-06,07:45,2026-07-06,11:30,DCA,Washington,COS,Colorado Springs,295.0,Economy
+FL1351,HorizonLink,2026-07-06,13:00,2026-07-06,16:45,DCA,Washington,COS,Colorado Springs,385.5,Economy
+FL1352,Velocity Air,2026-07-06,09:30,2026-07-06,13:15,DCA,Washington,COS,Colorado Springs,415.25,Economy
+FL1353,SkyReach Airways,2026-05-29,08:00,2026-05-29,14:25,OAK,Oakland,SDF,Louisville,349.99,First
+FL1354,Nimbus Airlines,2026-05-29,13:30,2026-05-29,20:00,OAK,Oakland,SDF,Louisville,289.5,Business
+FL1355,CloudNine Air,2026-05-29,06:15,2026-05-29,12:40,OAK,Oakland,SDF,Louisville,373.5,Business
+FL1356,Prairie Sky,2026-05-01,07:15,2026-05-01,12:00,SEA,Seattle,DEN,Denver,220.5,Economy
+FL1357,Prairie Sky,2026-05-01,14:30,2026-05-01,19:15,SEA,Seattle,DEN,Denver,275.0,Economy
+FL1358,SunTrail Airlines,2026-05-01,09:45,2026-05-01,14:30,SEA,Seattle,DEN,Denver,308.75,Economy
+FL1359,Summit Air Group,2026-07-31,08:15,2026-07-31,10:00,PDX,Portland,SFO,San Francisco,175.0,Business
+FL1360,Redwood Air,2026-07-31,13:00,2026-07-31,14:45,PDX,Portland,SFO,San Francisco,199.5,Economy
+FL1361,Moonbeam Airlines,2026-07-31,17:30,2026-07-31,19:15,PDX,Portland,SFO,San Francisco,225.0,Economy
+FL1362,Heartland Air,2026-07-21,09:00,2026-07-21,11:15,ORD,Chicago,CID,Cedar Rapids,245.5,Business
+FL1363,AirNova,2026-07-21,15:30,2026-07-21,17:45,ORD,Chicago,CID,Cedar Rapids,319.0,Business
+FL1364,Strato,2026-07-21,07:00,2026-07-21,09:15,ORD,Chicago,CID,Cedar Rapids,198.75,Economy
+FL1365,Skylark Airways,2026-05-19,08:00,2026-05-19,12:30,ORD,Chicago,SMF,Sacramento,335.0,Business
+FL1366,Velocity Air,2026-05-19,13:15,2026-05-19,17:45,ORD,Chicago,SMF,Sacramento,289.5,Economy
+FL1367,Blue River Air,2026-05-19,10:00,2026-05-19,14:30,ORD,Chicago,SMF,Sacramento,415.25,First
+FL1368,Prairie Sky,2026-07-30,07:30,2026-07-30,12:45,SEA,Seattle,DEN,Denver,459.0,Economy
+FL1369,Nimbus Airlines,2026-07-30,14:00,2026-07-30,19:15,SEA,Seattle,DEN,Denver,388.5,Economy
+FL1370,AeroVista,2026-07-30,09:15,2026-07-30,14:30,SEA,Seattle,DEN,Denver,512.75,First
+FL1371,Lift Airlines,2026-05-11,08:30,2026-05-11,13:00,ECP,Panama City,STL,St. Louis,275.0,Economy
+FL1372,Lift Airlines,2026-05-11,14:15,2026-05-11,18:45,ECP,Panama City,STL,St. Louis,345.5,Economy
+FL1373,Coastal Breeze Airlines,2026-05-11,10:00,2026-05-11,14:30,ECP,Panama City,STL,St. Louis,399.99,Economy
+FL1374,HorizonLink,2026-06-12,09:00,2026-06-12,10:30,CLT,Charlotte,AVL,Asheville,189.0,Economy
+FL1375,HorizonLink,2026-06-12,15:30,2026-06-12,17:00,CLT,Charlotte,AVL,Asheville,259.5,Economy
+FL1376,SilverJet Airlines,2026-06-12,07:15,2026-06-12,08:45,CLT,Charlotte,AVL,Asheville,145.75,Economy
+FL1377,Heartland Air,2026-06-10,08:00,2026-06-10,11:30,ELP,El Paso,MFE,McAllen,215.0,Economy
+FL1378,Heartland Air,2026-06-15,13:30,2026-06-15,17:00,ELP,El Paso,MFE,McAllen,289.5,First
+FL1379,Nimbus Airlines,2026-06-20,09:45,2026-06-20,13:15,ELP,El Paso,MFE,McAllen,325.75,Economy
+FL1380,Firefly Air,2026-05-20,08:30,2026-05-20,13:00,ILM,Wilmington,BWI,Baltimore,349.99,Economy
+FL1381,Prairie Sky,2026-05-25,14:00,2026-05-25,18:30,ILM,Wilmington,BWI,Baltimore,425.5,First
+FL1382,Strato,2026-06-05,10:15,2026-06-05,14:45,ILM,Wilmington,BWI,Baltimore,289.0,Business
+FL1383,Skylo,2026-07-11,08:15,2026-07-11,11:00,ATL,Atlanta,MCO,Orlando,225.0,Economy
+FL1384,SunTrail Airlines,2026-07-11,14:30,2026-07-11,17:15,ATL,Atlanta,MCO,Orlando,309.5,Business
+FL1385,Winglet,2026-07-11,10:00,2026-07-11,12:45,ATL,Atlanta,MCO,Orlando,185.75,Economy
+FL1386,Northstar Air,2026-04-14,07:30,2026-04-14,12:45,SMF,Sacramento,SAV,Savannah,389.0,Economy
+FL1387,AltitudeX,2026-04-14,13:00,2026-04-14,18:15,SMF,Sacramento,SAV,Savannah,445.5,Business
+FL1388,CloudNine Air,2026-04-14,09:45,2026-04-14,15:00,SMF,Sacramento,SAV,Savannah,512.0,Economy
+FL1389,Heartland Air,2026-05-21,08:00,2026-05-21,12:30,RSW,Fort Myers,CLT,Charlotte,365.0,Economy
+FL1390,Heartland Air,2026-05-21,14:15,2026-05-21,18:45,RSW,Fort Myers,CLT,Charlotte,498.5,Business
+FL1391,Comet Airlines,2026-05-21,10:30,2026-05-21,15:00,RSW,Fort Myers,CLT,Charlotte,285.75,Economy
+FL1392,SkyReach Airways,2026-05-15,09:00,2026-05-15,14:30,IAH,Houston,CLE,Cleveland,325.0,Economy
+FL1393,SkyReach Airways,2026-05-20,13:15,2026-05-20,18:45,IAH,Houston,CLE,Cleveland,289.5,Economy
+FL1394,Lift Airlines,2026-05-25,07:30,2026-05-25,13:00,IAH,Houston,CLE,Cleveland,415.75,Economy
+FL1395,Nimbus Airlines,2026-06-23,08:00,2026-06-23,12:15,MCO,Orlando,ATW,Appleton,375.5,Business
+FL1396,Nimbus Airlines,2026-06-23,15:30,2026-06-23,19:45,MCO,Orlando,ATW,Appleton,449.0,Economy
+FL1397,Atlas Wing,2026-06-23,10:45,2026-06-23,15:00,MCO,Orlando,ATW,Appleton,295.25,Business
+FL1398,Strato,2026-06-21,07:15,2026-06-21,10:00,MYR,Myrtle Beach,CID,Cedar Rapids,109.99,Economy
+FL1399,Moonbeam Airlines,2026-06-21,14:00,2026-06-21,16:45,MYR,Myrtle Beach,CID,Cedar Rapids,98.5,Economy
+FL1400,AeroOne,2026-06-21,10:30,2026-06-21,13:15,MYR,Myrtle Beach,CID,Cedar Rapids,115.75,Economy
+FL1401,TrueWay Airlines,2026-05-02,08:00,2026-05-02,16:15,ANC,Anchorage,SYR,Syracuse,389.0,Economy
+FL1402,TrueWay Airlines,2026-05-02,14:30,2026-05-02,22:45,ANC,Anchorage,SYR,Syracuse,455.5,Economy
+FL1403,HorizonLink,2026-05-02,10:00,2026-05-02,18:15,ANC,Anchorage,SYR,Syracuse,519.75,Economy
+FL1404,Coastal Breeze Airlines,2026-05-07,09:15,2026-05-07,14:30,ECP,Panama City,MCI,Kansas City,285.0,Business
+FL1405,Coastal Breeze Airlines,2026-05-07,15:45,2026-05-07,21:00,ECP,Panama City,MCI,Kansas City,315.5,Economy
+FL1406,Nimbus Airlines,2026-05-07,08:00,2026-05-07,13:15,ECP,Panama City,MCI,Kansas City,395.75,Economy
+FL1407,SunTrail Airlines,2026-04-29,08:30,2026-04-29,13:15,MFR,Medford,BOS,Boston,289.5,First
+FL1408,SunTrail Airlines,2026-04-29,14:00,2026-04-29,18:45,MFR,Medford,BOS,Boston,345.0,Economy
+FL1409,Firefly Air,2026-04-29,10:15,2026-04-29,15:00,MFR,Medford,BOS,Boston,415.25,Economy
+FL1410,Lift Airlines,2026-06-07,09:00,2026-06-07,13:45,PBI,West Palm Beach,CHS,Charleston,289.0,Economy
+FL1411,Lift Airlines,2026-06-07,15:30,2026-06-07,20:15,PBI,West Palm Beach,CHS,Charleston,345.5,Economy
+FL1412,SkyReach Airways,2026-06-07,07:15,2026-06-07,12:00,PBI,West Palm Beach,CHS,Charleston,425.75,Economy
+FL1413,Skylo,2026-06-12,08:00,2026-06-12,09:30,MCO,Orlando,TPA,Tampa,119.99,Economy
+FL1414,Heartland Air,2026-06-12,12:30,2026-06-12,14:00,MCO,Orlando,TPA,Tampa,175.5,Economy
+FL1415,Comet Airlines,2026-06-12,16:45,2026-06-12,18:15,MCO,Orlando,TPA,Tampa,225.0,Economy
+FL1416,Atlas Wing,2026-05-01,08:30,2026-05-01,10:15,SAN,San Diego,LAS,Las Vegas,145.0,Economy
+FL1417,Moonbeam Airlines,2026-05-01,13:00,2026-05-01,14:45,SAN,San Diego,LAS,Las Vegas,189.5,Economy
+FL1418,TrueWay Airlines,2026-05-01,17:15,2026-05-01,19:00,SAN,San Diego,LAS,Las Vegas,215.75,Economy
+FL1419,Nimbus Airlines,2026-05-18,08:00,2026-05-18,12:15,PIE,St. Petersburg,MDT,Harrisburg,319.0,First
+FL1420,Strato,2026-05-22,13:30,2026-05-22,17:45,PIE,St. Petersburg,MDT,Harrisburg,395.5,Economy
+FL1421,Winglet,2026-06-10,09:45,2026-06-10,14:00,PIE,St. Petersburg,MDT,Harrisburg,289.25,Economy
+FL1422,Nimbus Airlines,2026-06-15,08:30,2026-06-15,13:00,ATW,Appleton,MFE,McAllen,479.5,Economy
+FL1423,TrueWay Airlines,2026-06-20,14:00,2026-06-20,18:30,ATW,Appleton,MFE,McAllen,615.75,First
+FL1424,Heartland Air,2026-07-02,10:15,2026-07-02,14:45,ATW,Appleton,MFE,McAllen,392.0,Economy
+FL1425,Skylo,2026-05-14,07:30,2026-05-14,10:15,CHA,Chattanooga,MDW,Chicago,165.0,Economy
+FL1426,Crosswind Air,2026-05-20,13:00,2026-05-20,15:45,CHA,Chattanooga,MDW,Chicago,189.5,Economy
+FL1427,Firefly Air,2026-06-05,09:15,2026-06-05,12:00,CHA,Chattanooga,MDW,Chicago,145.75,Economy
+FL1428,Atlas Wing,2026-05-28,08:00,2026-05-28,12:30,CID,Cedar Rapids,MYR,Myrtle Beach,289.0,First
+FL1429,Moonbeam Airlines,2026-06-03,14:15,2026-06-03,18:45,CID,Cedar Rapids,MYR,Myrtle Beach,359.5,Economy
+FL1430,Strato,2026-06-18,10:30,2026-06-18,15:00,CID,Cedar Rapids,MYR,Myrtle Beach,415.75,Economy
+FL1431,Nimbus Airlines,2026-05-10,09:00,2026-05-10,14:30,ATL,Atlanta,MFE,McAllen,325.0,Business
+FL1432,AirNova,2026-05-18,13:15,2026-05-18,18:45,ATL,Atlanta,MFE,McAllen,395.5,Economy
+FL1433,Firefly Air,2026-06-01,07:30,2026-06-01,13:00,ATL,Atlanta,MFE,McAllen,285.75,Business
+FL1434,Skylo,2026-05-22,07:45,2026-05-22,11:00,MDW,Chicago,MSP,Minneapolis,199.5,Economy
+FL1435,Skylo,2026-06-10,07:30,2026-06-10,10:45,ORD,Chicago,MSP,Minneapolis,245.0,Business
+FL1436,Skylo,2026-07-01,06:15,2026-07-01,09:30,MDW,Chicago,MSP,Minneapolis,175.75,Business
+FL1437,Firefly Air,2026-05-10,08:00,2026-05-10,11:15,SLC,Salt Lake City,DEN,Denver,289.5,Economy
+FL1438,Firefly Air,2026-06-05,14:30,2026-06-05,17:45,SLC,Salt Lake City,DEN,Denver,375.0,Economy
+FL1439,Atlas Wing,2026-05-20,10:45,2026-05-20,14:00,SLC,Salt Lake City,DEN,Denver,445.25,Economy
+FL1440,SilverJet Airlines,2026-05-28,09:00,2026-05-28,14:30,SRQ,Sarasota,CID,Cedar Rapids,459.0,Business
+FL1441,Moonbeam Airlines,2026-06-12,13:15,2026-06-12,18:45,SRQ,Sarasota,CID,Cedar Rapids,385.5,Economy
+FL1442,AeroVista,2026-07-01,08:30,2026-07-01,14:00,SRQ,Sarasota,CID,Cedar Rapids,519.75,Business
+FL1443,Winglet,2026-07-03,08:15,2026-07-03,12:45,MSO,Missoula,GSP,Greenville,249.0,Economy
+FL1444,Northstar Air,2026-07-03,14:00,2026-07-03,18:30,MSO,Missoula,GSP,Greenville,265.5,Economy
+FL1445,Comet Airlines,2026-07-03,10:30,2026-07-03,15:00,MSO,Missoula,GSP,Greenville,215.75,Economy
+FL1446,Skylo,2026-07-18,09:00,2026-07-18,14:30,EYW,Key West,SAT,San Antonio,589.0,Business
+FL1447,SunTrail Airlines,2026-07-18,14:15,2026-07-18,19:45,EYW,Key West,SAT,San Antonio,720.5,Economy
+FL1448,Firefly Air,2026-07-18,11:30,2026-07-18,17:00,EYW,Key West,SAT,San Antonio,480.25,Business
+FL1449,Redwood Air,2026-04-26,08:30,2026-04-26,13:00,PDX,Portland,CID,Cedar Rapids,459.0,Economy
+FL1450,Redwood Air,2026-05-10,13:45,2026-05-10,18:15,PDX,Portland,CID,Cedar Rapids,625.5,Economy
+FL1451,Moonbeam Airlines,2026-05-18,09:00,2026-05-18,13:30,PDX,Portland,CID,Cedar Rapids,385.75,Economy
+FL1452,SilverJet Airlines,2026-04-25,09:15,2026-04-25,14:45,KOA,Kona,MSY,New Orleans,589.0,Economy
+FL1453,SilverJet Airlines,2026-04-25,15:30,2026-04-25,21:00,KOA,Kona,MSY,New Orleans,645.5,Economy
+FL1454,Atlas Wing,2026-04-25,07:00,2026-04-25,12:30,KOA,Kona,MSY,New Orleans,412.75,First
+FL1455,Coastal Breeze Airlines,2026-07-12,09:00,2026-07-12,15:30,JFK,New York,LAX,Los Angeles,585.0,Economy
+FL1456,Coastal Breeze Airlines,2026-07-12,15:45,2026-07-12,22:15,JFK,New York,LAX,Los Angeles,645.5,First
+FL1457,HorizonLink,2026-07-12,08:30,2026-07-12,15:00,JFK,New York,LAX,Los Angeles,489.75,Economy
+FL1458,CloudNine Air,2026-07-15,08:00,2026-07-15,10:45,LAX,Los Angeles,PHX,Phoenix,245.0,Economy
+FL1459,CloudNine Air,2026-07-15,14:30,2026-07-15,17:15,LAX,Los Angeles,PHX,Phoenix,315.5,Business
+FL1460,Nimbus Airlines,2026-07-15,11:00,2026-07-15,13:45,LAX,Los Angeles,PHX,Phoenix,195.75,Economy
+FL1461,Strato,2026-05-12,08:30,2026-05-12,13:00,VPS,Destin,MDT,Harrisburg,415.0,Economy
+FL1462,Strato,2026-05-20,14:15,2026-05-20,18:45,VPS,Destin,MDT,Harrisburg,489.5,Business
+FL1463,Winglet,2026-06-08,10:00,2026-06-08,14:30,VPS,Destin,MDT,Harrisburg,379.25,Business
+FL1464,Skylo,2026-06-25,09:00,2026-06-25,16:30,OGG,Maui,MCI,Kansas City,225.0,Economy
+FL1465,Nimbus Airlines,2026-06-25,14:15,2026-06-25,21:45,OGG,Maui,MCI,Kansas City,189.5,Economy
+FL1466,AirNova,2026-06-25,11:30,2026-06-25,19:00,OGG,Maui,MCI,Kansas City,449.75,Economy
+FL1467,Firefly Air,2026-04-26,09:15,2026-04-26,13:00,PSP,Palm Springs,RDU,Raleigh,289.0,Business
+FL1468,Firefly Air,2026-04-26,15:30,2026-04-26,19:15,PSP,Palm Springs,RDU,Raleigh,365.5,Business
+FL1469,SunTrail Airlines,2026-04-17,08:00,2026-04-17,11:45,PSP,Palm Springs,RDU,Raleigh,325.75,Business
+FL1470,Crosswind Air,2026-07-07,08:00,2026-07-07,12:30,BDL,Hartford,LAS,Las Vegas,415.0,Economy
+FL1471,Crosswind Air,2026-07-07,15:30,2026-07-07,20:00,BDL,Hartford,LAS,Las Vegas,489.5,First
+FL1472,SkyReach Airways,2026-04-23,09:15,2026-04-23,13:45,BDL,Hartford,LAS,Las Vegas,375.25,Economy
+FL1473,AltitudeX,2026-05-07,08:30,2026-05-07,13:00,ROC,Rochester,JAC,Jackson Hole,489.0,Economy
+FL1474,Comet Airlines,2026-05-07,14:15,2026-05-07,18:45,ROC,Rochester,JAC,Jackson Hole,565.5,First
+FL1475,Nimbus Airlines,2026-05-20,09:00,2026-05-20,13:30,ROC,Rochester,JAC,Jackson Hole,415.75,Economy
+FL1476,AeroVista,2026-04-21,09:00,2026-04-21,13:30,HPN,White Plains,RDU,Raleigh,325.0,Business
+FL1477,AeroVista,2026-04-21,15:45,2026-04-21,20:15,HPN,White Plains,RDU,Raleigh,398.5,Business
+FL1478,Moonbeam Airlines,2026-05-08,08:00,2026-05-08,12:30,HPN,White Plains,RDU,Raleigh,289.75,Economy
+FL1479,Heartland Air,2026-05-23,07:00,2026-05-23,09:45,STL,St. Louis,ORD,Chicago,199.0,Economy
+FL1480,Heartland Air,2026-05-23,12:30,2026-05-23,15:15,STL,St. Louis,ORD,Chicago,249.5,Economy
+FL1481,Heartland Air,2026-05-23,17:00,2026-05-23,19:45,STL,St. Louis,ORD,Chicago,279.0,Business
+FL1482,Nimbus Airlines,2026-06-23,11:00,2026-06-23,15:30,MCO,Orlando,ATW,Appleton,398.5,Economy
+FL1483,Lift Airlines,2026-06-07,07:30,2026-06-07,12:15,PBI,West Palm Beach,CHS,Charleston,265.0,Economy
+FL1484,Nimbus Airlines,2026-05-01,07:45,2026-05-01,11:30,PIE,St. Petersburg,MDT,Harrisburg,295.0,Economy
+FL1485,Winglet,2026-05-01,12:00,2026-05-01,15:45,PIE,St. Petersburg,MDT,Harrisburg,349.5,Economy
+FL1486,SkyReach Airways,2026-05-01,15:30,2026-05-01,19:15,PIE,St. Petersburg,MDT,Harrisburg,289.75,Business
+FL1487,Heartland Air,2026-05-18,08:30,2026-05-18,11:00,CHA,Chattanooga,ORD,Chicago,169.0,Economy
+FL1488,Redwood Air,2026-06-14,13:00,2026-06-14,15:30,CHA,Chattanooga,ORD,Chicago,189.5,Economy
+FL1489,Zephyr Air,2026-07-02,10:00,2026-07-02,12:30,CHA,Chattanooga,ORD,Chicago,149.99,Economy
+FL1490,Skylo,2026-05-28,07:15,2026-05-28,10:30,ORD,Chicago,MSP,Minneapolis,299.0,Economy
+FL1491,Skylo,2026-06-18,06:45,2026-06-18,10:00,ORD,Chicago,MSP,Minneapolis,335.5,Economy
+FL1492,Redwood Air,2026-06-20,09:15,2026-06-20,13:45,PDX,Portland,CID,Cedar Rapids,589.0,Economy
+FL1493,Coastal Breeze Airlines,2026-06-02,08:00,2026-06-02,14:30,JFK,New York,LAX,Los Angeles,620.0,Economy
+FL1494,CloudNine Air,2026-05-30,07:45,2026-05-30,10:20,MDT,Harrisburg,PDX,Portland,389.00,Economy
+FL1495,CloudNine Air,2026-05-30,14:30,2026-05-30,17:10,MDT,Harrisburg,PDX,Portland,412.50,Business
+FL1496,Atlas Wing,2026-05-10,06:30,2026-05-10,08:45,HOU,Houston,ICT,Wichita,229.99,Economy
+FL1497,Heartland Air,2026-05-10,11:00,2026-05-10,13:10,HOU,Houston,ICT,Wichita,199.75,Economy
+FL1498,Prairie Sky,2026-06-03,09:15,2026-06-03,10:30,PGD,Punta Gorda,TPA,Tampa,89.99,Economy
+FL1499,Skylo,2026-06-15,08:00,2026-06-15,09:15,PGD,Punta Gorda,TPA,Tampa,74.50,Economy
+FL1500,TrueWay Airlines,2026-05-20,10:45,2026-05-20,13:05,EWR,Newark,CAE,Columbia,349.00,Economy
+FL1501,Moonbeam Airlines,2026-06-08,15:30,2026-06-08,17:55,EWR,Newark,CAE,Columbia,412.00,Business
+FL1502,Velocity Air,2026-05-15,07:00,2026-05-15,09:45,SGF,Springfield,FLL,Fort Lauderdale,289.99,Economy
+FL1503,SkyReach Airways,2026-05-15,13:20,2026-05-15,16:00,SGF,Springfield,FLL,Fort Lauderdale,299.00,Economy
+FL1504,Heartland Air,2026-05-23,06:15,2026-05-23,07:30,STL,St. Louis,MDW,Chicago,149.99,Economy
+FL1505,Heartland Air,2026-05-23,17:45,2026-05-23,19:00,STL,St. Louis,MDW,Chicago,139.00,Economy
+FL1506,Nimbus Airlines,2026-07-01,08:30,2026-07-01,09:45,GEG,Spokane,MSO,Missoula,198.00,Economy
+FL1507,Atlas Wing,2026-07-01,14:00,2026-07-01,15:20,GEG,Spokane,MSO,Missoula,215.50,Economy
+FL1508,HorizonLink,2026-07-06,07:30,2026-07-06,10:00,DCA,Washington,COS,Colorado Springs,389.00,Economy
+FL1509,Blue Horizon Airlines,2026-07-06,12:15,2026-07-06,14:50,IAD,Washington,COS,Colorado Springs,409.00,Business
+FL1510,SunTrail Airlines,2026-05-29,06:45,2026-05-29,12:30,OAK,Oakland,SDF,Louisville,349.00,Economy
+FL1511,Frontier Valley Air,2026-05-29,15:00,2026-05-29,20:45,OAK,Oakland,SDF,Louisville,369.99,Economy
+FL1512,Prairie Sky,2026-05-12,08:00,2026-05-12,11:15,SEA,Seattle,DEN,Denver,289.00,Economy
+FL1513,Prairie Sky,2026-06-18,13:30,2026-06-18,16:45,SEA,Seattle,DEN,Denver,299.50,Economy
+FL1514,Redwood Air,2026-07-31,07:15,2026-07-31,09:00,PDX,Portland,SFO,San Francisco,159.00,Economy
+FL1515,AeroVista,2026-07-31,14:30,2026-07-31,16:20,PDX,Portland,SFO,San Francisco,189.50,Economy
+FL1516,Mountain Crest Air,2026-07-21,09:00,2026-07-21,10:30,ORD,Chicago,CID,Cedar Rapids,149.99,Economy
+FL1517,Strato,2026-07-21,16:45,2026-07-21,18:15,ORD,Chicago,CID,Cedar Rapids,139.00,Economy
+FL1518,Lakeside Airlines,2026-05-19,07:30,2026-05-19,09:30,ORD,Chicago,SMF,Sacramento,359.00,Economy
+FL1519,AirNova,2026-05-19,13:00,2026-05-19,15:05,ORD,Chicago,SMF,Sacramento,379.99,Business
+FL1520,Lift Airlines,2026-05-11,08:15,2026-05-11,10:45,ECP,Panama City,STL,St. Louis,289.00,Economy
+FL1521,Lift Airlines,2026-05-11,17:30,2026-05-11,20:00,ECP,Panama City,STL,St. Louis,309.50,Economy
+FL1522,Crosswind Air,2026-06-12,06:30,2026-06-12,07:15,CLT,Charlotte,AVL,Asheville,99.99,Economy
+FL1523,Summit Air Group,2026-06-12,14:45,2026-06-12,15:30,CLT,Charlotte,AVL,Asheville,89.00,Economy
+FL1524,Heartland Air,2026-05-08,09:00,2026-05-08,10:45,ELP,El Paso,MFE,McAllen,219.99,Economy
+FL1525,Heartland Air,2026-06-20,15:30,2026-06-20,17:15,ELP,El Paso,MFE,McAllen,249.00,Economy
+FL1526,Blue River Air,2026-05-14,08:45,2026-05-14,10:30,ILM,Wilmington,BWI,Baltimore,289.99,Economy
+FL1527,Winglet,2026-06-25,14:00,2026-06-25,15:45,ILM,Wilmington,BWI,Baltimore,319.00,Business
+FL1528,AeroOne,2026-07-11,07:15,2026-07-11,08:30,ATL,Atlanta,MCO,Orlando,199.00,Economy
+FL1529,SkyReach Airways,2026-07-11,16:00,2026-07-11,17:15,ATL,Atlanta,MCO,Orlando,224.99,Economy
+FL1530,Heartland Air,2026-05-18,09:30,2026-05-18,12:00,RSW,Fort Myers,CLT,Charlotte,389.00,Economy
+FL1531,Heartland Air,2026-07-02,14:15,2026-07-02,16:45,RSW,Fort Myers,CLT,Charlotte,429.99,Business
+FL1532,SkyReach Airways,2026-05-22,08:00,2026-05-22,12:30,HOU,Houston,CLE,Cleveland,349.00,Economy
+FL1533,SkyReach Airways,2026-06-17,15:45,2026-06-17,20:15,HOU,Houston,CLE,Cleveland,379.50,Economy
+FL1534,Nimbus Airlines,2026-06-23,07:00,2026-06-23,09:45,MCO,Orlando,ATW,Appleton,289.99,Economy
+FL1535,Nimbus Airlines,2026-06-23,14:30,2026-06-23,17:15,MCO,Orlando,ATW,Appleton,309.00,Business
+FL1536,Strato,2026-06-21,06:00,2026-06-21,08:15,MYR,Myrtle Beach,CID,Cedar Rapids,99.00,Economy
+FL1537,Lakeside Airlines,2026-06-21,12:30,2026-06-21,14:45,MYR,Myrtle Beach,CID,Cedar Rapids,109.50,Economy
+FL1538,TrueWay Airlines,2026-05-02,08:15,2026-05-02,16:30,ANC,Anchorage,SYR,Syracuse,449.00,Economy
+FL1539,TrueWay Airlines,2026-05-02,14:00,2026-05-02,22:15,ANC,Anchorage,SYR,Syracuse,459.50,Business
+FL1540,Coastal Breeze Airlines,2026-05-17,09:45,2026-05-17,11:30,ECP,Panama City,MCI,Kansas City,289.00,Economy
+FL1541,Coastal Breeze Airlines,2026-07-08,15:00,2026-07-08,16:45,ECP,Panama City,MCI,Kansas City,319.99,Economy
+FL1542,SunTrail Airlines,2026-04-29,06:30,2026-04-29,12:45,MFR,Medford,BOS,Boston,489.00,Economy
+FL1543,SunTrail Airlines,2026-04-29,14:00,2026-04-29,20:15,MFR,Medford,BOS,Boston,509.99,Business
+FL1544,Lift Airlines,2026-06-07,08:30,2026-06-07,10:00,PBI,West Palm Beach,CHS,Charleston,249.00,Economy
+FL1545,Lift Airlines,2026-06-07,16:45,2026-06-07,18:15,PBI,West Palm Beach,CHS,Charleston,269.50,Economy
+FL1546,HorizonLink,2026-06-12,07:00,2026-06-12,08:00,MCO,Orlando,TPA,Tampa,129.99,Economy
+FL1547,AeroOne,2026-06-12,14:30,2026-06-12,15:30,MCO,Orlando,TPA,Tampa,149.00,Economy
+FL1548,AltitudeX,2026-05-01,08:00,2026-05-01,09:30,SAN,San Diego,LAS,Las Vegas,119.99,Economy
+FL1549,Velocity Air,2026-05-01,16:15,2026-05-01,17:45,SAN,San Diego,LAS,Las Vegas,139.00,Economy
+FL1550,Blue Horizon Airlines,2026-05-15,10:00,2026-05-15,14:30,ATW,Appleton,MFE,McAllen,589.00,Economy
+FL1551,Frontier Valley Air,2026-07-10,08:30,2026-07-10,13:00,ATW,Appleton,MFE,McAllen,619.99,Business
+FL1552,Skylo,2026-05-14,06:45,2026-05-14,07:45,ORD,Chicago,MSP,Minneapolis,249.00,Economy
+FL1553,Skylo,2026-07-22,07:30,2026-07-22,08:30,ORD,Chicago,MSP,Minneapolis,339.00,Economy
+FL1554,Firefly Air,2026-05-25,07:15,2026-05-25,08:30,SLC,Salt Lake City,DEN,Denver,289.00,Economy
+FL1555,Firefly Air,2026-07-14,14:00,2026-07-14,15:15,SLC,Salt Lake City,DEN,Denver,319.99,Business
+FL1556,Starling Air,2026-06-10,08:30,2026-06-10,11:00,SRQ,Sarasota,CID,Cedar Rapids,449.00,Economy
+FL1557,Zephyr Air,2026-07-18,15:00,2026-07-18,17:30,SRQ,Sarasota,CID,Cedar Rapids,529.99,Economy
+FL1558,Crosswind Air,2026-07-03,07:00,2026-07-03,11:30,MSO,Missoula,GSP,Greenville,249.00,Economy
+FL1559,Mountain Crest Air,2026-07-03,14:30,2026-07-03,19:00,MSO,Missoula,GSP,Greenville,259.50,Economy
+FL1560,AeroVista,2026-07-18,08:00,2026-07-18,12:30,EYW,Key West,SAT,San Antonio,589.00,Economy
+FL1561,SilverJet Airlines,2026-07-18,15:45,2026-07-18,20:15,EYW,Key West,SAT,San Antonio,749.00,Business
+FL1562,Redwood Air,2026-05-08,09:00,2026-05-08,14:30,PDX,Portland,CID,Cedar Rapids,589.00,Economy
+FL1563,Redwood Air,2026-07-25,13:15,2026-07-25,18:45,PDX,Portland,CID,Cedar Rapids,699.50,Business
+FL1564,SilverJet Airlines,2026-04-25,08:30,2026-04-25,16:45,KOA,Kona,MSY,New Orleans,589.00,Economy
+FL1565,SilverJet Airlines,2026-04-25,15:00,2026-04-25,23:15,KOA,Kona,MSY,New Orleans,629.00,Business
+FL1566,Coastal Breeze Airlines,2026-05-20,07:00,2026-05-20,13:30,JFK,New York,LAX,Los Angeles,649.00,Economy
+FL1567,Coastal Breeze Airlines,2026-08-05,14:00,2026-08-05,20:30,JFK,New York,LAX,Los Angeles,679.99,Economy
+FL1568,CloudNine Air,2026-07-15,09:30,2026-07-15,11:15,LAX,Los Angeles,PHX,Phoenix,149.00,Economy
+FL1569,CloudNine Air,2026-07-15,16:00,2026-07-15,17:45,LAX,Los Angeles,PHX,Phoenix,169.50,Business
+FL1570,Nimbus Airlines,2026-06-15,09:00,2026-06-15,13:30,VPS,Destin,MDT,Harrisburg,489.00,Economy
+FL1571,Prairie Sky,2026-07-20,14:15,2026-07-20,18:45,ECP,Destin,MDT,Harrisburg,519.99,Economy
+FL1572,Prairie Sky,2026-07-30,08:00,2026-07-30,11:15,SEA,Seattle,DEN,Denver,549.00,Economy
+FL1573,AeroOne,2026-07-30,15:30,2026-07-30,18:45,SEA,Seattle,DEN,Denver,589.99,Economy
+FL1574,Strato,2026-04-14,07:30,2026-04-14,13:45,SMF,Sacramento,SAV,Savannah,489.00,Economy
+FL1575,Moonbeam Airlines,2026-04-14,14:00,2026-04-14,20:15,SMF,Sacramento,SAV,Savannah,519.50,Business
+FL1576,Northstar Air,2026-05-05,08:00,2026-05-05,11:30,DEN,Denver,DCA,Washington,299.00,Economy
+FL1577,Summit Air Group,2026-06-14,13:45,2026-06-14,17:15,DEN,Denver,DCA,Washington,329.99,Economy
+FL1578,Jetline,2026-04-18,09:15,2026-04-18,11:45,ATL,Atlanta,BOS,Boston,279.00,Economy
+FL1579,AirNova,2026-06-30,14:30,2026-06-30,17:00,ATL,Atlanta,BOS,Boston,309.50,Economy
+FL1580,Winglet,2026-05-25,07:00,2026-05-25,08:45,MCO,Orlando,CHS,Charleston,189.99,Economy
+FL1581,Blue Horizon Airlines,2026-07-12,12:30,2026-07-12,14:15,MCO,Orlando,CHS,Charleston,219.00,Economy
+FL1582,SunTrail Airlines,2026-06-05,08:30,2026-06-05,11:00,PHX,Phoenix,SFO,San Francisco,249.00,Economy
+FL1583,Velocity Air,2026-07-28,15:00,2026-07-28,17:30,PHX,Phoenix,SFO,San Francisco,279.99,Economy
+FL1584,Comet Airlines,2026-05-10,07:15,2026-05-10,10:30,MCI,Kansas City,DEN,Denver,219.00,Economy
+FL1585,HorizonLink,2026-08-01,13:00,2026-08-01,16:15,MCI,Kansas City,DEN,Denver,249.50,Economy
+FL1586,Skylark Airways,2026-06-22,08:45,2026-06-22,10:30,STL,St. Louis,BOS,Boston,359.00,Economy
+FL1587,Aurora Jet,2026-07-15,14:30,2026-07-15,16:15,STL,St. Louis,BOS,Boston,389.99,Business
+FL1588,Gulfway Airlines,2026-05-30,09:00,2026-05-30,11:30,MSY,New Orleans,ATL,Atlanta,189.00,Economy
+FL1589,Firefly Air,2026-08-10,15:45,2026-08-10,18:15,MSY,New Orleans,ATL,Atlanta,209.50,Economy
+FL1590,Atlas Wing,2026-07-04,07:30,2026-07-04,09:15,LAS,Las Vegas,SFO,San Francisco,149.99,Economy
+FL1591,AltitudeX,2026-08-12,13:00,2026-08-12,14:45,LAS,Las Vegas,SFO,San Francisco,169.00,Economy
+FL1592,Comet Airlines,2026-06-28,08:00,2026-06-28,10:45,SLC,Salt Lake City,LAX,Los Angeles,219.00,Economy
+FL1593,Zephyr Air,2026-08-15,14:30,2026-08-15,17:15,SLC,Salt Lake City,LAX,Los Angeles,249.99,Economy
+FL1594,Heartland Air,2026-05-23,10:00,2026-05-23,11:15,STL,St. Louis,MDW,Chicago,199.00,Economy

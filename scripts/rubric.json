@@ -1,0 +1,22 @@
+{
+  "helpfulness": {
+    "description": "The assistant provides relevant, accurate, and actionable responses that address the user's needs.",
+    "scale": {
+      "1": "Unhelpful — responses are irrelevant, inaccurate, or fail to address the user's needs.",
+      "2": "Slightly helpful — partially addresses the user's needs but misses key points or contains inaccuracies.",
+      "3": "Moderately helpful — addresses the user's needs adequately but lacks depth or misses some details.",
+      "4": "Very helpful — responses are relevant, accurate, and actionable with minor gaps.",
+      "5": "Fully helpful — responses are highly relevant, accurate, and directly actionable; fully satisfies the user's needs."
+    }
+  },
+  "coherence": {
+    "description": "The conversation flows logically with consistent context maintained throughout the interaction.",
+    "scale": {
+      "1": "Incoherent — the conversation is disjointed, contradicts itself, or loses context repeatedly.",
+      "2": "Slightly coherent — some logical flow but notable gaps, contradictions, or context loss.",
+      "3": "Moderately coherent — generally logical flow with occasional inconsistencies or minor context loss.",
+      "4": "Very coherent — the conversation flows well with consistent context and only trivial inconsistencies.",
+      "5": "Fully coherent — the conversation is seamlessly logical, maintains full context throughout, and has no contradictions."
+    }
+  }
+}

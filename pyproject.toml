@@ -1,0 +1,28 @@
+[project]
+name = "t1-bench-code"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "openai",
+    "pydantic",
+    "pandas",
+    "numpy",
+    "langchain-core",
+    "langchain-openai",
+    "huggingface_hub",
+]
+
+[build-system]
+requires = ["setuptools>=42"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[dependency-groups]
+dev = [
+    "coverage",
+    "pytest",
+    "ruff",
+    "ipdb",
+]

@@ -1,0 +1,250 @@
+Venue_Name,Venue_Type,Primary_Event_Category,City,State,Neighborhood,Is_Outdoors,Parking_Available,Serves_Food,Serves_Alcohol,Venue_ID,lattitude,longitude
+Crystal Acoustic Wing,Concert Hall,Jazz,Corona,CA,Corona Hills,False,True,True,True,crystal_acoustic_wing_corona,33.86666667,-117.56666667
+Legacy Proscenium,Proscenium Theater,Musical,South Bend,IN,River Park,False,True,False,True,legacy_proscenium_south_bend,29.25,-103.25
+The Gilded Coda,Ballroom,Concert,Quincy,MA,Wollaston,False,True,False,False,the_gilded_coda_quincy,42.26666667,-71.01444444
+Cool Cat Club,Jazz Club,Jazz,Surprise,AZ,Downtown Surprise,False,False,True,False,cool_cat_club_surprise,33.17,-112.04
+Grand Aperture Theater,Proscenium Theater,Play,Westminster,CO,Bradburn Village,True,False,False,False,grand_aperture_theater_westminster,39.88361111,-105.0625
+The Cultural Spire,Performing Arts Center,Musical,Victorville,CA,Bear Valley,False,True,True,False,the_cultural_spire_victorville,34.53416667,-117.205
+The Core Theater,Black Box Theater,Standup comedy,Cedar Rapids,IA,Downtown Cedar Rapids,False,False,False,False,the_core_theater_cedar_rapids,41.98305556,-91.66861111
+The Artisan Theater,Boutique Theater,Standup comedy,Independence,MO,Downtown Independence,True,False,True,False,the_artisan_theater_independence,39.07833333,-94.41944444
+The Daily Dose of Funny,Comedy Club,Standup comedy,St. Louis,MO,Lafayette Square,True,False,True,False,the_daily_dose_of_funny_st._louis,38.6162,-90.2157
+Crystal Acoustic Wing,Concert Hall,Jazz,Fort Wayne,IN,West Central,True,False,False,True,crystal_acoustic_wing_fort_wayne,41.08888889,-85.16138889
+Tragedy & Triumph House,Opera House,Opera,Cleveland,OH,Tremont,False,True,False,False,tragedy_&_triumph_house_cleveland,41.49916667,-81.69472222
+The Silverline Opera Annex,Opera House,Ballet,Tacoma,WA,North End,True,False,False,False,the_silverline_opera_annex_tacoma,47.24583333,-122.45944444
+Masterpiece Stage,Proscenium Theater,Musical,Woodbridge,NJ,Woodbridge Township,True,True,True,True,masterpiece_stage_woodbridge,40.556666,-74.299213
+Quietude Lounge,Intimate Lounge,Jazz,McKinney,TX,Adriatica,False,False,False,False,quietude_lounge_mckinney,33.19722222,-96.63972222
+The Shadow Box,Black Box Theater,Standup comedy,Jersey City,NJ,Newport,True,True,True,True,the_shadow_box_jersey_city,40.729698,-74.03635
+The Coda Center,Concert Hall,Concert,West Valley City,UT,Downtown West Valley City,False,False,False,True,the_coda_center_west_valley_city,40.68916667,-111.99388889
+Foundation Arts Hall,Performing Arts Center,Musical,Palm Bay,FL,Malabar,False,True,False,False,foundation_arts_hall_palm_bay,27.99792222,-80.67000833
+Harmonious House,Lyric Theater,Opera,Philadelphia,PA,University City,False,False,True,True,harmonious_house_philadelphia,39.95277778,-75.16361111
+The Silhouette Theater,Proscenium Theater,Play,Miramar,FL,Miramar Town Center,False,False,True,True,the_silhouette_theater_miramar,25.97888889,-80.2825
+Aura Opera House,Opera House,Ballet,Waterbury,CT,Bucks Hill,True,True,False,False,aura_opera_house_waterbury,41.55611111,-73.04138889
+High Court Arts,Grand Palace,Musical,Wichita,KS,Old Town,False,False,False,True,high_court_arts_wichita,37.68888889,-97.33611111
+Liberty Arts Hub,Performing Arts Center,Ballet,Winston-Salem,NC,Old Salem,False,True,False,True,liberty_arts_hub_winston-salem,36.0872,-80.2422
+Starlight Opera,Opera House,Ballet,Pomona,CA,Downtown Pomona,True,True,True,False,starlight_opera_pomona,34.06083333,-117.75583333
+Nebula Event Grounds,Multipurpose Stadium,Circus show,San Bernardino,CA,Del Rosa,False,False,True,False,nebula_event_grounds_san_bernardino,34.14666667,-117.24361111
+The Iron Mask Theater,Proscenium Theater,Musical,Dayton,OH,West Carrollton,True,True,False,False,the_iron_mask_theater_dayton,39.66805556,-84.24722222
+Horizon View Stadium,Stadium,Concert,Fort Worth,TX,Cultural District,True,True,False,True,horizon_view_stadium_fort_worth,32.75638889,-97.3325
+Intimate Imagery,Boutique Theater,Standup comedy,Toledo,OH,Sylvania,True,True,True,False,intimate_imagery_toledo,41.65277778,-83.53777778
+The Velvet Aria,Opera House,Opera,Fayetteville,AR,Dickson Street,True,True,False,False,the_velvet_aria_fayetteville,36.06638889,-94.16444444
+The Blue Note Basement,Jazz Club,Jazz,Aurora,IL,Downtown Aurora,True,True,False,False,the_blue_note_basement_aurora,41.76388889,-88.29
+The Anthem Theater,Lyric Theater,Opera,Norfolk,VA,Larchmont,True,False,False,False,the_anthem_theater_norfolk,36.84694444,-76.28527778
+Whisper Lounge,Intimate Lounge,Jazz,Independence,MO,Downtown Independence,False,True,False,True,whisper_lounge_independence,39.07833333,-94.41944444
+Poetry in Motion Theater,Lyric Theater,Opera,Cambridge,MA,Harvard Square,True,True,True,False,poetry_in_motion_theater_cambridge,42.37444444,-71.11694444
+Moonlight Waltz Hall,Ballroom,Concert,Richmond,VA,Downtown Richmond,False,True,True,False,moonlight_waltz_hall_richmond,37.54083333,-77.43666667
+Dark Room Dramatics,Black Box Theater,Play,Palmdale,CA,Anaverde,True,True,True,True,dark_room_dramatics_palmdale,34.58111111,-118.10055556
+Crown Jewel Theater,Grand Palace,Musical,Corpus Christi,TX,North Beach,True,True,True,True,crown_jewel_theater_corpus_christi,27.74277778,-97.40194444
+Heritage Hall,Ballroom,Concert,West Valley City,UT,Valley Fair,True,False,True,False,heritage_hall_west_valley_city,40.68916667,-111.99388889
+The Colossal Core,Arena,Concert,North Las Vegas,NV,Valley Vista,False,True,True,False,the_colossal_core_north_las_vegas,36.1125,-115.25027778
+Harmonious House,Lyric Theater,Opera,Birmingham,AL,Avondale,True,True,False,False,harmonious_house_birmingham,33.52400833,-86.77804444
+The Serene Suite,Intimate Lounge,Jazz,Hampton,VA,Fox Hill,True,True,False,False,the_serene_suite_hampton,37.02638889,-76.34444444
+The Solar Flare Stadium,Stadium,Concert,Victorville,CA,Downtown Victorville,False,False,True,True,the_solar_flare_stadium_victorville,34.5375,-117.29333333
+The Minimalist Suite,Black Box Theater,Standup comedy,Frisco,TX,Legacy West,True,True,False,False,the_minimalist_suite_frisco,33.1239,-96.7956
+Inkwell Theater,Black Box Theater,Standup comedy,Simi Valley,CA,Downtown Simi Valley,True,True,False,True,inkwell_theater_simi_valley,34.27027778,-118.69527778
+The Hollow Oak Hall,Concert Hall,Jazz,Midland,TX,North Midland,False,False,False,False,the_hollow_oak_hall_midland,32.0,-102.1
+The Scenic Stage,Proscenium Theater,Play,Everett,WA,Downtown Everett,True,False,True,False,the_scenic_stage_everett,47.97916667,-122.20166667
+Mellow Moods Lounge,Intimate Lounge,Jazz,Carrollton,TX,Creek Valley,False,True,False,False,mellow_moods_lounge_carrollton,33.2,-97.12
+Crestview Amphitheater,Amphitheater,Concert,Reno,NV,Downtown Reno,False,False,True,False,crestview_amphitheater_reno,39.52722222,-119.82194444
+Aura Opera House,Opera House,Ballet,Antioch,CA,Lone Tree,False,True,False,False,aura_opera_house_antioch,38.005,-121.80583333
+The Midnight Parlor,Intimate Lounge,Jazz,Cedar Rapids,IA,Czech Village,True,False,True,True,the_midnight_parlor_cedar_rapids,41.98305556,-91.66861111
+Aura Opera House,Opera House,Ballet,Richmond,VA,The Fan,False,False,False,True,aura_opera_house_richmond,37.5525,-77.46555556
+Third Act Arts Center,Performing Arts Center,Musical,New Orleans,LA,French Quarter,False,False,False,True,third_act_arts_center_new_orleans,29.95861111,-90.065
+The Golden Wing,Proscenium Theater,Musical,Boston,MA,Beacon Hill,False,True,True,True,the_golden_wing_boston,42.3583,-71.0661
+Velvet Frame Playhouse,Proscenium Theater,Play,San Francisco,CA,Fisherman's Wharf,True,False,False,True,velvet_frame_playhouse_san_francisco,37.80833333,-122.41555556
+The Silhouette Theater,Proscenium Theater,Play,Fort Worth,TX,Cultural District,False,False,False,True,the_silhouette_theater_fort_worth,32.75638889,-97.3325
+Golden Stake Circus,Big Top Tent,Circus show,Wichita,KS,Delano,True,True,False,True,golden_stake_circus_wichita,37.68277778,-97.35972222
+Overture Theater,Lyric Theater,Opera,Round Rock,TX,Round Rock West,True,True,True,False,overture_theater_round_rock,30.52694444,-97.66388889
+The Red Drape Theater,Proscenium Theater,Musical,St. Petersburg,FL,Tierra Verde,False,False,False,True,the_red_drape_theater_st._petersburg,27.68138889,-82.72444444
+Cozy Chord Corner,Intimate Lounge,Jazz,Meridian,ID,Meridian Heights,False,True,False,True,cozy_chord_corner_meridian,38.921428,-77.035816
+Serenity Soundstage,Amphitheater,Concert,Springfield,MO,Rountree,False,False,True,False,serenity_soundstage_springfield,37.21527778,-93.29833333
+Skybound Shell,Amphitheater,Concert,Concord,NC,Logan Community,False,False,True,False,skybound_shell_concord,35.433361,-80.582324
+The Kinetic Dome,Arena,Circus show,Frisco,TX,Little Elm,True,False,True,True,the_kinetic_dome_frisco,33.16388889,-96.93027778
+The Creative Quarter,Performing Arts Center,Ballet,Grand Rapids,MI,Heritage Hill,True,True,False,False,the_creative_quarter_grand_rapids,42.96333333,-85.66777778
+Surround Dramatics,Thrust Stage Theater,Play,Arlington,TX,Dalworthington Gardens,False,True,False,False,surround_dramatics_arlington,32.69361111,-97.15666667
+The Premiere Suite,Boutique Theater,Standup comedy,Jurupa Valley,CA,Pedley,False,False,False,True,the_premiere_suite_jurupa_valley,34.0,-117.48333333
+Fable & Frame Theater,Proscenium Theater,Play,Richmond,CA,Point Richmond,True,True,False,False,fable_&_frame_theater_richmond,37.93583333,-122.34777778
+Horizon View Stadium,Stadium,Concert,Columbus,GA,North Columbus,True,True,False,True,horizon_view_stadium_columbus,32.49222222,-84.94027778
+The Midnight Parlor,Intimate Lounge,Jazz,Hartford,CT,Barry Square,True,False,True,False,the_midnight_parlor_hartford,41.7625,-72.67416667
+Starlight Opera,Opera House,Ballet,Laredo,TX,Del Mar,True,True,False,False,starlight_opera_laredo,27.52361111,-99.49027778
+The Horizon Bowl,Multipurpose Stadium,Circus show,Dallas,TX,Bishop Arts District,False,True,False,False,the_horizon_bowl_dallas,32.74895278,-96.82833889
+The Ringmaster’s Reach,Big Top Tent,Circus show,Memphis,TN,Cooper-Young,False,False,False,False,the_ringmaster’s_reach_memphis,35.1175,-89.97111111
+Belladonna Opera House,Opera House,Ballet,Augusta,GA,Downtown Augusta,True,False,True,False,belladonna_opera_house_augusta,33.47,-81.975
+Rhythm & Rye,Jazz Club,Jazz,Meridian,ID,Meridian Heights,True,True,False,False,rhythm_&_rye_meridian,38.921428,-77.035816
+The Smoky Quaver,Jazz Club,Jazz,Denver,CO,Cherry Creek,True,False,False,False,the_smoky_quaver_denver,39.75455556,-105.00822222
+The Brass Flamingo,Jazz Club,Jazz,Waco,TX,Baylor University Area,True,True,True,True,the_brass_flamingo_waco,31.55138889,-97.15583333
+Echo Ridge Arena,Arena,Circus show,Wichita Falls,TX,Weeks Park,True,False,True,True,echo_ridge_arena_wichita_falls,33.91216667,-98.49475
+The Roast Room,Comedy Club,Standup comedy,Centennial,CO,Centennial Hills,False,True,True,True,the_roast_room_centennial,39.97944444,-75.20916667
+Avenue Playhouse,Proscenium Theater,Musical,Fishers,IN,Geist,True,True,True,False,avenue_playhouse_fishers,39.95611111,-86.01277778
+Grand Aperture Theater,Proscenium Theater,Play,Warren,MI,Warren Woods,False,False,True,False,grand_aperture_theater_warren,42.5125,-83.025
+The Cultural Spire,Performing Arts Center,Ballet,Sterling Heights,MI,Macomb Township,True,False,False,True,the_cultural_spire_sterling_heights,42.58027778,-83.03027778
+Crown Jewel Theater,Grand Palace,Musical,Minneapolis,MN,Dinkytown,False,False,True,False,crown_jewel_theater_minneapolis,44.98083333,-93.23611111
+Starlight Opera,Opera House,Ballet,Fresno,CA,Woodward Park,True,True,False,True,starlight_opera_fresno,36.75,-119.76666667
+Inkwell Theater,Black Box Theater,Play,Berkeley,CA,Downtown Berkeley,False,False,False,False,inkwell_theater_berkeley,37.87166667,-122.27277778
+Beacon Arts Pavilion,Performing Arts Center,Ballet,Glendale,CA,Glendale Galleria,False,True,True,False,beacon_arts_pavilion_glendale,34.14611111,-118.255
+Wildflower Pavilion,Amphitheater,Concert,Columbia,SC,Five Points,True,True,False,True,wildflower_pavilion_columbia,34.00055556,-81.03472222
+Swing Street Station,Jazz Club,Standup comedy,Conroe,TX,Grand Central Park,False,False,True,False,swing_street_station_conroe,29.76277778,-95.38305556
+The Spectrum Center,Performing Arts Center,Ballet,Baltimore,MD,Fell's Point,False,True,True,False,the_spectrum_center_baltimore,39.28305556,-76.59277778
+The Zenith Ring,Arena,Concert,Pembroke Pines,FL,Pembroke Falls,False,True,True,False,the_zenith_ring_pembroke_pines,26.0125,-80.31361111
+The Songsmith Theater,Lyric Theater,Opera,Madison,WI,Maple Bluff,False,True,False,True,the_songsmith_theater_madison,43.11083333,-89.36833333
+Opus One House,Opera House,Opera,Thornton,CO,North Thornton,True,False,True,False,opus_one_house_thornton,39.90305556,-104.95444444
+Echo Ridge Arena,Arena,Circus show,Columbus,OH,German Village,True,False,True,False,echo_ridge_arena_columbus,39.96222222,-83.00055556
+The Indigo Stage,Black Box Theater,Play,Providence,RI,Downtown Providence,False,False,True,True,the_indigo_stage_providence,41.82361111,-71.42222222
+North Star Arena,Stadium,Concert,Omaha,NE,Old Market,False,True,False,True,north_star_arena_omaha,41.25555556,-95.93055556
+Wildflower Pavilion,Amphitheater,Concert,Plano,TX,Russell Creek,True,False,True,True,wildflower_pavilion_plano,33.05027778,-96.69888889
+The Lyric Lane,Lyric Theater,Opera,Nashville,TN,12 South,False,True,True,True,the_lyric_lane_nashville,36.16222222,-86.77444444
+The Cultural Spire,Performing Arts Center,Ballet,McKinney,TX,Downtown McKinney,False,False,False,True,the_cultural_spire_mckinney,33.19722222,-96.63972222
+The Smoky Quaver,Jazz Club,Jazz,Austin,TX,Downtown Austin,False,True,False,False,the_smoky_quaver_austin,30.271,-97.743
+Belladonna Opera House,Opera House,Ballet,Spokane Valley,WA,Mirabeau Park,False,False,True,True,belladonna_opera_house_spokane_valley,47.63055556,-117.26166667
+Unity Arts Complex,Performing Arts Center,Musical,Ventura,CA,Ventura Keys,False,False,False,True,unity_arts_complex_ventura,34.275,-119.22777778
+Opus One House,Opera House,Ballet,Bridgeport,CT,Black Rock,True,False,False,False,opus_one_house_bridgeport,41.15861111,-73.22527778
+Fable & Frame Theater,Proscenium Theater,Play,Berkeley,CA,Downtown Berkeley,True,False,True,False,fable_&_frame_theater_berkeley,37.87166667,-122.27277778
+Inkwell Theater,Black Box Theater,Play,Syracuse,NY,Armory Square,False,True,True,True,inkwell_theater_syracuse,43.04694444,-76.14444444
+The Velvet Aria,Opera House,Ballet,Hialeah,FL,Opa-locka,False,False,False,True,the_velvet_aria_hialeah,25.90166667,-80.25083333
+Note-Worthy Nightclub,Jazz Club,Jazz,Scottsdale,AZ,Downtown Scottsdale,False,True,False,False,note-worthy_nightclub_scottsdale,33.49305556,-111.92611111
+Laughter Loft,Comedy Club,Standup comedy,Renton,WA,Fairwood,True,True,False,True,laughter_loft_renton,47.44694444,-122.1325
+Ember Glow Pavilion,Amphitheater,Concert,Palmdale,CA,Anaverde,True,False,False,True,ember_glow_pavilion_palmdale,34.58111111,-118.10055556
+Legacy Stadium,Stadium,Concert,Charlotte,NC,Plaza Midwood,True,True,True,True,legacy_stadium_charlotte,35.22722222,-80.84305556
+Surround Dramatics,Thrust Stage Theater,Play,Simi Valley,CA,Wood Ranch,False,False,False,True,surround_dramatics_simi_valley,34.27111111,-118.73944444
+The Silverline Opera Annex,Opera House,Ballet,Centennial,CO,Centennial Hills,True,False,False,False,the_silverline_opera_annex_centennial,39.97944444,-75.20916667
+Titanium Field House,Arena,Concert,Irvine,CA,Business District,True,False,True,True,titanium_field_house_irvine,33.66944444,-117.82305556
+The Open-Air Lyceum,Amphitheater,Concert,Wilmington,NC,Wrightsville Beach,True,True,True,True,the_open-air_lyceum_wilmington,34.21138889,-77.79638889
+The Grand Stand,Stadium,Concert,Newark,NJ,Ironbound,True,True,True,True,the_grand_stand_newark,40.725,-74.16111111
+The Sky-High Tent,Big Top Tent,Circus show,Lee's Summit,MO,Downtown Lee's Summit,False,False,True,True,the_sky-high_tent_lee's_summit,38.91722222,-94.38166667
+Crestline Opera House,Opera House,Opera,Conroe,TX,Woodforest,True,True,False,True,crestline_opera_house_conroe,30.1775,-95.50388889
+The Aristocrat Stage,Grand Palace,Musical,Houston,TX,River Oaks,True,False,True,True,the_aristocrat_stage_houston,29.751,-95.433
+Pure Tone Hall,Concert Hall,Concert,Anaheim,CA,The Anaheim Resort,False,True,False,True,pure_tone_hall_anaheim,33.83611111,-117.88972222
+Liberty Arts Hub,Performing Arts Center,Musical,Pueblo,CO,Beulah,True,False,False,False,liberty_arts_hub_pueblo,38.0722,-104.9664
+Avenue Playhouse,Proscenium Theater,Play,Cincinnati,OH,Mount Adams,True,False,True,True,avenue_playhouse_cincinnati,39.10658333,-84.49961111
+Civic Muse Center,Performing Arts Center,Ballet,Toledo,OH,Old West End,False,False,False,False,civic_muse_center_toledo,41.65277778,-83.53777778
+Dynasty Theater,Grand Palace,Musical,Baton Rouge,LA,University Hills,True,True,True,False,dynasty_theater_baton_rouge,30.4475,-91.17861111
+The Shadow Box,Black Box Theater,Play,Meridian,ID,Downtown Meridian,False,False,True,True,the_shadow_box_meridian,32.37472222,-88.70416667
+Foundation Arts Hall,Performing Arts Center,Ballet,West Palm Beach,FL,Northwood,False,False,False,True,foundation_arts_hall_west_palm_beach,26.70972222,-80.06416667
+Crown Jewel Theater,Grand Palace,Musical,Alexandria,VA,Rosemont,False,True,True,False,crown_jewel_theater_alexandria,38.82027778,-77.05027778
+Visionary Arts Center,Performing Arts Center,Ballet,Miami Gardens,FL,Norland,False,False,False,False,visionary_arts_center_miami_gardens,25.94111111,-80.24527778
+The Luxury Loft,Boutique Theater,Standup comedy,Downey,CA,Columbia,True,False,True,True,the_luxury_loft_downey,33.93805556,-118.13083333
+Velocity Arena,Arena,Circus show,Gresham,OR,Gresham Butte,False,True,True,False,velocity_arena_gresham,45.48277778,-122.43333333
+Atlas Arts Pavilion,Performing Arts Center,Ballet,Aurora,CO,Stanley Marketplace,False,True,True,False,atlas_arts_pavilion_aurora,39.7294,-104.8319
+Resonance Rooms,Concert Hall,Jazz,Paterson,NJ,Downtown Paterson,False,False,False,False,resonance_rooms_paterson,40.914746,-74.162826
+Visionary Arts Center,Performing Arts Center,Musical,Bend,OR,SW Bend,False,False,False,True,visionary_arts_center_bend,42.957761,-94.451144
+Avenue Playhouse,Proscenium Theater,Play,Aurora,CO,Hoffman Heights,False,False,False,False,avenue_playhouse_aurora,39.7294,-104.8319
+The Open-Air Lyceum,Amphitheater,Concert,Thousand Oaks,CA,Newbury Park,True,True,False,True,the_open-air_lyceum_thousand_oaks,34.18417,-118.90972
+Mellow Moods Lounge,Intimate Lounge,Jazz,Fort Wayne,IN,Fort Wayne Historic District,False,True,False,True,mellow_moods_lounge_fort_wayne,41.08888889,-85.16138889
+Carousel Canvas,Big Top Tent,Circus show,Hayward,CA,Glen Eden,False,False,True,True,carousel_canvas_hayward,37.65,-121.91
+Adaptation Arena,Multipurpose Stadium,Circus show,Denver,CO,LoDo,True,True,False,True,adaptation_arena_denver,39.7392,-104.9849
+Soothe & Sip,Intimate Lounge,Jazz,Charleston,SC,Harleston Village,False,False,False,False,soothe_&_sip_charleston,32.7804961,-79.9446713
+Mellow Moods Lounge,Intimate Lounge,Jazz,Warren,MI,Warren Woods,True,False,False,False,mellow_moods_lounge_warren,42.5125,-83.025
+Silver Turf Stadium,Stadium,Concert,Bridgeport,CT,Downtown Bridgeport,False,False,True,False,silver_turf_stadium_bridgeport,41.18638889,-73.19555556
+Swing Street Station,Jazz Club,Jazz,San Diego,CA,Little Italy,False,True,False,True,swing_street_station_san_diego,32.72055556,-117.15444444
+The Lounge at Obsidian,Intimate Lounge,Jazz,Peoria,AZ,Pioneer Park,False,True,False,False,the_lounge_at_obsidian_peoria,33.63055556,-112.36666667
+Adaptation Arena,Multipurpose Stadium,Circus show,Seattle,WA,Capitol Hill,True,False,False,False,adaptation_arena_seattle,47.61666667,-122.31666667
+Gilded Rose Opera,Opera House,Opera,Waterbury,CT,Downtown Waterbury,False,False,True,False,gilded_rose_opera_waterbury,41.55611111,-73.04138889
+The Grand Libretto,Opera House,Ballet,Louisville,KY,Downtown Louisville,False,True,True,False,the_grand_libretto_louisville,38.25611111,-85.75138889
+The Open-Air Lyceum,Amphitheater,Concert,Rio Rancho,NM,Enchanted Hills,True,True,False,True,the_open-air_lyceum_rio_rancho,35.28611111,-106.67055556
+The Sovereign Suite,Grand Palace,Musical,St. Louis,MO,The Hill,True,True,True,True,the_sovereign_suite_st._louis,38.617,-90.278
+Rhythm & Rye,Jazz Club,Standup comedy,Springfield,IL,Enos Park,False,False,False,False,rhythm_&_rye_springfield,39.7975,-89.645
+The Grand Libretto,Opera House,Opera,Newport News,VA,Oyster Point,False,False,True,True,the_grand_libretto_newport_news,37.07083333,-76.48444444
+Iron Pulse Arena,Arena,Circus show,Tampa,FL,Ybor City,True,True,True,False,iron_pulse_arena_tampa,27.96138889,-82.445
+Shift-Style Stadium,Multipurpose Stadium,Circus show,Westminster,CO,Westminster Village,False,True,True,True,shift-style_stadium_westminster,43.06944444,-72.45388889
+The Peninsula Stage,Thrust Stage Theater,Play,Conroe,TX,Woodforest,False,True,True,False,the_peninsula_stage_conroe,30.1775,-95.50388889
+Wildflower Pavilion,Amphitheater,Concert,Antioch,CA,Downtown Antioch,False,False,True,True,wildflower_pavilion_antioch,38.005,-121.80583333
+The Meridian Aria,Opera House,Ballet,Sparks,NV,Spanish Springs,True,True,False,False,the_meridian_aria_sparks,39.55444444,-119.73555556
+The Open-Air Lyceum,Amphitheater,Concert,Lexington,KY,Historic South Hill,True,False,True,True,the_open-air_lyceum_lexington,38.04638889,-84.49694444
+Mellow Moods Lounge,Intimate Lounge,Jazz,Peoria,AZ,Pioneer Park,True,False,False,False,mellow_moods_lounge_peoria,33.63055556,-112.36666667
+The Royal Gala Hall,Ballroom,Concert,Odessa,TX,Village,True,False,False,False,the_royal_gala_hall_odessa,32.0,-102.1
+The Anthem Theater,Lyric Theater,Opera,Reno,NV,Riverside,False,False,True,False,the_anthem_theater_reno,39.52722222,-119.82194444
+Versatile Victory Field,Multipurpose Stadium,Circus show,Columbia,MO,Old Southwest,True,True,False,False,versatile_victory_field_columbia,38.9475,-92.32666667
+The Rhyme Theater,Lyric Theater,Opera,Tulsa,OK,Brookside,True,False,False,False,the_rhyme_theater_tulsa,36.13138889,-95.93722222
+The Dramatic Arch,Proscenium Theater,Play,Orange,CA,Old Towne,False,False,True,False,the_dramatic_arch_orange,33.67,-117.78
+The Regent’s Stage,Grand Palace,Musical,Simi Valley,CA,Downtown Simi Valley,False,False,True,True,the_regent’s_stage_simi_valley,34.27027778,-118.69527778
+The Golden Wing,Proscenium Theater,Play,Salinas,CA,East Salinas,False,True,True,True,the_golden_wing_salinas,36.67777778,-121.65555556
+The Soprano Stage,Opera House,Opera,Nampa,ID,Karcher,True,True,True,False,the_soprano_stage_nampa,43.60138889,-116.52777778
+Couture Theater,Boutique Theater,Standup comedy,Savannah,GA,Wilmington Island,False,True,False,True,couture_theater_savannah,32.00333333,-80.97527778
+The Intimate Angle,Thrust Stage Theater,Play,Springfield,MO,Downtown Springfield,True,True,True,False,the_intimate_angle_springfield,37.21527778,-93.29833333
+The Gravity Dome,Multipurpose Stadium,Circus show,Naperville,IL,Downtown Naperville,True,False,False,False,the_gravity_dome_naperville,41.74826,-88.16585
+The Renaissance Suite,Ballroom,Concert,Menifee,CA,Downtown Menifee,True,False,False,True,the_renaissance_suite_menifee,33.50333333,-117.12361111
+The Whisperwind Amphitheater,Amphitheater,Concert,Syracuse,NY,Downtown Syracuse,True,False,False,False,the_whisperwind_amphitheater_syracuse,43.04694444,-76.14444444
+Silent Stream Symphony,Concert Hall,Jazz,Independence,MO,Downtown Independence,False,True,False,False,silent_stream_symphony_independence,39.07833333,-94.41944444
+Atlas Arts Pavilion,Performing Arts Center,Ballet,Wichita,KS,Old Town,True,False,True,True,atlas_arts_pavilion_wichita,37.68888889,-97.33611111
+The Shadow Box,Black Box Theater,Play,Joliet,IL,East Side,True,True,False,True,the_shadow_box_joliet,41.52972222,-88.07277778
+The Spectrum Center,Performing Arts Center,Musical,Omaha,NE,Dundee-Happy Hollow,False,True,True,False,the_spectrum_center_omaha,41.265034,-95.99038
+Oracle Outdoor Pavilion,Amphitheater,Concert,Bakersfield,CA,Downtown Bakersfield,True,False,False,True,oracle_outdoor_pavilion_bakersfield,35.37333333,-119.01888889
+The Polished Floor,Ballroom,Concert,Quincy,MA,Wollaston,False,False,True,False,the_polished_floor_quincy,42.26666667,-71.01444444
+Void Stage Labs,Black Box Theater,Standup comedy,Albany,NY,Center Square,False,False,True,False,void_stage_labs_albany,42.6,-73.96666667
+Primal Stage,Black Box Theater,Standup comedy,Temecula,CA,Old Town,False,False,False,False,primal_stage_temecula,33.50333333,-117.12361111
+Serenity Soundstage,Amphitheater,Concert,Columbus,OH,German Village,False,False,False,False,serenity_soundstage_columbus,39.96222222,-83.00055556
+Elysian Grandeur,Grand Palace,Musical,Broken Arrow,OK,Broken Arrow Downtown,False,False,True,False,elysian_grandeur_broken_arrow,36.03638889,-95.78361111
+The Smoky Quaver,Jazz Club,Standup comedy,Hillsboro,OR,Amberglen,False,True,True,False,the_smoky_quaver_hillsboro,45.52722222,-122.93611111
+The Rhyme Theater,Lyric Theater,Opera,Salem,OR,Faye Wright,True,False,True,True,the_rhyme_theater_salem,44.89181,-123.0474
+The Soprano Stage,Opera House,Opera,Antioch,CA,Lone Tree,False,False,True,False,the_soprano_stage_antioch,38.005,-121.80583333
+Note-Worthy Nightclub,Jazz Club,Standup comedy,Clearwater,FL,Clearwater Beach,True,True,False,False,note-worthy_nightclub_clearwater,27.979931,-82.827232
+Inkwell Theater,Black Box Theater,Play,Sugar Land,TX,First Colony,False,True,False,True,inkwell_theater_sugar_land,29.59944444,-95.61416667
+Delta Stage,Thrust Stage Theater,Play,McAllen,TX,North McAllen,True,True,True,True,delta_stage_mcallen,26.21638889,-98.23638889
+The Satin Sax,Jazz Club,Jazz,Pembroke Pines,FL,Pembroke Falls,False,False,False,True,the_satin_sax_pembroke_pines,26.0125,-80.31361111
+The Unseen Theater,Black Box Theater,Standup comedy,Clearwater,FL,Downtown Clearwater,False,False,False,False,the_unseen_theater_clearwater,27.97361111,-82.76416667
+Belladonna Opera House,Opera House,Opera,Lynn,MA,Lynn Shore Drive,False,False,False,True,belladonna_opera_house_lynn,42.46666667,-70.95
+The Aristocrat Stage,Grand Palace,Musical,West Covina,CA,Vincent,False,False,True,False,the_aristocrat_stage_west_covina,34.09166667,-117.87916667
+The Whisperwind Amphitheater,Amphitheater,Concert,Carrollton,TX,Creek Valley,True,True,True,False,the_whisperwind_amphitheater_carrollton,33.2,-97.12
+Last Laugh Lounge,Comedy Club,Standup comedy,Seattle,WA,Ballard,True,False,True,True,last_laugh_lounge_seattle,47.677,-122.385
+Starlight Opera,Opera House,Ballet,Glendale,CA,Verdugo Woodlands,False,False,False,False,starlight_opera_glendale,34.21666667,-118.28333333
+Groove & Glass,Jazz Club,Jazz,Santa Ana,CA,French Park,False,True,False,False,groove_&_glass_santa_ana,34.42,-118.52
+The Iron Ring Circus,Big Top Tent,Circus show,New Orleans,LA,Marigny,False,True,False,True,the_iron_ring_circus_new_orleans,29.96472222,-90.05527778
+The Aerial Annex,Big Top Tent,Circus show,Woodbridge,NJ,Woodbridge Township,False,False,False,True,the_aerial_annex_woodbridge,40.556666,-74.299213
+Aura Opera House,Opera House,Opera,Jacksonville,FL,Downtown Jacksonville,True,False,False,True,aura_opera_house_jacksonville,30.33694444,-81.66138889
+Nova Strike Arena,Arena,Concert,Escondido,CA,Downtown Escondido,True,True,False,False,nova_strike_arena_escondido,33.12472222,-117.08083333
+The Citadel Palace,Grand Palace,Musical,Honolulu,HI,Kaka'ako,True,False,False,False,the_citadel_palace_honolulu,21.30694444,-157.85833333
+Legacy Proscenium,Proscenium Theater,Musical,Cape Coral,FL,Downtown Cape Coral,False,False,False,False,legacy_proscenium_cape_coral,26.63972222,-81.9825
+Legacy Proscenium,Proscenium Theater,Play,Dayton,OH,Downtown Dayton,False,True,True,True,legacy_proscenium_dayton,39.75944444,-84.19166667
+The Soprano Stage,Opera House,Ballet,Worcester,MA,Union Hill,False,False,True,True,the_soprano_stage_worcester,42.27138889,-71.79888889
+Crestline Opera House,Opera House,Opera,Miramar,FL,Sunset Lakes,False,False,True,True,crestline_opera_house_miramar,25.97888889,-80.2825
+The Obsidian Lyric House,Opera House,Ballet,Gresham,OR,Kelly Creek,True,False,True,False,the_obsidian_lyric_house_gresham,45.48277778,-122.43333333
+The Lounge at Obsidian,Intimate Lounge,Jazz,Conroe,TX,Downtown Conroe,True,True,False,False,the_lounge_at_obsidian_conroe,30.31611111,-95.45888889
+Echo Ridge Arena,Arena,Circus show,Durham,NC,Trinity Park,True,False,False,True,echo_ridge_arena_durham,35.97861111,-78.9
+Monologue Square,Black Box Theater,Standup comedy,South Bend,IN,River Park,False,False,False,True,monologue_square_south_bend,29.25,-103.25
+Unity Arts Complex,Performing Arts Center,Ballet,Springfield,MO,Park Central Square,False,True,True,False,unity_arts_complex_springfield,37.21527778,-93.29833333
+Unity Arts Complex,Performing Arts Center,Ballet,New York,NY,The Bronx,False,False,False,True,unity_arts_complex_new_york,40.83722222,-73.88611111
+The Obsidian Bowl,Arena,Concert,Rialto,CA,Downtown Rialto,False,False,True,True,the_obsidian_bowl_rialto,34.11138889,-117.3825
+Harmonious House,Lyric Theater,Opera,Rochester,NY,Upper Monroe,True,True,False,False,harmonious_house_rochester,43.16555556,-77.61611111
+The Cultural Spire,Performing Arts Center,Ballet,Visalia,CA,Southwest Visalia,False,True,True,True,the_cultural_spire_visalia,36.33027778,-119.2925
+The Ivory Atrium,Concert Hall,Jazz,Elizabeth,NJ,Bayway,True,True,False,False,the_ivory_atrium_elizabeth,40.663,-74.214
+The Vanguard Black Box,Black Box Theater,Standup comedy,Wilmington,NC,Carolina Beach,False,True,False,False,the_vanguard_black_box_wilmington,34.03972222,-77.89611111
+Velocity Arena,Arena,Concert,Chattanooga,TN,North Shore,True,False,False,True,velocity_arena_chattanooga,35.04555556,-85.26722222
+Curtain Call Commons,Proscenium Theater,Play,Cambridge,MA,Harvard Square,True,True,True,False,curtain_call_commons_cambridge,42.37444444,-71.11694444
+Foundation Arts Hall,Performing Arts Center,Musical,Phoenix,AZ,Arcadia,True,False,True,False,foundation_arts_hall_phoenix,33.44833333,-112.07388889
+Aura Opera House,Opera House,Ballet,Colorado Springs,CO,Briargate,False,False,True,False,aura_opera_house_colorado_springs,38.83388889,-104.82527778
+Thunderstone Arena,Arena,Concert,Pompano Beach,FL,Downtown Pompano Beach,False,False,True,True,thunderstone_arena_pompano_beach,26.23472222,-80.12555556
+The Bastion,Arena,Circus show,Fargo,ND,North Fargo,False,False,False,True,the_bastion_fargo,46.87333333,-96.82722222
+The Diva’s Atrium,Opera House,Ballet,Chico,CA,South Campus,False,True,True,False,the_diva’s_atrium_chico,39.74,-121.83555556
+The Cultural Spire,Performing Arts Center,Musical,Amarillo,TX,San Jacinto,True,True,True,False,the_cultural_spire_amarillo,35.19916667,-101.84527778
+The High-Wire Hub,Big Top Tent,Circus show,Quincy,MA,Adams Shore,False,True,True,False,the_high-wire_hub_quincy,42.25,-71.0
+Monarch’s Playhouse,Grand Palace,Musical,Minneapolis,MN,Dinkytown,False,False,False,False,monarch’s_playhouse_minneapolis,44.98083333,-93.23611111
+Witticism Works,Comedy Club,Standup comedy,Knoxville,TN,Old City,False,False,False,False,witticism_works_knoxville,35.9617,-83.9232
+Legacy Proscenium,Proscenium Theater,Play,College Station,TX,Downtown College Station,False,True,False,True,legacy_proscenium_college_station,30.60138889,-96.31444444
+Skybound Shell,Amphitheater,Concert,Olathe,KS,Downtown Olathe,False,False,True,True,skybound_shell_olathe,38.86666667,-94.86666667
+Mellow Moods Lounge,Intimate Lounge,Jazz,Evansville,IN,Riverview,False,True,False,False,mellow_moods_lounge_evansville,37.97166667,-87.57291667
+Chorus House,Lyric Theater,Opera,Rancho Cucamonga,CA,North Rancho Cucamonga,True,True,True,False,chorus_house_rancho_cucamonga,34.106683,-117.6107
+Palace of the Muse,Grand Palace,Musical,Knoxville,TN,Downtown Knoxville,False,False,True,True,palace_of_the_muse_knoxville,35.9617,-83.9232
+The Lyric Loft,Lyric Theater,Opera,St. Petersburg,FL,Snell Isle,True,True,False,True,the_lyric_loft_st._petersburg,27.79621,-82.62024
+The Iron Ring Circus,Big Top Tent,Circus show,Cleveland,OH,Tremont,False,True,True,True,the_iron_ring_circus_cleveland,41.49916667,-81.69472222
+Aria Assembly,Concert Hall,Concert,Chicago,IL,Bucktown,False,False,False,False,aria_assembly_chicago,41.9,-87.68
+The Omni-Venue,Multipurpose Stadium,Circus show,Goodyear,AZ,Sundance,True,False,False,False,the_omni-venue_goodyear,33.37055556,-112.59083333
+The Red Drape Theater,Proscenium Theater,Play,Riverside,CA,Downtown Riverside,False,False,False,True,the_red_drape_theater_riverside,33.94805556,-117.39611111
+Vibration Vault,Concert Hall,Concert,Davie,FL,Hollywood Lakes,True,True,True,False,vibration_vault_davie,26.193535,-80.476683
+The Soliloquy Suite,Performing Arts Center,Ballet,Philadelphia,PA,Fishtown,True,False,True,True,the_soliloquy_suite_philadelphia,39.965,-75.135
+The Indigo Stage,Black Box Theater,Standup comedy,Hampton,VA,Downtown Hampton,True,False,True,True,the_indigo_stage_hampton,37.02638889,-76.34444444
+Atlas Arts Pavilion,Performing Arts Center,Ballet,Pompano Beach,FL,Downtown Pompano Beach,True,False,False,False,atlas_arts_pavilion_pompano_beach,26.23472222,-80.12555556
+The Golden Wing,Proscenium Theater,Musical,Columbus,OH,German Village,False,True,True,False,the_golden_wing_columbus,39.96222222,-83.00055556
+The Narrative Loft,Black Box Theater,Play,Virginia Beach,VA,Oceanfront,False,False,False,True,the_narrative_loft_virginia_beach,36.85,-75.97777778
+The Improvisation Lab,Jazz Club,Standup comedy,Fort Worth,TX,Downtown Fort Worth,True,False,False,False,the_improvisation_lab_fort_worth,32.89694444,-97.03805556
+The Polished Floor,Ballroom,Concert,Springfield,MO,Park Central Square,False,True,False,True,the_polished_floor_springfield,37.21527778,-93.29833333
+Nebula Event Grounds,Multipurpose Stadium,Circus show,Gainesville,FL,University Heights,True,False,True,False,nebula_event_grounds_gainesville,29.78722222,-82.03305556
+Unity Arts Complex,Performing Arts Center,Musical,Arlington,TX,Downtown Arlington,False,False,True,True,unity_arts_complex_arlington,32.705,-97.12277778
+Pinnacle Park,Stadium,Concert,Lewisville,TX,Vista Ridge,False,True,False,False,pinnacle_park_lewisville,33.03833333,-97.00611111
+The Brass Flamingo,Jazz Club,Standup comedy,Eugene,OR,Downtown Eugene,True,True,True,False,the_brass_flamingo_eugene,44.05638889,-123.1175
+Poetry in Motion Theater,Lyric Theater,Opera,Boulder,CO,Mapleton Hill,False,True,True,True,poetry_in_motion_theater_boulder,40.05972222,-105.41888889
+Quietude Lounge,Intimate Lounge,Jazz,Warren,MI,Downtown Warren,True,False,False,False,quietude_lounge_warren,42.5125,-83.025
+The Smoky Quaver,Jazz Club,Jazz,Springfield,MA,Forest Park,True,True,True,True,the_smoky_quaver_springfield,42.07502778,-72.5685
+The Royal Gala Hall,Ballroom,Concert,Sterling Heights,MI,Utica,False,True,False,False,the_royal_gala_hall_sterling_heights,42.58027778,-83.03027778
+The Marble Monarch,Grand Palace,Musical,Spokane,WA,South Perry,True,False,True,False,the_marble_monarch_spokane,47.65888889,-117.425
+Starlight Opera,Opera House,Opera,Westminster,CO,Westminster Village,False,True,False,False,starlight_opera_westminster,43.06944444,-72.45388889
+Jester’s Junction,Comedy Club,Standup comedy,Fort Worth,TX,Downtown Fort Worth,False,False,True,False,jester’s_junction_fort_worth,32.89694444,-97.03805556
+The Aerial Annex,Big Top Tent,Circus show,San Antonio,TX,King William,True,True,False,False,the_aerial_annex_san_antonio,29.425,-98.49388889
